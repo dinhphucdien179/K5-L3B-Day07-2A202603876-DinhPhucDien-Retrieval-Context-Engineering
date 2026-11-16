@@ -1,0 +1,209 @@
+[
+  {
+    "query_id": "d01",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Minimum standard đúng nhưng thay across time bằng across contexts vì citation cắt cuối; chưa đủ tiêu chí chuỗi thời gian."
+  },
+  {
+    "query_id": "d02",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ recall 12 tháng và pre-COVID 2019 trong phỏng vấn 2020; citations bổ sung."
+  },
+  {
+    "query_id": "d03",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Lỗi định dạng citation sau một lượt sửa, không có kết quả hợp lệ; giữ riêng, không loại khỏi bảng đếm lỗi."
+  },
+  {
+    "query_id": "d04",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ Central Highlands và Midlands/Northern Mountains; cả hai citation liên quan highest/slow reduction."
+  },
+  {
+    "query_id": "d05",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng sáu vùng rộng và sample nhỏ so với Census; hai citation trực tiếp."
+  },
+  {
+    "query_id": "d06",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng survey và census, cite trực tiếp."
+  },
+  {
+    "query_id": "d07",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Có tripled nhưng thiếu 7.3/22.6 triệu và khoảng thời gian trong citation bị cắt. Trả lời phần hướng và hệ số, chưa đủ định lượng."
+  },
+  {
+    "query_id": "d08",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng không phải government definitions, mục đích welfare distribution, so sánh MOLISA; citations ghép đủ."
+  },
+  {
+    "query_id": "d09",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ dưới 2%,2016–18 so với 2010–12."
+  },
+  {
+    "query_id": "d10",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 0,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Chỉ nêu better jobs/mobility rates, không có exiting agriculture hoặc formal contract. Citation đúng các thống kê chung nhưng không trả lời câu hỏi."
+  },
+  {
+    "query_id": "d11",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng Census 2009 vs 2019 làm đứt panel 2020."
+  },
+  {
+    "query_id": "d12",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ hiện tại/tương lai và poverty traps, citations giữ các mệnh đề chính."
+  },
+  {
+    "query_id": "d13",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ income growth bottom 40 thay average/top, cite rõ định nghĩa."
+  },
+  {
+    "query_id": "d14",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ projection 4.2 → 4.7%, halfpoint, scenario không tăng inequality."
+  },
+  {
+    "query_id": "d15",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng income agriculture ít tăng dù là nguồn lớn nhất; source hỗ trợ."
+  },
+  {
+    "query_id": "du01",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ và không thêm số liệu/microdata bịa; so với absence audit toàn corpus 39 trang."
+  },
+  {
+    "query_id": "du02",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ và không thêm số liệu/microdata bịa; so với absence audit toàn corpus 39 trang."
+  }
+]

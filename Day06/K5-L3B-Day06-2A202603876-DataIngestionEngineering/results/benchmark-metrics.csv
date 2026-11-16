@@ -1,0 +1,7 @@
+strategy,split,n,hit1_count,hit3_count,hit1,hit3,chunks,sql_search_seconds,paid_api_cost_usd,trace_path
+A,dev,15,3,4,0.2,0.26666666666666666,459,0.07360585599235492,0,results/20261114T061838.368412Z-evaluate/dev-traces.json
+B,dev,15,2,2,0.13333333333333333,0.13333333333333333,421,0.07466831100464333,0,results/20261114T061838.368412Z-evaluate/dev-traces.json
+C,dev,15,3,3,0.2,0.2,421,0.0679856800034031,0,results/20261114T061838.368412Z-evaluate/dev-traces.json
+A,test,5,2,2,0.4,0.4,459,0.025994671997978003,0,results/20261114T062008.998642Z-evaluate/test-traces.json
+B,test,5,1,1,0.2,0.2,421,0.02392131900523964,0,results/20261114T062008.998642Z-evaluate/test-traces.json
+C,test,5,1,1,0.2,0.2,421,0.022022025999831385,0,results/20261114T062008.998642Z-evaluate/test-traces.json

@@ -1,0 +1,309 @@
+{
+  "selected_at": "2026-11-14T06:07:58.435716+00:00",
+  "api_snapshot": {
+    "url": "https://search.worldbank.org/api/v3/wds?format=json&rows=5&guid=099115004242216918",
+    "content_type": "application/json",
+    "sha256": "1e7ebc57bcabebce563c975761da0478f3ca5b7a564ad822f48bea70e3a222f8",
+    "bytes": 3183,
+    "fetched_at": "2026-11-14T06:07:53.104387+00:00",
+    "etag": "W/\"c6f-QSdVzc7f0W0DxvKoJXkyZmYFmj0\"",
+    "last_modified": null,
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "pdf_snapshot": {
+    "url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+    "content_type": "application/pdf",
+    "sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+    "bytes": 20584558,
+    "fetched_at": "2026-11-14T06:07:54.488195+00:00",
+    "etag": null,
+    "last_modified": "Thu, 12 Nov 2026 14:13:10 GMT",
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "physical_pdf_pages": 232,
+  "selected_pages": [
+    {
+      "physical_page": 45,
+      "printed_page": 25,
+      "chapter": "1",
+      "normalized_characters": 3067,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 46,
+      "printed_page": 26,
+      "chapter": "1",
+      "normalized_characters": 2847,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 47,
+      "printed_page": 27,
+      "chapter": "1",
+      "normalized_characters": 3249,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 49,
+      "printed_page": 29,
+      "chapter": "1",
+      "normalized_characters": 2709,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 50,
+      "printed_page": 30,
+      "chapter": "1",
+      "normalized_characters": 4146,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 51,
+      "printed_page": 31,
+      "chapter": "1",
+      "normalized_characters": 2380,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 52,
+      "printed_page": 32,
+      "chapter": "1",
+      "normalized_characters": 1803,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 54,
+      "printed_page": 34,
+      "chapter": "1",
+      "normalized_characters": 2775,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 55,
+      "printed_page": 35,
+      "chapter": "1",
+      "normalized_characters": 3091,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 56,
+      "printed_page": 36,
+      "chapter": "1",
+      "normalized_characters": 3014,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 57,
+      "printed_page": 37,
+      "chapter": "1",
+      "normalized_characters": 3038,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 58,
+      "printed_page": 38,
+      "chapter": "1",
+      "normalized_characters": 2296,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 59,
+      "printed_page": 39,
+      "chapter": "1",
+      "normalized_characters": 3614,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 60,
+      "printed_page": 40,
+      "chapter": "1",
+      "normalized_characters": 3734,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 61,
+      "printed_page": 41,
+      "chapter": "1",
+      "normalized_characters": 3331,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 62,
+      "printed_page": 42,
+      "chapter": "1",
+      "normalized_characters": 1946,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 63,
+      "printed_page": 43,
+      "chapter": "1",
+      "normalized_characters": 2760,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 64,
+      "printed_page": 44,
+      "chapter": "1",
+      "normalized_characters": 3756,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 65,
+      "printed_page": 45,
+      "chapter": "1",
+      "normalized_characters": 4438,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 75,
+      "printed_page": 55,
+      "chapter": "2",
+      "normalized_characters": 3583,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 76,
+      "printed_page": 56,
+      "chapter": "2",
+      "normalized_characters": 2457,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 77,
+      "printed_page": 57,
+      "chapter": "2",
+      "normalized_characters": 3321,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 78,
+      "printed_page": 58,
+      "chapter": "2",
+      "normalized_characters": 3431,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 79,
+      "printed_page": 59,
+      "chapter": "2",
+      "normalized_characters": 1529,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 80,
+      "printed_page": 60,
+      "chapter": "2",
+      "normalized_characters": 4704,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 81,
+      "printed_page": 61,
+      "chapter": "2",
+      "normalized_characters": 2840,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 82,
+      "printed_page": 62,
+      "chapter": "2",
+      "normalized_characters": 3392,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 83,
+      "printed_page": 63,
+      "chapter": "2",
+      "normalized_characters": 3541,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 84,
+      "printed_page": 64,
+      "chapter": "2",
+      "normalized_characters": 2757,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 85,
+      "printed_page": 65,
+      "chapter": "2",
+      "normalized_characters": 1966,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 86,
+      "printed_page": 66,
+      "chapter": "2",
+      "normalized_characters": 3549,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 87,
+      "printed_page": 67,
+      "chapter": "2",
+      "normalized_characters": 2176,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 89,
+      "printed_page": 69,
+      "chapter": "2",
+      "normalized_characters": 2962,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 91,
+      "printed_page": 71,
+      "chapter": "2",
+      "normalized_characters": 3464,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 92,
+      "printed_page": 72,
+      "chapter": "2",
+      "normalized_characters": 3556,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 93,
+      "printed_page": 73,
+      "chapter": "2",
+      "normalized_characters": 3510,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 94,
+      "printed_page": 74,
+      "chapter": "2",
+      "normalized_characters": 2641,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 95,
+      "printed_page": 75,
+      "chapter": "2",
+      "normalized_characters": 3400,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    },
+    {
+      "physical_page": 96,
+      "printed_page": 76,
+      "chapter": "2",
+      "normalized_characters": 2455,
+      "review": "Main-text page; excluded cover/contents/references and selected figure-only pages."
+    }
+  ],
+  "excluded_in_main_ranges": {
+    "48": "Table-only page",
+    "53": "Map/figure-dominated page",
+    "88": "Figure-dominated page",
+    "90": "Figure-dominated page",
+    "97": "Formula-dominated methodological continuation"
+  },
+  "date_note": "Citation/copyright report year is 2022; API document date is retained separately and is not overwritten."
+}

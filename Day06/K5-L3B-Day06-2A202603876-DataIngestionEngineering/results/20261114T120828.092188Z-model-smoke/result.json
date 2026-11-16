@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "kind": "infrastructure smoke, not corpus benchmark",
+  "model": {
+    "provider": "sentence-transformers",
+    "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+    "dimensions": 384,
+    "max_seq_length": 128,
+    "normalize_embeddings": true,
+    "dtype": "float32",
+    "device": "cpu",
+    "batch_size": 16,
+    "normalization_version": "NFC-paragraphs-code-v2",
+    "sentence_transformers": "5.7.0",
+    "torch": "2.15.0+cpu",
+    "transformers": "5.23.0",
+    "native_threads": 4
+  },
+  "shape": [
+    3,
+    384
+  ],
+  "dtype": "float32",
+  "finite_unit_vectors": true,
+  "truncation_rejected": true,
+  "cache_hits": 6,
+  "cache_misses": 0,
+  "database": {
+    "status": "not_requested"
+  }
+}

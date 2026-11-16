@@ -1,0 +1,3 @@
+# Python 3.12: bonus CLI and offline submission checks.
+# The Day06 embedding stack is installed separately or supplied by Docker.
+python-dotenv==1.2.4

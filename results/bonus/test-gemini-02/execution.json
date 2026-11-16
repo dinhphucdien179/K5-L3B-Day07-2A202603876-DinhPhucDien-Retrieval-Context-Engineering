@@ -1,0 +1,14 @@
+{
+  "split": "test",
+  "workers": 2,
+  "cases_per_trial": 30,
+  "trials": [
+    "layout_vision_image"
+  ],
+  "planned_new_cases": 30,
+  "elapsed_seconds_this_execution": 627.25794065,
+  "status": "complete",
+  "credit_blocked": false,
+  "provider_blocked": false,
+  "remaining_unrun": 0
+}

@@ -1,0 +1,16 @@
+{
+  "reviewed_utc": "2026-11-16T12:03:27.011969+00:00",
+  "reviewer": "Codex: direct original-PDF image inspection; AI-assisted, student verification pending.",
+  "case_id": "bt14",
+  "old_expected_answer": "HIC higher;baselineaboutUS$10,000,HICaboutUS$14,000;GDPpercapita constant2018US$.",
+  "corrected_source_answer": "HIC higher; baseline approximately US$10,000, HIC approximately US$14,000; GDP per capita in 2010 US dollars (price year 2010), not 2018.",
+  "original_physical_page": 157,
+  "region": "Figure5.4 vertical axis GDP per capita (2010 USD); note mentions2018 only for GNI/GDP conversion ratio.",
+  "image": ".cache/bonus/p157-w1600.jpg",
+  "image_sha256": "8c5564e70f68d71936080f52148b91a337a8d6927f4d3f9de84555ca9f901a88",
+  "case_output_exists_at_discovery": false,
+  "agent_output_inspected_before_discovery": false,
+  "frozen_test_unchanged": true,
+  "pipeline_unchanged": true,
+  "policy": "Original source determines grade, as declared in every frozen case. Do not modify question, split, test files, runtime or selection; assess the original source unit and disclose this label erratum separately."
+}

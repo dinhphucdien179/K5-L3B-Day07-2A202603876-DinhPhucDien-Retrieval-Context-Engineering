@@ -1,0 +1,112 @@
+{
+  "selected_utc": "2026-11-16T15:39:52.765920+00:00",
+  "trial": "layout_vision_image",
+  "reason": "Bản sửa giao thức đã hoàn tất và review toàn bộ 18 dev: 15/18 đạt; giữ hai lỗi HTTP429 của tài khoản cũ và một lý do abstention sai. Đây là trial duy nhất đo đủ trên fingerprint v2; chọn theo quy tắc dev đã định, không dựa test. Không suy điểm test từ kết quả dev hay unit tests.",
+  "selection_rule": "Highest strict dev pass fraction, ties lowest measured cost",
+  "model": "gemini-3.5-flash-lite",
+  "client_settings": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "max_output_tokens": 8192,
+    "reasoning_effort": "low",
+    "temperature": 0,
+    "max_retries": 2,
+    "min_interval_seconds": 6.0,
+    "max_inflight": 2
+  },
+  "workers": 2,
+  "code_sha256": {
+    "src/bonus/__init__.py": "465976f7d72178e4fb7c146d3504b4ed0cd4afa79c7bae2becfa365770181b42",
+    "src/bonus/__main__.py": "dc11dc2502c3abfce64f8c5b0f4082338cb10055d92f68cf74524ca554e6f794",
+    "src/bonus/agent.py": "6be19bfb5d5839df2643942c6e92f5047bf9a044562a1644090041aeeec41e6a",
+    "src/bonus/benchmark.py": "f489c1ea3a8e0fa680da6c9aad8a1c56529b34181c74b1528316f8aaac97a36c",
+    "src/bonus/corpus.py": "f4113196d31a9ec96d883cabfa8bf7a1e8a4b1c95427962aef0c02e97b1a0771",
+    "src/bonus/llm.py": "647b971536e05e36be3e72127d752c557bc55f8f5b2d8cd247c23520bc3deea7",
+    "src/bonus/visual.py": "136f33ac53c51270ffce390d67cd3679ea18b74c6bcace78e8a6de1ecc01efc3",
+    "src/day07/llm.py": "ed390934f8dde18376cf0bd38906370d566c62ed13798c7da9c0b4790adab224",
+    "src/day07/retrieval.py": "1d2bc38f7e6915bb7525408449729754e03f92a9ec3b0e0b25753f681ff3a876",
+    "src/day07/agent.py": "e254b76fc2e8887ea5e41efcd7b74aaccc373c6b08c49812d572de25ab23c795",
+    "config/bonus_trials.json": "8952c065db66a74585039eda4c7ae518a24f86746ffe8df35a87fe24fd91223d"
+  },
+  "benchmark_dir": "data/bonus-v2",
+  "freeze_sha256": "7ba6b50f6dbe754f762cbff914fbfff6f3152fea7d48f912b3bcb7560c42c0c8",
+  "dev_summaries": {
+    "layout_vision_image": {
+      "passed": 15,
+      "total": 18,
+      "rate": 0.8333333333333334,
+      "bonus_threshold_met": false,
+      "errors": 2,
+      "groups": {
+        "table": {
+          "passed": 3,
+          "total": 3,
+          "errors": 0,
+          "rate": 1.0
+        },
+        "diagram": {
+          "passed": 3,
+          "total": 3,
+          "errors": 0,
+          "rate": 1.0
+        },
+        "chart": {
+          "passed": 3,
+          "total": 3,
+          "errors": 0,
+          "rate": 1.0
+        },
+        "multi_hop": {
+          "passed": 3,
+          "total": 3,
+          "errors": 0,
+          "rate": 1.0
+        },
+        "text": {
+          "passed": 2,
+          "total": 3,
+          "errors": 1,
+          "rate": 0.6666666666666666
+        },
+        "unanswerable": {
+          "passed": 1,
+          "total": 3,
+          "errors": 1,
+          "rate": 0.3333333333333333
+        }
+      },
+      "api_cost_usd": null,
+      "case_latency_sum_seconds": 616.7447328839966,
+      "prompt_tokens": 228202,
+      "completion_tokens": 4824,
+      "review_policy": "AI-assisted source inspection; student verification pending. Not an independent human review."
+    }
+  },
+  "dev_artifacts_sha256": {
+    "results/bonus/dev-gemini-07/execution.json": "45fc574419b621096ce65eeb48addd3b3c645c6aa6ec1a95b1e75045ced6027d",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd01.json": "5d42503016061da7cbc8bd2347e36511495c597caf1be78a9937f7cbd949be60",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd02.json": "87b731d9493002bf4bbd5ed6462a7a8138898dc12329382801ad5830a44addb8",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd03.json": "526220c4d4f34b74a68e0895c48e77d1c8139aa2375ca2101ce7424db7cbee6a",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd04.json": "10f8ede438de88efd1edebbd91fa615a3c0c3d6a5b94b7d50eb930cc15e63620",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd05.json": "a9fc3886ce05b7a5582e2aee6118347704451d2ab839712b8d75060119ae1749",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd06.json": "826879828c46bb9fb54fc15913e970178d011aee41eccf13ed01cc99dc5f42c7",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd07.json": "2051226c7e7a42cb40d5d61f0fe9c9d7e532583b391908c9dce28bb4aae453a7",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd08.json": "636ab3600367174309f736367f7aadef6097a626b9f0fcdb51813cb9f9498574",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd09.json": "aa7196ed2ad37ae7e1936febde93a250df1c459a2438e7870a1ecb691f177d97",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd10.json": "64822d971ceee55cd32ef615b82327fc2f8dc4fb56f89fd90045d353fc344755",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd11.json": "e24b76e938fb2ff0b84d01b9d99a329bb908df1a1b0faec247ff3240b6ad5d85",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd12.json": "9d4d82ddc2e2d6eb8be0da745f03d052d3eef313eecc59caac1461b9b4e68ac3",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd13.json": "9bc0fce407f2190762969c803fa9feb44947c30c95c031d22cd5a6ae0e26af88",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd14.json": "55deb050b036293318093d3983a5bfa1ccfe54619d5cbd268fe172ed07606109",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd15.json": "8df56b2ebfb6013895fd19ea4adb5fae383d8e1f071ab51f3cd40236213cb290",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd16.json": "6b7f14a330629661577630c019f112d5a00a3755c57af267831c71db710b27c4",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd17.json": "9e1bcad285c2f29e5610214096d03555fe2167f5678bddd61b5f6a1e12c6cb03",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd18.json": "51fa0675fc8a9409a30dd7c5a58668699cc6413c433ee63a1ea411f60817b897",
+    "results/bonus/dev-gemini-07/layout_vision_image/partial-summary.json": "78e998c60a6b4e4c796382b4a927f5a8cb3e89874a0cca00db5af5b6458e5867",
+    "results/bonus/dev-gemini-07/layout_vision_image/reviews.json": "00fdbf7a15a1dff841094133693a74ebb05824a1915f29d0a180d6c71baed85f",
+    "results/bonus/dev-gemini-07/layout_vision_image/reviews.partial.json": "5e39727745663e945ba039dc3dd9178f64635ace4c598ff36837b3bce9393144",
+    "results/bonus/dev-gemini-07/layout_vision_image/reviews.template.json": "8cf08445cb57bc2c75aab3ca09740917715f7c648e40dae035aaa3e490fee336",
+    "results/bonus/dev-gemini-07/layout_vision_image/summary.json": "95076a4b4c9e5695fb571e8e4a43efbb9dc8b7896d9a8afdab26a783bdbeff3b",
+    "results/bonus/dev-gemini-07/run.json": "8559f80068ec6bdac5917eab8a881820ae5884fc372f10adb3bdcff392d26b55"
+  }
+}

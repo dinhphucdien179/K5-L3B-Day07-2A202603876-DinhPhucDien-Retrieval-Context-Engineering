@@ -1,0 +1,64 @@
+{
+  "method": "Post-run comparison of persisted Docker artifacts with the original frozen experiment; no metric, corpus, model or question changes.",
+  "checked_at": "2026-11-14T12:12:56.149777+00:00",
+  "host_platform": "Ubuntu Linux x86_64",
+  "python": "3.12.16",
+  "postgresql": "16.16 (Debian 16.16-1.pgdg12+1)",
+  "pgvector": "0.8.7",
+  "runs": {
+    "preflight": "results/20261114T120821.262681Z-preflight",
+    "validate": "results/20261114T120821.854461Z-validate",
+    "model_smoke": "results/20261114T120828.092188Z-model-smoke",
+    "database_smoke": "results/20261114T120838.881984Z-model-smoke",
+    "ingest": "results/20261114T120901.376681Z-ingest",
+    "dev": "results/20261114T120913.589317Z-evaluate",
+    "test": "results/20261114T120926.998001Z-evaluate"
+  },
+  "tests": {
+    "passed": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "report": "results/docker-tests.xml",
+    "reported_warnings": [
+      "pytest cache directory at /workspace was not writable by the invoking UID; cache_dir subsequently configured as .cache/pytest."
+    ]
+  },
+  "smoke": {
+    "model": "passed",
+    "database": "passed",
+    "truncation_rejected": true,
+    "cosine_tolerance": 1e-05
+  },
+  "chunks": {
+    "A": 459,
+    "B": 421,
+    "C": 421
+  },
+  "embedding_cache": {
+    "hits": 880,
+    "misses": 0
+  },
+  "timing_scope": "Warm embedding cache, 880 hits and zero misses; not a cold model/corpus encoding timing comparison.",
+  "retrieval_comparison": {
+    "dev": {
+      "case_count": 45,
+      "full_trace_objects_equal": true,
+      "ordered_top3_equal": true,
+      "scores_exactly_equal": true,
+      "original_traces": "results/20261114T061838.368412Z-evaluate/dev-traces.json",
+      "docker_traces": "results/20261114T120913.589317Z-evaluate/dev-traces.json",
+      "trace_sha256": "86279c927a87ff0871773b4d2ecec464a4df20629bed47c5fb302cc35b439f27"
+    },
+    "test": {
+      "case_count": 15,
+      "full_trace_objects_equal": true,
+      "ordered_top3_equal": true,
+      "scores_exactly_equal": true,
+      "original_traces": "results/20261114T062008.998642Z-evaluate/test-traces.json",
+      "docker_traces": "results/20261114T120926.998001Z-evaluate/test-traces.json",
+      "trace_sha256": "1304c819a4b828343d70b342197ca7df8d8ae88683d00c5ce5a3d35361542cd8"
+    }
+  },
+  "platform_scope": "Docker Engine on Ubuntu verified; no Windows/macOS device execution claimed."
+}

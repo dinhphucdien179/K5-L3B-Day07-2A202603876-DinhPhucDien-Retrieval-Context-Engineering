@@ -1,0 +1,18 @@
+services:
+  day07:
+    image: day07-day06-pipeline:latest
+    working_dir: /workspace
+    entrypoint: ["python", "-m", "day07"]
+    command: ["check"]
+    environment:
+      PYTHONPATH: /workspace/src
+      DATABASE_URL: postgresql://day6:day6_local_only@postgres:5432/day6_lab
+      HF_HUB_OFFLINE: "1"
+    volumes:
+      - .:/workspace
+    networks:
+      - day06
+networks:
+  day06:
+    external: true
+    name: day07-day06_default

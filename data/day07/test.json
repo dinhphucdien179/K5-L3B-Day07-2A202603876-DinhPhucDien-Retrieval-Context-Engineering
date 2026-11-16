@@ -1,0 +1,110 @@
+[
+  {
+    "id": "t01",
+    "split": "test",
+    "answerable": true,
+    "question": "How did the share of households whose most educated member had lower-secondary education or less change between 2010 and 2020?",
+    "expected_answer": "It fell from half of all households in 2010 to about 44 percent in 2020.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 76,
+        "evidence": "In 2010, in half of all households, the\nmaximum level of education of any member was lower-\nsecondary level or less (Figure 2.3). By 2020, this share fell\nto about 44 percent of all households.",
+        "start": 336,
+        "end": 529
+      }
+    ],
+    "origin": "New Day07 holdout; not a paraphrase of Day06 test q16-q20"
+  },
+  {
+    "id": "t02",
+    "split": "test",
+    "answerable": true,
+    "question": "How do wages paid by foreign companies compare with wages paid by domestic firms in the report?",
+    "expected_answer": "Foreign companies pay double the wages of domestic firms.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 78,
+        "evidence": "Foreign companies also\npay double the wages that domestic firms do.",
+        "start": 1537,
+        "end": 1604
+      }
+    ],
+    "origin": "New Day07 holdout; not a paraphrase of Day06 test q16-q20"
+  },
+  {
+    "id": "t03",
+    "split": "test",
+    "answerable": true,
+    "question": "Approximately what share of households received any pension income in 2020?",
+    "expected_answer": "About 10 percent of households received any form of pension in 2020.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 84,
+        "evidence": "Pension income increased over the last decade, but only about\n10 percent of households received any form of pension in\n2020.",
+        "start": 1602,
+        "end": 1726
+      }
+    ],
+    "origin": "New Day07 holdout; not a paraphrase of Day06 test q16-q20"
+  },
+  {
+    "id": "t04",
+    "split": "test",
+    "answerable": true,
+    "question": "How did the share of households with at least one member receiving wages or salaries change from 2010 to 2020?",
+    "expected_answer": "It rose from 53.3 percent in 2010 to 64.7 percent in 2020.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 86,
+        "evidence": "From 2010 to 2020, the\nshare of households that have at least one member receiving\nwages or salaries has increased from 53.3 percent to 64.7\npercent (Figure 2.15).",
+        "start": 1198,
+        "end": 1361
+      }
+    ],
+    "origin": "New Day07 holdout; not a paraphrase of Day06 test q16-q20"
+  },
+  {
+    "id": "t05",
+    "split": "test",
+    "answerable": true,
+    "question": "What rural and urban poverty rates does the report give for 2010 and 2020?",
+    "expected_answer": "Rural and urban rates were 22 percent and 4.5 percent in 2010, versus 7 percent and 1.5 percent in 2020, respectively.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 93,
+        "evidence": "In 2010, rural and urban poverty rates were 22 and 4.5\npercent respectively, compared to 7 and 1.5 percent in 2020.",
+        "start": 1047,
+        "end": 1162
+      }
+    ],
+    "origin": "New Day07 holdout; not a paraphrase of Day06 test q16-q20"
+  },
+  {
+    "id": "tu01",
+    "split": "test",
+    "answerable": false,
+    "question": "What share of Vietnamese households actually received pension income during calendar year 2026?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The indexed report predates 2026 and contains no 2026 observed pension-coverage result; the string 2026 does not occur in the corpus. Historical 2020 pension coverage cannot answer this question.",
+    "absence_audit": "Scope: all 39 indexed pages, not the complete 232-page PDF. Corpus read/keyword inspection before agent runs; check again when grading."
+  },
+  {
+    "id": "tu02",
+    "split": "test",
+    "answerable": false,
+    "question": "What are the lower and upper limits of the 95 percent confidence interval for the 2020 pension-income household share?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The text gives an approximate 2020 pension share, but no 95 percent confidence interval bounds for that estimate. Page 84 and all other indexed pages lack the requested interval; do not infer it from the sample size or invent bounds.",
+    "absence_audit": "Scope: all 39 indexed pages, not the complete 232-page PDF. Corpus read/keyword inspection before agent runs; check again when grading."
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "command": "prepare-worldbank",
+  "hardware": {
+    "effective_cpus": 16,
+    "native_threads": 4,
+    "cpu_model": "AMD Ryzen 7 4800H with Radeon Graphics",
+    "architecture": "x86_64",
+    "previous_thread_environment": {
+      "OMP_NUM_THREADS": null,
+      "MKL_NUM_THREADS": null,
+      "OPENBLAS_NUM_THREADS": null,
+      "NUMEXPR_NUM_THREADS": null
+    },
+    "budget": {
+      "native_threads": 4,
+      "fetch_workers": 1,
+      "max_inflight": 1,
+      "requests_per_second": 1.0,
+      "batch_size": 16,
+      "rss_limit_mb": 2048,
+      "min_available_ratio": 0.1,
+      "max_response_bytes": 33554432
+    },
+    "python": "3.12.13",
+    "environment_type": "conda",
+    "memory": {
+      "total_bytes": 24578732032,
+      "available_bytes": 12952608768,
+      "rss_bytes": 23347200,
+      "available_ratio": 0.5269844168989881,
+      "process_peak_rss_bytes": 23101440
+    }
+  }
+}

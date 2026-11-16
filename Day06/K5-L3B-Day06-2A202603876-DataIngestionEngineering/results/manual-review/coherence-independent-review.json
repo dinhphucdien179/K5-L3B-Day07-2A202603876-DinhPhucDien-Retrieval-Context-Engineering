@@ -1,0 +1,108 @@
+{
+  "reviewer_type": "ai",
+  "reviewer": "Isolated Codex review agent",
+  "recorded_at": "2026-11-14T06:46:32.772904+00:00",
+  "scope": "Only blind input with chunk/source context read before strategy mapping; no retrieval metrics supplied.",
+  "records": [
+    {
+      "sample_id": "01c611500fd8c37a",
+      "score": 1,
+      "reason_vi": "Vẫn đọc được nhận định về các vùng giảm nghèo chậm, nhưng đầu mất phần chủ ngữ chứa 'districts'; cuối dừng ở 'The consumption', bỏ dở chú thích."
+    },
+    {
+      "sample_id": "1ba52d38ab489426",
+      "score": 1,
+      "reason_vi": "Danh sách Central Highlands, Northwest và Mekong Delta thiếu nhận định giải thích vì sao được liệt kê. Chú thích về đường nghèo và khả năng so sánh giữa các năm vẫn hiểu được."
+    },
+    {
+      "sample_id": "1da314952686517f",
+      "score": 1,
+      "reason_vi": "Số dân tăng từ 7,3 lên 22,6 triệu và nhận định về thay đổi tiêu dùng rõ, nhưng tên nhóm bị cắt thành 'dle class'; cuối còn chữ 'A' mở đầu ý khác."
+    },
+    {
+      "sample_id": "28ca0d43e05c4d16",
+      "score": 1,
+      "reason_vi": "Các hàng IPL và LMIC có nhãn, năm và giá trị nên đọc được quan hệ trong bảng. Tuy nhiên, con số 116,9 nghìn tỷ thiếu đối tượng đầy đủ và hàng UMIC bị cắt trước các giá trị."
+    },
+    {
+      "sample_id": "3fc9c540f75211a1",
+      "score": 1,
+      "reason_vi": "Nhận định về nguy cơ tổn thương kinh tế ở Mekong Delta và đối chiếu với Central Highlands vẫn rõ. Đầu chunk thiếu vùng được nói là có tỷ lệ nghèo cao; cuối chưa trình bày các sức ép cụ thể."
+    },
+    {
+      "sample_id": "543ac3171248e129",
+      "score": 1,
+      "reason_vi": "Đọc được hạn chế của khảo sát ở phần trên phân bố phúc lợi và mục đích so sánh quốc gia của ngưỡng nghèo. Mức 50 USD/ngày mất đối tượng, còn mệnh đề 'also sui' chưa cho biết ngưỡng còn phù hợp với việc gì."
+    },
+    {
+      "sample_id": "55d0159fbf5115ba",
+      "score": 1,
+      "reason_vi": "Hiểu được khoảng thiếu hụt tiền tệ theo ngưỡng LMIC và UMIC, nhưng đầu bị cắt từ và mất mốc năm. Hàng IPL trong bảng kết thúc giữa một giá trị nên không đọc được chuỗi số đầy đủ."
+    },
+    {
+      "sample_id": "5616da4018e0a1ed",
+      "score": 1,
+      "reason_vi": "Có nhận định rõ về thời gian đại dịch và kỳ tham chiếu chi tiêu làm ảnh hưởng số đo năm 2020. Đầu thiếu cách nối với đợt dịch thứ tư; cuối 'For' bỏ mất phần giải thích cách kỳ tham chiếu tác động."
+    },
+    {
+      "sample_id": "575e4789f7b6e068",
+      "score": 1,
+      "reason_vi": "Câu về thay đổi tiêu dùng, kỳ vọng và điều kiện sống hoàn chỉnh. Tuy nhiên, nhận định phân bố tăng trưởng tầng lớp trung lưu dừng ở 'Red River Delta and', thiếu vùng thứ hai."
+    },
+    {
+      "sample_id": "6282b27566041d9c",
+      "score": 1,
+      "reason_vi": "Các lý do lo ngại nghèo đói vẫn hiểu được, nhưng đầu thiếu chủ thể khảo sát. Cuối nêu thu nhập '8 million' mà mất đơn vị tiền và kỳ thu nhập nên con số chưa diễn giải đầy đủ."
+    },
+    {
+      "sample_id": "74d7d4de9ace4f56",
+      "score": 1,
+      "reason_vi": "Câu về giá trị đường nghèo World Bank quy đổi sang VND có nghĩa độc lập. Đầu mất chủ ngữ của yêu cầu so sánh theo thời gian; kết luận về xu hướng và động lực giảm nghèo bị cắt ở 'W orl'."
+    },
+    {
+      "sample_id": "75241d86c8b84914",
+      "score": 1,
+      "reason_vi": "Hai yêu cầu đối với ngưỡng được trình bày rõ: phản ánh mức sống tối thiểu và so sánh được theo thời gian. Tuy nhiên, mục tiêu áp dụng hai yêu cầu chưa được nêu đầy đủ và câu cuối dừng giữa đối tượng 'global poverty'."
+    },
+    {
+      "sample_id": "7e4a3914c332f138",
+      "score": 1,
+      "reason_vi": "Hiểu được việc tách huyện khi dân cư tăng và mức tăng 27 huyện từ 2009 đến 2019. Câu mới về so sánh bản đồ nghèo bị cắt trước khi nêu kết quả so sánh."
+    },
+    {
+      "sample_id": "b52b25f2534f63ec",
+      "score": 1,
+      "reason_vi": "Nhận định Central Highlands có tỷ lệ nghèo vùng cao nhất năm 2020 và lo ngại về Mekong Delta đều rõ. Đầu mất năm và tên đầy đủ của tỷ lệ tại Midlands; cuối bỏ dở mệnh đề về đợt tăng nghèo."
+    },
+    {
+      "sample_id": "c138223a7bb356e6",
+      "score": 1,
+      "reason_vi": "Vẫn hiểu được nghèo đói là vấn đề ưu tiên và người trả lời lo tái nghèo hoặc tác động đến kinh tế. Đầu chỉ còn đuôi 'middle class'; cuối động từ 'reduces' mất đối tượng nên lý do cuối chưa hoàn chỉnh."
+    },
+    {
+      "sample_id": "ccdeead377b0801f",
+      "score": 1,
+      "reason_vi": "Câu về ngưỡng nghèo phục vụ so sánh quốc gia và xem xét phúc lợi Việt Nam hoàn chỉnh. Đầu thiếu đối tượng của hạn chế khảo sát; cuối mệnh đề 'While some of the lower-level World Bank' thiếu phần so sánh và kết luận."
+    },
+    {
+      "sample_id": "ce8dc3b2dfd9c8ec",
+      "score": 1,
+      "reason_vi": "Nhận định bản đồ nghèo cho thấy tiến bộ nhưng còn các vùng nghèo dai dẳng rõ nghĩa. Đầu là đuôi chú thích; cuối cắt giữa 'conc', chưa cho biết nghèo năm 2009 tập trung ở đâu."
+    },
+    {
+      "sample_id": "e33c7c9264e74c5f",
+      "score": 1,
+      "reason_vi": "Đọc được thông tin các ước lượng ELL có thể tính bằng PovMap. Đầu mất chủ thể phương pháp được ứng dụng; cuối bỏ dở nội dung cập nhật lý thuyết ở 'sample conditio'."
+    },
+    {
+      "sample_id": "f0218747a86fadc0",
+      "score": 1,
+      "reason_vi": "Câu đối chiếu tác động nghèo năm 2020 với đợt dịch thứ tư tháng 4/2021 vẫn hiểu được. Đầu mất chủ thể của 'resilient'; cuối 'Another potentia' chưa nêu nguyên nhân tiếp theo."
+    },
+    {
+      "sample_id": "fa9b36ccc256cbcf",
+      "score": 2,
+      "reason_vi": "Nêu rõ phương pháp small area estimation kết hợp khảo sát hộ và điều tra dân số để ước lượng nghèo, phúc lợi ở khu vực nhỏ. Phần bị cắt là lời dẫn tác giả và trích dẫn; ý về phương pháp và ứng dụng vẫn tự hiểu được."
+    }
+  ]
+}

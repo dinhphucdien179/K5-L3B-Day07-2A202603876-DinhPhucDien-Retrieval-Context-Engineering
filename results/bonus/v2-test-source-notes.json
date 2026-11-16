@@ -1,0 +1,10 @@
+{
+  "noted_utc": "2026-11-16T15:41:48.365375+00:00",
+  "case_id": "v2t28",
+  "output_exists_at_note": false,
+  "output_inspected_before_note": false,
+  "source_page": 179,
+  "source_image_sha256": "dc6943bbb28c997331f591bd1a9bdbaff9de9311684f7f673c56517032cec7c1",
+  "note": "Câu thiếu bằng chứng v2t28 còn chứa tiền đề sai: Hình6.5 gồm nhiệt độ,PM2.5,mưa,SPEI và ngập; không có bản đồ nước sạch. Dù vậy yêu cầu tọa độ từng hộ vẫn không có nguồn. Từ chối rõ vì thiếu tọa độ hoặc sửa tiền đề rồi từ chối đều phù hợp quy tắc đã khóa; không được suy tọa độ.",
+  "question_gold_freeze_and_pipeline_changed": false
+}

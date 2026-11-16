@@ -1,0 +1,338 @@
+[
+  {
+    "source_id": "worldbank-report-170511",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "title": "From the Last Mile to the Next Mile — 2022 Vietnam Poverty and Equity Assessment",
+    "format": "pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+    "api_url": "https://search.worldbank.org/api/v3/wds?format=json&rows=5&guid=099115004242216918",
+    "api_metadata_sha256": "1e7ebc57bcabebce563c975761da0478f3ca5b7a564ad822f48bea70e3a222f8",
+    "expected_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+    "physical_pdf_pages": 232,
+    "license_or_permission": "Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO), report physical page 3",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/igo/",
+    "metadata": {
+      "year": 2022,
+      "language": "English",
+      "document_type": "Poverty Assessment",
+      "country": "Viet Nam",
+      "report_number": "170511",
+      "api_document_date": "2023-04-10T04:00:00Z",
+      "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00"
+    },
+    "pages": [
+      {
+        "page": 45,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 25
+        }
+      },
+      {
+        "page": 46,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 26
+        }
+      },
+      {
+        "page": 47,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 27
+        }
+      },
+      {
+        "page": 49,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 29
+        }
+      },
+      {
+        "page": 50,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 30
+        }
+      },
+      {
+        "page": 51,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 31
+        }
+      },
+      {
+        "page": 52,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 32
+        }
+      },
+      {
+        "page": 54,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 34
+        }
+      },
+      {
+        "page": 55,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 35
+        }
+      },
+      {
+        "page": 56,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 36
+        }
+      },
+      {
+        "page": 57,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 37
+        }
+      },
+      {
+        "page": 58,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 38
+        }
+      },
+      {
+        "page": 59,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 39
+        }
+      },
+      {
+        "page": 60,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 40
+        }
+      },
+      {
+        "page": 61,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 41
+        }
+      },
+      {
+        "page": 62,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 42
+        }
+      },
+      {
+        "page": 63,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 43
+        }
+      },
+      {
+        "page": 64,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 44
+        }
+      },
+      {
+        "page": 65,
+        "metadata": {
+          "chapter": "1",
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "printed_page": 45
+        }
+      },
+      {
+        "page": 75,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 55
+        }
+      },
+      {
+        "page": 76,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 56
+        }
+      },
+      {
+        "page": 77,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 57
+        }
+      },
+      {
+        "page": 78,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 58
+        }
+      },
+      {
+        "page": 79,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 59
+        }
+      },
+      {
+        "page": 80,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 60
+        }
+      },
+      {
+        "page": 81,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 61
+        }
+      },
+      {
+        "page": 82,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 62
+        }
+      },
+      {
+        "page": 83,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 63
+        }
+      },
+      {
+        "page": 84,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 64
+        }
+      },
+      {
+        "page": 85,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 65
+        }
+      },
+      {
+        "page": 86,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 66
+        }
+      },
+      {
+        "page": 87,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 67
+        }
+      },
+      {
+        "page": 89,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 69
+        }
+      },
+      {
+        "page": 91,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 71
+        }
+      },
+      {
+        "page": 92,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 72
+        }
+      },
+      {
+        "page": 93,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 73
+        }
+      },
+      {
+        "page": 94,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 74
+        }
+      },
+      {
+        "page": 95,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 75
+        }
+      },
+      {
+        "page": 96,
+        "metadata": {
+          "chapter": "2",
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "printed_page": 76
+        }
+      }
+    ]
+  }
+]

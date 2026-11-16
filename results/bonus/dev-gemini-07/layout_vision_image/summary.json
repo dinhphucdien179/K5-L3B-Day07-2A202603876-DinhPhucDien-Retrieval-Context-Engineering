@@ -1,0 +1,50 @@
+{
+  "passed": 15,
+  "total": 18,
+  "rate": 0.8333333333333334,
+  "bonus_threshold_met": false,
+  "errors": 2,
+  "groups": {
+    "table": {
+      "passed": 3,
+      "total": 3,
+      "errors": 0,
+      "rate": 1.0
+    },
+    "diagram": {
+      "passed": 3,
+      "total": 3,
+      "errors": 0,
+      "rate": 1.0
+    },
+    "chart": {
+      "passed": 3,
+      "total": 3,
+      "errors": 0,
+      "rate": 1.0
+    },
+    "multi_hop": {
+      "passed": 3,
+      "total": 3,
+      "errors": 0,
+      "rate": 1.0
+    },
+    "text": {
+      "passed": 2,
+      "total": 3,
+      "errors": 1,
+      "rate": 0.6666666666666666
+    },
+    "unanswerable": {
+      "passed": 1,
+      "total": 3,
+      "errors": 1,
+      "rate": 0.3333333333333333
+    }
+  },
+  "api_cost_usd": null,
+  "case_latency_sum_seconds": 616.7447328839966,
+  "prompt_tokens": 228202,
+  "completion_tokens": 4824,
+  "review_policy": "AI-assisted source inspection; student verification pending. Not an independent human review."
+}

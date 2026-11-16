@@ -1,0 +1,329 @@
+{
+  "bd01": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.3 trang 49: đúng .012 của poverty line và 15.02 nghìn tỷ VND giá 2020/năm. Đủ đơn vị và điều kiện giá; citation đúng ô LMIC 2020 của hai panel.",
+    "checked_original_pages": [
+      49
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p049-table-1.3": {
+        "supported": true,
+        "reason": "Bảng 1.3 trang 49: đúng .012 của poverty line và 15.02 nghìn tỷ VND giá 2020/năm. Đủ đơn vị và điều kiện giá; citation đúng ô LMIC 2020 của hai panel."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "7bab6043b2cf532c04a7bdb5e05b2357232e587bcdd3dd5812f32acfba221283"
+  },
+  "bd02": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 2.1 trang 75: 85,801,996 người năm 2009 và 96,208,635 năm 2019; phép trừ đúng 10,406,639 người. Citation hỗ trợ cả hai số và phép tính.",
+    "checked_original_pages": [
+      75
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": true,
+        "reason": "Bảng 2.1 trang 75: 85,801,996 người năm 2009 và 96,208,635 năm 2019; phép trừ đúng 10,406,639 người. Citation hỗ trợ cả hai số và phép tính."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "26b8011a2206768adf50d8b8233fbde13e1359e8376360ab38b4a595bf62bfec"
+  },
+  "bd03": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.2 trang 200: Health 89 nghìn tỷ đồng/1.6% GDP; inpatient 43 và outpatient 46, mỗi nhóm .8% GDP. Mọi số và đơn vị khớp nguồn.",
+    "checked_original_pages": [
+      200
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.2 trang 200: Health 89 nghìn tỷ đồng/1.6% GDP; inpatient 43 và outpatient 46, mỗi nhóm .8% GDP. Mọi số và đơn vị khớp nguồn."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "dcc925f94e169e17f90309e677e85801961af97ceb44e3602a00d0914b1464f9"
+  },
+  "bd05": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 3.9 trang 107: đúng Midlands & Northern Mountains và Central Highlands; màu cam biểu thị tỷ lệ nghèo cao hơn. Đối chiếu tên bản đồ và chú giải.",
+    "checked_original_pages": [
+      107
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p107-figure-3.9": {
+        "supported": true,
+        "reason": "Hình 3.9 trang 107: đúng Midlands & Northern Mountains và Central Highlands; màu cam biểu thị tỷ lệ nghèo cao hơn. Đối chiếu tên bản đồ và chú giải."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "7983d2aad52bbab68d8942fa8191487c9982df128aa70c36bce4f42775b3dd28"
+  },
+  "bd06": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 6.5 trang 179: nhiệt độ cao ở phía nam và một phần miền trung, PM2.5 cao tại Red River Delta phía bắc. Các vùng màu cam/nâu và chú giải trên hai bản đồ hỗ trợ toàn bộ mô tả.",
+    "checked_original_pages": [
+      179
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p179-figure-6.5": {
+        "supported": true,
+        "reason": "Hình 6.5 trang 179: nhiệt độ cao ở phía nam và một phần miền trung, PM2.5 cao tại Red River Delta phía bắc. Các vùng màu cam/nâu và chú giải trên hai bản đồ hỗ trợ toàn bộ mô tả."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "dbd034567438e6b5e6fd288b996c8cb2089577b3179dbfd0f1e54d199f13be06"
+  },
+  "bd07": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 4.8 trang 137: đúng gần 100% ở 10–14 xuống khoảng 25–30% ở 20–24 cho cả hai giới; nam màu cam nhỉnh hơn nữ ở nhóm cuối. Đúng dung sai và citation.",
+    "checked_original_pages": [
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p137-figure-4.8": {
+        "supported": true,
+        "reason": "Hình 4.8 trang 137: đúng gần 100% ở 10–14 xuống khoảng 25–30% ở 20–24 cho cả hai giới; nam màu cam nhỉnh hơn nữ ở nhóm cuối. Đúng dung sai và citation."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "b8bbd8abaa953c5e927fa720241a1d4d375bd6afa4f1dd4ea751a23c48e7c5bf"
+  },
+  "bd08": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 5.11 trang 161: nông/ngư khoảng 24 xuống 17.5 triệu, chế tạo khoảng 7 lên 11.5 triệu. Vàng unskilled manual chiếm ưu thế, tiếp theo xám skilled manual. Đã đọc lại cả hai panel và chú giải ảnh gốc; các ý bổ sung cũng đúng.",
+    "checked_original_pages": [
+      161
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p161-figure-5.11": {
+        "supported": true,
+        "reason": "Hình 5.11 trang 161: nông/ngư khoảng 24 xuống 17.5 triệu, chế tạo khoảng 7 lên 11.5 triệu. Vàng unskilled manual chiếm ưu thế, tiếp theo xám skilled manual. Đã đọc lại cả hai panel và chú giải ảnh gốc; các ý bổ sung cũng đúng."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "68df0ae021000df859115046d59269f10e46acb3b5c6350a305c5f8d776441b3"
+  },
+  "bd09": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 6.3 trang 177: Việt Nam khoảng 37% lên 45%, LMIC khoảng 57% xuống 51% trong 2010–2018; mẫu số tổng chi y tế. Toàn bộ số, hướng và đơn vị khớp nguồn.",
+    "checked_original_pages": [
+      177
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p177-figure-6.3": {
+        "supported": true,
+        "reason": "Hình 6.3 trang 177: Việt Nam khoảng 37% lên 45%, LMIC khoảng 57% xuống 51% trong 2010–2018; mẫu số tổng chi y tế. Toàn bộ số, hướng và đơn vị khớp nguồn."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "bad55f39de2010e76a9264d4ab41ff547afc014f8794d0ae71073daad12b1c80"
+  },
+  "bd10": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Từ chối sai ở câu có đáp án: trả lời bảng1.3 bị thiếu dù corpus có bảng này ở trang49. Bảng1.1 trang48 cho headcount5%; bảng1.3 cho gap.012 bình quân toàn dân số. Model chưa ghép đủ nguồn; đây là lỗi truy xuất/abstention, không phải tài liệu thiếu dữ liệu.",
+    "checked_original_pages": [
+      48,
+      49
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": false,
+    "trace_sha256": "5c11c4aed27a641b7b8d91d16daf52f13408b33626e3af42cceaf34ada9ef8b5"
+  },
+  "bd11": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng4.1 trang132 và4.2 trang137: national.979, male.976, female.983; hiệu.007 xác suất=.7 điểm phần trăm. Các claim gán đúng bảng, phép tính và đơn vị đúng.",
+    "checked_original_pages": [
+      132,
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng4.1 trang132 và4.2 trang137: national.979, male.976, female.983; hiệu.007 xác suất=.7 điểm phần trăm. Các claim gán đúng bảng, phép tính và đơn vị đúng."
+      },
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Bảng4.1 trang132 và4.2 trang137: national.979, male.976, female.983; hiệu.007 xác suất=.7 điểm phần trăm. Các claim gán đúng bảng, phép tính và đơn vị đúng."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "39aaba1d645037848faa265f318477ff5e352f46ea13d324e88892ec86ac8d08"
+  },
+  "bd12": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.1/7.2 trang 199/200: thu/viện trợ 1364, chi 1435 nghìn tỷ đồng; chi lớn hơn 71. Citation đủ cả hai trang và phép tính, không suy diễn thành fiscal balance.",
+    "checked_original_pages": [
+      199,
+      200
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng 7.1/7.2 trang 199/200: thu/viện trợ 1364, chi 1435 nghìn tỷ đồng; chi lớn hơn 71. Citation đủ cả hai trang và phép tính, không suy diễn thành fiscal balance."
+      },
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.1/7.2 trang 199/200: thu/viện trợ 1364, chi 1435 nghìn tỷ đồng; chi lớn hơn 71. Citation đủ cả hai trang và phép tính, không suy diễn thành fiscal balance."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "bfc0429f1a764df524dfe87b622070b201fdcff2fee4379c815c7597a51edab0"
+  },
+  "bd13": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Box 2.1 trang 81: WTO tháng 1/2007; xuất khẩu hàng hóa/dịch vụ 106% GDP năm 2019. Đã đọc lại ảnh gốc, thông tin bổ sung dưới 10% năm 1986 cũng đúng.",
+    "checked_original_pages": [
+      81
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p081": {
+        "supported": true,
+        "reason": "Box 2.1 trang 81: WTO tháng 1/2007; xuất khẩu hàng hóa/dịch vụ 106% GDP năm 2019. Đã đọc lại ảnh gốc, thông tin bổ sung dưới 10% năm 1986 cũng đúng."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "d631246aeadde9d51134a540ce83f83bc59545c22719e71475e315c60213148b"
+  },
+  "bd14": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang 178: gần 70% hộ gặp cú sốc tháng 2–6/2020, lockdown toàn quốc tháng 4/2020. Citation đúng đoạn gốc và giữ điều kiện thời gian.",
+    "checked_original_pages": [
+      178
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p178": {
+        "supported": true,
+        "reason": "Trang 178: gần 70% hộ gặp cú sốc tháng 2–6/2020, lockdown toàn quốc tháng 4/2020. Citation đúng đoạn gốc và giữ điều kiện thời gian."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "e6320292bc258c67e36efd33016165fb9b435cbb1dafa2cf1b0268162af1819a"
+  },
+  "bd15": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang 221: GER giáo dục đại học dưới 30%, thuộc nhóm thấp nhất Đông Á. Đúng đối tượng, mức độ và nguồn.",
+    "checked_original_pages": [
+      221
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p221": {
+        "supported": true,
+        "reason": "Trang 221: GER giáo dục đại học dưới 30%, thuộc nhóm thấp nhất Đông Á. Đúng đối tượng, mức độ và nguồn."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "00883adf06f7e4ced2c209f3294b8dc96d0fc602ac7e6b0fc968f36691f31b51"
+  },
+  "bd16": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối rõ do không có khảo sát hay dữ liệu2028 trong tài liệu. Audit tìm toàn bộ232 trang không có2028; không đoán tỷ lệ thấp còi.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "ebd603fe78b5239aacdbce4d2694e52f3714dde6d7b13c7a658867c4f6efa4ed"
+  },
+  "bd17": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối rõ vì không có household BONUS-HH-814209, thu nhập hoặc trọng số mẫu. Audit toàn bộ232 trang không có mã này; không bịa vi dữ liệu.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "529231433a3d1c903cd447da79d7fe311113513a2baf96eff0b5cb86833f9b91"
+  },
+  "bd18": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối do báo cáo không có cận dưới/trên95%CI cho HCI2020.69. Audit toàn bộ232 trang cùng ảnh bảng4.1/4.2 không có khoảng tin cậy này; không tự tính hoặc suy đoán.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "4977743d8f3df4f2dbc5402b859fc2f28769e0753ac0e899e08662231559b251"
+  },
+  "bd04": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 1.7 trang 52: đúng 2009/2015/2019, thang tỷ lệ nghèo %, vùng xanh đậm thu hẹp. Đối chiếu trực tiếp ba bản đồ và chú giải, không coi việc ID tồn tại là chứng minh nội dung.",
+    "checked_original_pages": [
+      52
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p052-figure-1.7": {
+        "supported": true,
+        "reason": "Hình 1.7 trang 52: đúng 2009/2015/2019, thang tỷ lệ nghèo %, vùng xanh đậm thu hẹp. Đối chiếu trực tiếp ba bản đồ và chú giải, không coi việc ID tồn tại là chứng minh nội dung."
+      }
+    },
+    "source_audit": "results/bonus/dev-source-audit.json",
+    "passed": true,
+    "trace_sha256": "f9daa6d3ee8c4c3ae5b5f14893bdb82e800bfe886b0bd9f53c5cac266964ac12"
+  }
+}

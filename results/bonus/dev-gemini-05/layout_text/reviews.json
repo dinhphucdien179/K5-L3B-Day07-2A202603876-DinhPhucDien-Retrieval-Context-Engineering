@@ -1,0 +1,271 @@
+{
+  "bd01": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: đoạn quote không xuất hiện nguyên văn trong bảng 1.3, kể cả sau lượt sửa. Trang 49 bản gốc có .012 của poverty line và 15.02 nghìn tỷ VND giá 2020; bản nháp không thay thế kết quả cuối.",
+    "checked_original_pages": [
+      49
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "d084e91cdccc5e3714fcb799cb98685ef59f4942c734df74bfeb79bbc19d1b0a"
+  },
+  "bd02": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng2.1 trang75: đúng dân số85,801,996 và96,208,635; hiệu10,406,639 người. Citation đúng bảng và phép tính.",
+    "checked_original_pages": [
+      75
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": true,
+        "reason": "Bảng2.1 trang75: đúng dân số85,801,996 và96,208,635; hiệu10,406,639 người. Citation đúng bảng và phép tính."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "ac368da0668686ae3345c22b7be7a2d7bee938ede86d73a5fca07da0cd8fecca"
+  },
+  "bd03": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng7.2 trang200:89 nghìn tỷ đồng,1.6%GDP; inpatient43/outpatient46, mỗi nhóm .8%GDP. Đơn vị ở đầu áp dụng các số thành phần; nguồn hỗ trợ toàn bộ.",
+    "checked_original_pages": [
+      200
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng7.2 trang200:89 nghìn tỷ đồng,1.6%GDP; inpatient43/outpatient46, mỗi nhóm .8%GDP. Đơn vị ở đầu áp dụng các số thành phần; nguồn hỗ trợ toàn bộ."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "b9a13f0ae91a20d5f8373a0310086a0683534704ba24b735c005446adec887e7"
+  },
+  "bd04": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: quote không khớp nguồn Hình1.7, kể cả sau sửa. Nguồn trang52 có bản đồ2009/2015/2019, màu tỷ lệ nghèo% và vùng xanh đậm thu hẹp; không tính bản nháp là thành công.",
+    "checked_original_pages": [
+      52
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "c7d505b50dfb67786d0d5724f5a33d3c9e92c9a7b2bd59c0ca60eae563aa8ead"
+  },
+  "bd06": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối: quote mô tả nhiệt độ/PM2.5 không khớp nguyên văn trang179. Tính lỗi, không dùng bản nháp làm đáp án.",
+    "checked_original_pages": [
+      179
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "df9a1134b61f59ef26f1c5217d96e0c2aae37e426735c5edf0d42a1ed698144a"
+  },
+  "bd07": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối: quote được gán vào p136 nhưng không khớp nguồn; hình được hỏi ở trang137. Ảnh gốc Hình4.8 cho nam nhỉnh hơn nữ ở20–24; trace lỗi vẫn không đạt.",
+    "checked_original_pages": [
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "ea18d09cb804a1505eed9ce2d0936b2610cdcd0f04664ef4ce692eda054c6cec"
+  },
+  "bd08": {
+    "answer_correct": false,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Đúng hướng lao động nông/ngư nghiệp giảm và chế tạo tăng; đúng nhóm unskilled manual chiếm ưu thế nhưng không nêu màu vàng như câu hỏi yêu cầu. Các ý đã nêu có nguồn Hình5.11 trang161, song câu trả lời chưa đủ nên không đạt.",
+    "checked_original_pages": [
+      161
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p161-figure-5.11": {
+        "supported": true,
+        "reason": "Đúng hướng lao động nông/ngư nghiệp giảm và chế tạo tăng; đúng nhóm unskilled manual chiếm ưu thế nhưng không nêu màu vàng như câu hỏi yêu cầu. Các ý đã nêu có nguồn Hình5.11 trang161, song câu trả lời chưa đủ nên không đạt."
+      }
+    },
+    "passed": false,
+    "trace_sha256": "33244327017a0718c58e108308808505c3eb6845dbdc2c923153094fdba73dc6"
+  },
+  "bd09": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ; giữ nguyên lỗi quote/tool witness trong trace. Hình6.3 trang177 cho Việt Nam37->45% tổng chi y tế và LMIC57->51%.",
+    "checked_original_pages": [
+      177
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "d20833655535f8f32de2b9081c3405f5e0bfcf2ea6fbded601cbef2c4361ae0b"
+  },
+  "bd10": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: quote giải thích không khớp nguồn. Trang48/49 có headcount5% và gap.012, là tỷ lệ người nghèo so với thiếu hụt tiêu dùng chuẩn hóa bình quân toàn dân số; bản nháp không thay kết quả cuối.",
+    "checked_original_pages": [
+      48,
+      49
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "e80f1b30199329fd9033048fd0f1e1b4e0d8566dcd6d1571a8a4e0a2ff6f055a"
+  },
+  "bd11": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Đúng national.979, male.976, female.983; hiệu.007 xác suất và trả lời rõ0.7 điểm phần trăm. Parenthesis0.7percent là cách viết kém rõ của chênh lệch xác suất, không có khẳng định tăng tương đối. Hai bảng trang132/137 và phép trừ hỗ trợ các số.",
+    "checked_original_pages": [
+      132,
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Đúng national.979, male.976, female.983; hiệu.007 xác suất và trả lời rõ0.7 điểm phần trăm. Parenthesis0.7percent là cách viết kém rõ của chênh lệch xác suất, không có khẳng định tăng tương đối. Hai bảng trang132/137 và phép trừ hỗ trợ các số."
+      },
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Đúng national.979, male.976, female.983; hiệu.007 xác suất và trả lời rõ0.7 điểm phần trăm. Parenthesis0.7percent là cách viết kém rõ của chênh lệch xác suất, không có khẳng định tăng tương đối. Hai bảng trang132/137 và phép trừ hỗ trợ các số."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "b8014a53bde0ff4d9d7b962d9b8ca1d72fa0fb109bf509b6ec9c3d410507272c"
+  },
+  "bd12": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Đúng thu/viện trợ1364 và chi1435 nghìn tỷ đồng; chênh71, chi lớn hơn. Citation đúng bảng7.1 trang199 và7.2 trang200; không suy diễn thành thâm hụt ngân sách quốc gia.",
+    "checked_original_pages": [
+      199,
+      200
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Đúng thu/viện trợ1364 và chi1435 nghìn tỷ đồng; chênh71, chi lớn hơn. Citation đúng bảng7.1 trang199 và7.2 trang200; không suy diễn thành thâm hụt ngân sách quốc gia."
+      },
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Đúng thu/viện trợ1364 và chi1435 nghìn tỷ đồng; chênh71, chi lớn hơn. Citation đúng bảng7.1 trang199 và7.2 trang200; không suy diễn thành thâm hụt ngân sách quốc gia."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "0df64918d13dfba3a429328e70d304a804ef85f4064e1749e58dc0bf7dc54665"
+  },
+  "bd13": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: quote không khớp p081 kể cả sau sửa. Bản gốc có WTO tháng1/2007 và xuất khẩu106%GDP năm2019; bản nháp không thay kết quả cuối.",
+    "checked_original_pages": [
+      81
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "e112dd7b43896c2301b83e2e76aaa6c9eb67dd1e3ea986af30399b35b57d3e6c"
+  },
+  "bd14": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Từ chối ở câu có đáp án nên không đạt. Trang178 ghi gần70% hộ gặp cú sốc tháng2–6/2020 và lockdown tháng4/2020; model hết giới hạn search trước khi tìm đúng phần.",
+    "checked_original_pages": [
+      178
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "46c3cfe17c83bed071e65ed361dba72f690d76bc93df250828fe30a155cae281"
+  },
+  "bd15": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: quote không khớp p221 kể cả sau sửa. Bản gốc ghi GER đại học dưới30%, thuộc nhóm thấp nhất Đông Á.",
+    "checked_original_pages": [
+      221
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "cb900454fc5d2850b9e2f1867019e8c62274b9552a26377800a1810a4402790b"
+  },
+  "bd16": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối rõ do báo cáo không có khảo sát2028. Audit tìm toàn bộ232 trang không có2028; không suy đoán tỷ lệ thấp còi ngoài tài liệu.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": true,
+    "trace_sha256": "6b27c2f1a7d209891955d06baa43e15b6865ddd5503bf67730469c150764cf4a"
+  },
+  "bd17": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối rõ do không có household BONUS-HH-814209, thu nhập hay trọng số mẫu. Audit toàn bộ232 trang không có mã giả định này; không bịa vi dữ liệu.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": true,
+    "trace_sha256": "d225edcded1f73fbc2ed701315e88f0e87dd0381c215889d260e64a894a0a322"
+  },
+  "bd18": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối vì bảng4.1 không có confidence bounds cho HCI2020. Audit toàn bộ232 trang và ảnh bảng4.1/4.2 không tìm thấy95%CI cho0.69; không bịa hai cận.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "passed": true,
+    "trace_sha256": "c7b77add1663d4ae7884c32b2e58a159c4e4b245e301cf503ae6a926f2122568"
+  },
+  "bd05": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình3.9 trang107: đúng Midlands & Northern Mountains và Central Highlands; cam biểu thị nghèo cao hơn. Citation đúng hình và chú giải.",
+    "checked_original_pages": [
+      107
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p107-figure-3.9": {
+        "supported": true,
+        "reason": "Hình3.9 trang107: đúng Midlands & Northern Mountains và Central Highlands; cam biểu thị nghèo cao hơn. Citation đúng hình và chú giải."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "20eaa7948c3c543112fd8e4b8b1a1992584ac5bd916f6c50e097a69ea5d9f7db"
+  }
+}

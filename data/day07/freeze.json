@@ -1,0 +1,9 @@
+{
+  "created_utc": "2026-11-16T03:41:18.824421+00:00",
+  "dev_sha256": "caddac6806872d37ab0cf0a05e96766c5e957075e3c56b972a76d0c492d9b325",
+  "test_sha256": "af8ab499c63fdef197bb68f0ef0148562c9f8c7107af8c869efaf4b431fe6b6d",
+  "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+  "split_rationale": "Reuse Day06 dev, replace already exposed Day06 test with five distinct new questions; freeze before Day07 experiments.",
+  "gold_policy": "Gold/expected answers are evaluator-only. Agent receives question and optional user-provided filter.",
+  "review_policy": "AI-assisted authored labels require source inspection; substring/offset checks do not replace semantic review."
+}

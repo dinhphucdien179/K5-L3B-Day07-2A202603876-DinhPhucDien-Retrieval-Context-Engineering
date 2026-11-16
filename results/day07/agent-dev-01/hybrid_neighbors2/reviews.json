@@ -1,0 +1,210 @@
+[
+  {
+    "query_id": "d01",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đã khôi phục comparable across time và consistent series ở chunk kế tiếp; đủ hai tiêu chí."
+  },
+  {
+    "query_id": "d02",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ recall 12 tháng và tiêu dùng 2019 pre-COVID trong phỏng vấn đầu 2020."
+  },
+  {
+    "query_id": "d03",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ định nghĩa additional consumption và percent poverty line; hai citation ghép giải thích transfer."
+  },
+  {
+    "query_id": "d04",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ tên hai vùng ở citation đầu; citation thứ hai chỉ nói diễn biến nghèo Central Highlands, không trực tiếp chứng minh highest rates của hai vùng."
+  },
+  {
+    "query_id": "d05",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng coverage sáu vùng thay cho tỉnh/huyện; source hỗ trợ nguyên nhân không đủ geographic detail."
+  },
+  {
+    "query_id": "d06",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng hai đầu vào survey/census. Citation thứ hai chỉ nói ứng dụng/software, không hỗ trợ thêm mệnh đề về sample-size limitation."
+  },
+  {
+    "query_id": "d07",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false,
+      false,
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Chỉ nói middleclass tăng, thiếu số 7.3/22.6 triệu vàtripled; các citations là bảng/legend không đủ chứng minh kết luận và số lượng cần hỏi."
+  },
+  {
+    "query_id": "d08",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ non-government, MOLISA comparability và illustration purpose. Bối cảnh Riding the Wave có trong context mở rộng."
+  },
+  {
+    "query_id": "d09",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ dưới 2%, half likelihood và hai giai đoạn."
+  },
+  {
+    "query_id": "d10",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 0,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Chỉ nêu 20% up/15% down thay cho hai transitions rời agriculture và formal contract; citations đúng thống kê nhưng đáp án sai trọng tâm."
+  },
+  {
+    "query_id": "d11",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng thay census frame 2009 sang 2019 dẫn tới thiếu panel 2020."
+  },
+  {
+    "query_id": "d12",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ double dividend hiện tại/tương lai và intergenerational traps."
+  },
+  {
+    "query_id": "d13",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Định nghĩa đúng income growth bottom 40, so average/top; nguồn đủ."
+  },
+  {
+    "query_id": "d14",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Lỗi định dạng citation sau một lượt sửa; giữ riêng trong error count, không có câu trả lời hợp lệ."
+  },
+  {
+    "query_id": "d15",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng stagnation agricultural income và dependency của hộ nghèo; nguồn hỗ trợ."
+  },
+  {
+    "query_id": "du01",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ và không thêm số liệu/microdata bịa; so với absence audit toàn corpus 39 trang."
+  },
+  {
+    "query_id": "du02",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ và không thêm số liệu/microdata bịa; so với absence audit toàn corpus 39 trang."
+  }
+]

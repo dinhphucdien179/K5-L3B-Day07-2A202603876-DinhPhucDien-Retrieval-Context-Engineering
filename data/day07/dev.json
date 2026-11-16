@@ -1,0 +1,318 @@
+[
+  {
+    "id": "d01",
+    "split": "dev",
+    "answerable": true,
+    "question": "What two requirements guide the choice of a poverty threshold for monitoring trends in this report?",
+    "expected_answer": "It should reflect Vietnam's minimum necessary living standards and remain comparable across time so the trend series is consistent.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 46,
+        "evidence": "The first is that the threshold of an appropriate\nstandard should reflect Vietnam’s minimum necessary living\nstandards, and the second is that the threshold should be\ncomparable across time to provide a consistent time series.",
+        "start": 1195,
+        "end": 1421
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d02",
+    "split": "dev",
+    "answerable": true,
+    "question": "Why could the 2020 household survey understate the adverse effects of COVID-19 on consumption for households interviewed early in the year?",
+    "expected_answer": "Some consumption items use a 12-month recall period, so interviews in the first three quarters of 2020 include pre-COVID consumption from 2019.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 47,
+        "evidence": "For some\ncomponents of consumption, households provide information\nover a 12-month recall period. For households interviewed in\nthe first three quarters of 2020, their consumption patterns\nwould include periods in 2019 that are pre-COVID.",
+        "start": 1778,
+        "end": 2016
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d03",
+    "split": "dev",
+    "answerable": true,
+    "question": "What does the average poverty gap measure, and how is that gap expressed relative to the poverty line?",
+    "expected_answer": "It measures the additional consumption needed to raise poor people to the poverty line, expressed as a per-person percentage of that line.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 49,
+        "evidence": "The average poverty gap illustrates the amount of\nadditional consumption necessary to raise the poor to\nthe poverty line (Figure 1.4). The gap is measured in terms\nof the percentage of the poverty line on a per person basis that\nwould raise everyone in poverty to the minimum threshold.",
+        "start": 162,
+        "end": 448
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d04",
+    "split": "dev",
+    "answerable": true,
+    "question": "Which two regions are described as traditionally poor and as having the highest poverty rates throughout the decade?",
+    "expected_answer": "The Central Highlands and the Midlands and Northern Mountains.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 50,
+        "evidence": "The traditionally poor regions in Vietnam are the Central\nHighlands and the Midlands and Northern Mountains,\nwhere poverty rates were the highest throughout the\ndecade (Figure 1.5).",
+        "start": 1045,
+        "end": 1226
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d05",
+    "split": "dev",
+    "answerable": true,
+    "question": "Why do direct estimates from the household survey provide too little geographic detail for understanding local poverty?",
+    "expected_answer": "Direct household-survey estimates are representative only at broad geographic levels; the sample lacks sufficient coverage to estimate poverty in small local areas.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 51,
+        "evidence": "This level of\ndisaggregation is extremely powerful, greatly enhancing the\nunderstanding of spatial poverty and dynamics since direct\nestimates of poverty from the household survey are only\nrepresentative across six broad regions; the country had 63\nprovinces and over 700 districts in 2019.",
+        "start": 478,
+        "end": 768
+      },
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 54,
+        "evidence": "Since household survey samples are small and do not have the coverage of a Census, poverty rates cannot be\nestimated in small areas.",
+        "start": 838,
+        "end": 970
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d06",
+    "split": "dev",
+    "answerable": true,
+    "question": "What two data sources did the original small-area estimation method combine to estimate poverty in small geographic areas?",
+    "expected_answer": "A household survey and a census.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 54,
+        "evidence": "Elbers et al. (2003) originally proposed a so-called “small area estimation” method\nto estimate poverty measures at small areas by combining a household survey and a census.",
+        "start": 1140,
+        "end": 1313
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d07",
+    "split": "dev",
+    "answerable": true,
+    "question": "How did the number of middle-class people in Vietnam change between 2010 and 2020?",
+    "expected_answer": "It approximately tripled, rising from 7.3 million in 2010 to 22.6 million in 2020.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 55,
+        "evidence": "The size of the middle\nclass also tripled from 2010 to 2020, increasing from 7.3\nmillion people in 2010 to 22.6 million in 2020",
+        "start": 1331,
+        "end": 1458
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Should the economic-class definitions used for the report's welfare discussion be treated as Vietnamese government definitions?",
+    "expected_answer": "No. They are analytical definitions for illustrating welfare distribution dynamics, even where some lower poverty lines are monetarily comparable with MOLISA thresholds.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 56,
+        "evidence": "While some of the lower-level W orld Bank poverty lines are comparable\nin monetary value to the MOLISA monetary dimension of poverty thresholds, these definitions do not reflect government\ndefinitions of economic classes. Rather, they are created to help illustrate the discussion on welfare distribution dynamics.",
+        "start": 1700,
+        "end": 2014
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  },
+  {
+    "id": "d09",
+    "split": "dev",
+    "answerable": true,
+    "question": "Among people who were not poor, how common was falling into poverty between 2016 and 2018 compared with 2010 to 2012?",
+    "expected_answer": "Less than 2 percent fell into poverty in 2016–2018, about half the likelihood in 2010–2012.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 57,
+        "evidence": "Between 2016 and 2018, less than 2 percent\nof the nonpoor fell into poverty, half the likelihood\nfrom 2010 to 2012 (Figure 1.15.A).",
+        "start": 1971,
+        "end": 2102
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d10",
+    "split": "dev",
+    "answerable": true,
+    "question": "Which employment transitions were associated with both high rates of moving up and low rates of moving down the economic classes?",
+    "expected_answer": "Completely exiting agriculture or gaining employment with a formal contract.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 59,
+        "evidence": "Groups that experienced\nhigh rates of climbing and low rates of sliding are those\nwhich exited agriculture completely or gained employment\nwith a formal contract.",
+        "start": 430,
+        "end": 592
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d11",
+    "split": "dev",
+    "answerable": true,
+    "question": "Why is there no VHLSS panel for 2020 in the comparison described in the report?",
+    "expected_answer": "The 2010–2018 samples used a frame based on the 2009 Census, but the 2020 sample used the 2019 Census, so the panel did not continue into 2020.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 59,
+        "evidence": "The VHLSS 2010–2018 samples were drawn from\na master sample frame based on the 2009 Census. Since\nthe 2020 VHLSS was sampled from the 2019 Census, a\npanel does not exist for this year.",
+        "start": 2945,
+        "end": 3129
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d12",
+    "split": "dev",
+    "answerable": true,
+    "question": "Why does the report describe reducing inequality as having a double-dividend effect on poverty reduction?",
+    "expected_answer": "It reduces poverty today and accelerates future poverty reduction by breaking intergenerational poverty traps.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 60,
+        "evidence": "Reducing inequality has a\ndouble-dividend effect because it promotes poverty reduction\ntoday and accelerates poverty reduction in the future by\nbreaking cycles of intergenerational poverty traps.",
+        "start": 767,
+        "end": 962
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d13",
+    "split": "dev",
+    "answerable": true,
+    "question": "Whose income growth is the focus of the Shared Prosperity indicator when assessing whether economic growth is inclusive?",
+    "expected_answer": "The bottom 40 percent of the income distribution, rather than the population average or those at the top.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 61,
+        "evidence": "The Shared Prosperity indicator measures the extent to\nwhich economic growth is inclusive by focusing on income\ngrowth rates of the population at the bottom of the income\ndistribution (bottom 40 percent) rather than on average or\namong those at the top.",
+        "start": 1068,
+        "end": 1321
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved"
+  },
+  {
+    "id": "d14",
+    "split": "dev",
+    "answerable": true,
+    "question": "Under the scenario without increasing inequality, how did the October 2021 growth downgrade change the projected 2021 poverty rate at the $3.20/day 2011PPP line?",
+    "expected_answer": "The projection rose from 4.2 percent to 4.7 percent, roughly half a percentage point. These are scenario-based projections, not observed poverty outcomes.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 63,
+        "evidence": "Downgraded\ngrowth projections made in October 2021 estimated are that\npoverty will be about a half percentage point higher—4.7 vs.\n4.2 percent—in 2021 under the $3.20/day 2011PPP poverty\nline (and under the scenario without increasing inequality)",
+        "start": 1508,
+        "end": 1754
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  },
+  {
+    "id": "d15",
+    "split": "dev",
+    "answerable": true,
+    "question": "What income trend makes dependence on agriculture a continuing concern for the poorest households?",
+    "expected_answer": "Agricultural incomes showed little growth over the decade, despite the poorest households' dependence on that income source.",
+    "gold": [
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 65,
+        "evidence": "For\nthe poorest households, agriculture is more often the largest\nsource of household income, but agricultural incomes have\nalso shown little growth over the decade.",
+        "start": 1489,
+        "end": 1654
+      },
+      {
+        "source_id": "worldbank-vietnam-poverty-equity-2022",
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "page": 85,
+        "evidence": "Agriculture is one of the lowest\nrevenue-generating economic activities that households can\nbe engaged in. When examining dynamics in nominal total\nearnings, agriculture incomes remain similar in 2010 and 2020.",
+        "start": 1118,
+        "end": 1328
+      }
+    ],
+    "origin": "Day06 dev; primary and alternative evidence preserved",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  },
+  {
+    "id": "du01",
+    "split": "dev",
+    "answerable": false,
+    "question": "What was the observed national poverty rate measured by a household survey actually conducted in calendar year 2025?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The indexed 2022 report discusses earlier surveys and some projections. Mentions of 2025 are not observations from a survey conducted in 2025; no such observed result is in this corpus.",
+    "absence_audit": "Scope: all 39 indexed pages, not the complete 232-page PDF. Corpus read/keyword inspection before agent runs; check again when grading."
+  },
+  {
+    "id": "du02",
+    "split": "dev",
+    "answerable": false,
+    "question": "What is the exact 2020 VHLSS income and sampling weight of household ID VN2020-000001?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "The corpus contains published aggregates and methodological explanations, not respondent-level microdata. That household ID and its income/weight record are absent from every indexed page.",
+    "absence_audit": "Scope: all 39 indexed pages, not the complete 232-page PDF. Corpus read/keyword inspection before agent runs; check again when grading."
+  }
+]

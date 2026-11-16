@@ -1,0 +1,57 @@
+{
+  "question": "What was Vietnam’s observed national child stunting rate measured in a survey conducted in 2028?",
+  "requested_model": "gemini-3.5-flash-lite",
+  "config": {
+    "name": "layout_vision_image",
+    "vision": true,
+    "visual_mode": "crop",
+    "image_citations_only": true,
+    "verify_answer": true,
+    "top_k": 3,
+    "context_budget_chars": 20000,
+    "max_searches": 3,
+    "max_inspections": 2,
+    "max_images": 2,
+    "image_width": 1600
+  },
+  "status": "error",
+  "answer": "",
+  "citations": [],
+  "events": [
+    {
+      "event": "error",
+      "detail": "Gemini HTTP 429: Rate limit or project quota exhausted",
+      "transport_attempts": [
+        {
+          "attempt": 1,
+          "status": "error",
+          "error": "Gemini HTTP 429: Rate limit or project quota exhausted",
+          "pacing_wait_seconds": 5.993480880999414,
+          "elapsed_seconds": 12.001378883998768
+        }
+      ]
+    }
+  ],
+  "error": "Gemini HTTP 429: Rate limit or project quota exhausted",
+  "context": "",
+  "context_ids": [],
+  "context_pages": [],
+  "image_artifacts": [],
+  "search_calls": 0,
+  "inspection_calls": 0,
+  "format_repairs": 0,
+  "protocol_repairs": 0,
+  "plain_response_repairs": 0,
+  "missing_image_recoveries": 0,
+  "visible_image_artifacts": [],
+  "answer_reviewed": false,
+  "elapsed_seconds": 12.001591586998984,
+  "usage": {
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "llm_calls": 0,
+    "api_cost_usd": null
+  },
+  "case_id": "bd16",
+  "split": "dev"
+}

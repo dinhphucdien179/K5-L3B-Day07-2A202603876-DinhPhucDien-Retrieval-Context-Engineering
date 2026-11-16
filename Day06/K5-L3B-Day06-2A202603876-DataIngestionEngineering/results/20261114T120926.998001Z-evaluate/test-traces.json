@@ -1,0 +1,1489 @@
+[
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Which two kinds of insurance does the report associate with having a job contract?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 77,
+        "evidence_quote": "Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance.",
+        "evidence_start": 2720,
+        "evidence_end": 2831,
+        "gold_text_sha256": "7f66099b740e50fe830159b63e2ed0e8f5ace64de5b290d68c8ad558e63d2d9b"
+      }
+    ],
+    "expected_answer": "Social insurance and unemployment insurance.",
+    "hits": [
+      {
+        "chunk_id": "b5a349e51a0d4848bceb689e5d60efa028eea1058ef1349ec3781a4c75e3846b",
+        "text": ".4 percent in\n2010. Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance. But 21\nmillion households, or 81 percent of all households, still have\nat least one household member who either has a wage job\nwithout a contract, is engaged in self-em",
+        "metadata": {
+          "page": 77,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 3000,
+          "language": "English",
+          "char_start": 2700,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 57,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4818948938156571
+      },
+      {
+        "chunk_id": "765c655924e11fb8673d1de3663031235d2016ab706c8fe1b05344a7af6102fa",
+        "text": "obs\nin foreign-owned firms are formal in nature, or have a work\ncontract and offer social insurance. In 2020, about half of\nall jobs with contracts were in the manufacturing sector.\nThe public sector is the only other sector also that has high\nrates of formal jobs. In net, there were over 2 million",
+        "metadata": {
+          "page": 78,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1379,
+          "language": "English",
+          "char_start": 1080,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 58,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.45304458773667666
+      },
+      {
+        "chunk_id": "4ec96816e07c83dd9339fd5ba18c38c112b3ec97809e49f7dedb0fdd27bec1dd",
+        "text": "informal, with only 27 percent of wage workers\nhaving a contract through which employers contribute to\nsocial insurance and health care. At the household level, over\n40 percent of households in 2020 now have a member whose\nprimary wage job has a contract, compared to 31.4 percent in\n2010. Having a j",
+        "metadata": {
+          "page": 77,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2730,
+          "language": "English",
+          "char_start": 2430,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 57,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4417092467373168
+      }
+    ],
+    "evidence_match": [
+      true,
+      false,
+      false
+    ],
+    "hit1": true,
+    "hit3": true,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "A",
+    "physical_index": "A",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Which two kinds of insurance does the report associate with having a job contract?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 77,
+        "evidence_quote": "Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance.",
+        "evidence_start": 2720,
+        "evidence_end": 2831,
+        "gold_text_sha256": "7f66099b740e50fe830159b63e2ed0e8f5ace64de5b290d68c8ad558e63d2d9b"
+      }
+    ],
+    "expected_answer": "Social insurance and unemployment insurance.",
+    "hits": [
+      {
+        "chunk_id": "87be17cca60bee42fde426881da8dc4efcca5299b7a38a1bc42122af93a54a45",
+        "text": "compared to 31.4 percent in\n2010. Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance. But 21\nmillion households, or 81 percent of all households, still have\nat least one household member who either has a wage job\nwithout a contract, is",
+        "metadata": {
+          "page": 77,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2981,
+          "language": "English",
+          "char_start": 2686,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 57,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.49086217500527307
+      },
+      {
+        "chunk_id": "ec40d5eaba3394fa4cc660392c6a4fd8ffa24d2cb96814c9d8957b9c00773e79",
+        "text": "92) often report they are employed but not\nearning wages because they earn income from commissions\non tickets sold and thus report business income. Even with\nthese distinctions, there is large variation in the type of work\nand quality of work associated with wage employment.\nW age income can be",
+        "metadata": {
+          "page": 82,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2671,
+          "language": "English",
+          "char_start": 2376,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 62,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4653696099143996
+      },
+      {
+        "chunk_id": "6d2243e7d023bb50a03fdd3fa9de1003ae197167c8c4bbb804aa8ac91301430f",
+        "text": "insurance and real estate\nMining and quarrying\nConstruction\nT ransport, storage, and comms\nOther\nManufacturing\nCommerce\nPublic admin\n0\n20\n40\n60\n80\n100\n46.6\n14.9\n9.3\n32.8\n19.1\n14.8\n12.8\n17.0\n56.2\n15.915.9\n23.1\n40.4\nSource: W orld Bank staff calculations using VHLSS 2010–2020.\nFigure 2.9.",
+        "metadata": {
+          "page": 79,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1174,
+          "language": "English",
+          "char_start": 887,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 59,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4399773275831935
+      }
+    ],
+    "evidence_match": [
+      true,
+      false,
+      false
+    ],
+    "hit1": true,
+    "hit3": true,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "B",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Which two kinds of insurance does the report associate with having a job contract?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 77,
+        "evidence_quote": "Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance.",
+        "evidence_start": 2720,
+        "evidence_end": 2831,
+        "gold_text_sha256": "7f66099b740e50fe830159b63e2ed0e8f5ace64de5b290d68c8ad558e63d2d9b"
+      }
+    ],
+    "expected_answer": "Social insurance and unemployment insurance.",
+    "hits": [
+      {
+        "chunk_id": "87be17cca60bee42fde426881da8dc4efcca5299b7a38a1bc42122af93a54a45",
+        "text": "compared to 31.4 percent in\n2010. Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance. But 21\nmillion households, or 81 percent of all households, still have\nat least one household member who either has a wage job\nwithout a contract, is",
+        "metadata": {
+          "page": 77,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2981,
+          "language": "English",
+          "char_start": 2686,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 57,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.49086217500527307
+      },
+      {
+        "chunk_id": "ec40d5eaba3394fa4cc660392c6a4fd8ffa24d2cb96814c9d8957b9c00773e79",
+        "text": "92) often report they are employed but not\nearning wages because they earn income from commissions\non tickets sold and thus report business income. Even with\nthese distinctions, there is large variation in the type of work\nand quality of work associated with wage employment.\nW age income can be",
+        "metadata": {
+          "page": 82,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2671,
+          "language": "English",
+          "char_start": 2376,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 62,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4653696099143996
+      },
+      {
+        "chunk_id": "6d2243e7d023bb50a03fdd3fa9de1003ae197167c8c4bbb804aa8ac91301430f",
+        "text": "insurance and real estate\nMining and quarrying\nConstruction\nT ransport, storage, and comms\nOther\nManufacturing\nCommerce\nPublic admin\n0\n20\n40\n60\n80\n100\n46.6\n14.9\n9.3\n32.8\n19.1\n14.8\n12.8\n17.0\n56.2\n15.915.9\n23.1\n40.4\nSource: W orld Bank staff calculations using VHLSS 2010–2020.\nFigure 2.9.",
+        "metadata": {
+          "page": 79,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1174,
+          "language": "English",
+          "char_start": 887,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 59,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.4399773275831935
+      }
+    ],
+    "evidence_match": [
+      true,
+      false,
+      false
+    ],
+    "hit1": true,
+    "hit3": true,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "C",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "How do the VHLSS and the Labor Force Survey differ in their recall periods for income or labor-market activity?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 83,
+        "evidence_quote": "Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth and does not include income sources from non-labor market activity, or detailed sector or business costs.",
+        "evidence_start": 433,
+        "evidence_end": 693,
+        "gold_text_sha256": "8d65169cba0b4cbd73bc1ab45f5f7b77ba3faef9b7b9c15d044c8dfc603d4200"
+      }
+    ],
+    "expected_answer": "The VHLSS records income for the previous 12 months, while the Labor Force Survey records labor-market activity for the previous month.",
+    "hits": [
+      {
+        "chunk_id": "6cac68a92f3f80a9276ef48d8334a4301986ce2b9b55ad578719adabaddb8096",
+        "text": "is one of the main differences between welfare analysis conducted\nusing the household survey and other labor and income analyses using labor force surveys (LFS). Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity ov",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 570,
+          "language": "English",
+          "char_start": 271,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6831288933754016
+      },
+      {
+        "chunk_id": "fd0104be52ae10717b93bf9d8e0aac33c87bba02f37f3a1e7ac8b5a95b564888",
+        "text": "fferences arise from taking into consideration multiple jobs from all working members in\nhouseholds and across the entire year. In the VHLSS, half of all workers in the primary job stated that they were working but\ndid not receive a salary. These earnings may be reflected in family business (non-ag)",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 3000,
+          "language": "English",
+          "char_start": 2700,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6213796960485174
+      },
+      {
+        "chunk_id": "a51be84577912c6a07da99addfa2f1c4cb27cb02dc4f7ce63d5f225bd8082b1a",
+        "text": "main difference is that reliance on wages in manufacturing appears higher in the VHLSS, but in the LFS, employment\nin services is higher than in manufacturing. This is because the sector of activity may be related to wages, farm, or non-\nfarm business incomes. These differences arise from taking in",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2730,
+          "language": "English",
+          "char_start": 2431,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.5706808396970998
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "A",
+    "physical_index": "A",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "How do the VHLSS and the Labor Force Survey differ in their recall periods for income or labor-market activity?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 83,
+        "evidence_quote": "Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth and does not include income sources from non-labor market activity, or detailed sector or business costs.",
+        "evidence_start": 433,
+        "evidence_end": 693,
+        "gold_text_sha256": "8d65169cba0b4cbd73bc1ab45f5f7b77ba3faef9b7b9c15d044c8dfc603d4200"
+      }
+    ],
+    "expected_answer": "The VHLSS records income for the previous 12 months, while the Labor Force Survey records labor-market activity for the previous month.",
+    "hits": [
+      {
+        "chunk_id": "9d61117a2e5a3ba6d9eb4187dad25eb142ff8e394ba7fd8f7fb07db67040db7c",
+        "text": "differences between welfare analysis conducted\nusing the household survey and other labor and income analyses using labor force surveys (LFS). Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 587,
+          "language": "English",
+          "char_start": 290,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6780624389648485
+      },
+      {
+        "chunk_id": "1da04669d27646d7638bc5cbeca369874e08225c677fca87711a278195dd3784",
+        "text": "1.4.\nSource: W orld Bank staff calculation using VHLSS panel sub-samples.\nAcross the biennial household expenditure modules,\nabout half of the sample are re-interviewed and half are\nrotated. Furthermore, a quarter of the samples are re-\ninterviewed over three consecutive rounds spanning four\nyears.",
+        "metadata": {
+          "page": 59,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2944,
+          "language": "English",
+          "char_start": 2645,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 39,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.5773564232971427
+      },
+      {
+        "chunk_id": "94695d42b4b93cf140c34ec3266556757348ae1ea67d3ecc978bcca2c09d5411",
+        "text": "household-level analysis of incomes and wages. For example,\none main difference is that reliance on wages in manufacturing appears higher in the VHLSS, but in the LFS, employment\nin services is higher than in manufacturing. This is because the sector of activity may be related to wages, farm, or",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2663,
+          "language": "English",
+          "char_start": 2367,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.5707186716366616
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "B",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "How do the VHLSS and the Labor Force Survey differ in their recall periods for income or labor-market activity?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 83,
+        "evidence_quote": "Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth and does not include income sources from non-labor market activity, or detailed sector or business costs.",
+        "evidence_start": 433,
+        "evidence_end": 693,
+        "gold_text_sha256": "8d65169cba0b4cbd73bc1ab45f5f7b77ba3faef9b7b9c15d044c8dfc603d4200"
+      }
+    ],
+    "expected_answer": "The VHLSS records income for the previous 12 months, while the Labor Force Survey records labor-market activity for the previous month.",
+    "hits": [
+      {
+        "chunk_id": "9d61117a2e5a3ba6d9eb4187dad25eb142ff8e394ba7fd8f7fb07db67040db7c",
+        "text": "differences between welfare analysis conducted\nusing the household survey and other labor and income analyses using labor force surveys (LFS). Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 587,
+          "language": "English",
+          "char_start": 290,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6780624389648485
+      },
+      {
+        "chunk_id": "1da04669d27646d7638bc5cbeca369874e08225c677fca87711a278195dd3784",
+        "text": "1.4.\nSource: W orld Bank staff calculation using VHLSS panel sub-samples.\nAcross the biennial household expenditure modules,\nabout half of the sample are re-interviewed and half are\nrotated. Furthermore, a quarter of the samples are re-\ninterviewed over three consecutive rounds spanning four\nyears.",
+        "metadata": {
+          "page": 59,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2944,
+          "language": "English",
+          "char_start": 2645,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 39,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.5773564232971427
+      },
+      {
+        "chunk_id": "94695d42b4b93cf140c34ec3266556757348ae1ea67d3ecc978bcca2c09d5411",
+        "text": "household-level analysis of incomes and wages. For example,\none main difference is that reliance on wages in manufacturing appears higher in the VHLSS, but in the LFS, employment\nin services is higher than in manufacturing. This is because the sector of activity may be related to wages, farm, or",
+        "metadata": {
+          "page": 83,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2663,
+          "language": "English",
+          "char_start": 2367,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 63,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.5707186716366616
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "C",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why do direct social-assistance cash benefit levels lose value over time?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 89,
+        "evidence_quote": "Benefit levels are also declining\nin value over time because they are not indexed to inflation.",
+        "evidence_start": 2320,
+        "evidence_end": 2415,
+        "gold_text_sha256": "7389392dab5d2f226711df7045b0dd4d9a58476cf4f56acbe53257736fb087aa"
+      }
+    ],
+    "expected_answer": "The benefits are not indexed to inflation.",
+    "hits": [
+      {
+        "chunk_id": "51a49da932e5bb268404f275806ff696bc9b3de146bbe9e0ef22ea919e54e2ab",
+        "text": "on\npeople are receiving direct cash support by being identified as\na poor or near-poor household (T able 2.2). Benefit levels are\nlow, and coverage is limited. Benefit levels are also declining\nin value over time because they are not indexed to inflation.\nAbout 15 percent of households reported rece",
+        "metadata": {
+          "page": 89,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2460,
+          "language": "English",
+          "char_start": 2160,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 69,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.674193263053894
+      },
+      {
+        "chunk_id": "96c3dfe9f0ab0aa8e4dc477e158bb04a0d9b6e601cc4093dffa9e4e33590f4a7",
+        "text": "Chapter 2.\na review of the drivers of poverty reduCtion\nFrom the Last Mile to the Next Mile 71\nSocial assistance through direct cash transfers are small,\nbut indirect benefits can be larger. There is a much wider\nset of programs spanning relevant ministries that provide\nsupport to poor households in",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 300,
+          "language": "English",
+          "char_start": 0,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6574008464813232
+      },
+      {
+        "chunk_id": "074ba595c2390e9a4159b5ad4ee58d199b47dbb2aa6c454f31e7830d8fbdc878",
+        "text": "ude in measures of household\ncurrent income. However, remaining types of benefits are\nrarely cited to be received. T argeting performance of these\nadditional programs varies. Social assistance schemes include\nprograms not just targeted to the poor but also based on\ncategorical targeting—that is, peo",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 840,
+          "language": "English",
+          "char_start": 540,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6364629864692688
+      }
+    ],
+    "evidence_match": [
+      true,
+      false,
+      false
+    ],
+    "hit1": true,
+    "hit3": true,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "A",
+    "physical_index": "A",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why do direct social-assistance cash benefit levels lose value over time?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 89,
+        "evidence_quote": "Benefit levels are also declining\nin value over time because they are not indexed to inflation.",
+        "evidence_start": 2320,
+        "evidence_end": 2415,
+        "gold_text_sha256": "7389392dab5d2f226711df7045b0dd4d9a58476cf4f56acbe53257736fb087aa"
+      }
+    ],
+    "expected_answer": "The benefits are not indexed to inflation.",
+    "hits": [
+      {
+        "chunk_id": "ecc8957b674b19c8b32eac61e56f55b3685d3404071ff7a4b93addb8aaef2267",
+        "text": "and broader geographically\ntargeted public investments. Administratively, about 7 million\npeople are receiving direct cash support by being identified as\na poor or near-poor household (T able 2.2). Benefit levels are\nlow, and coverage is limited. Benefit levels are also declining\nin value over time",
+        "metadata": {
+          "page": 89,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2372,
+          "language": "English",
+          "char_start": 2073,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 69,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.684524655342102
+      },
+      {
+        "chunk_id": "6f20895bb2cebf59e77cb155a6af4f651f3d6a2e6c1305c2162fd8e5ecfee962",
+        "text": "Chapter 2.\na review of the drivers of poverty reduCtion\nFrom the Last Mile to the Next Mile 71\nSocial assistance through direct cash transfers are small,\nbut indirect benefits can be larger. There is a much wider\nset of programs spanning relevant ministries that provide\nsupport to poor households in",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 300,
+          "language": "English",
+          "char_start": 0,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6574008464813232
+      },
+      {
+        "chunk_id": "3b7caf45f3754df252262dadaa95d4af29943069ae9d5757d116039aed602d4a",
+        "text": "remaining types of benefits are\nrarely cited to be received. T argeting performance of these\nadditional programs varies. Social assistance schemes include\nprograms not just targeted to the poor but also based on\ncategorical targeting—that is, people with disabilities, people\nwith HIV , the elderly,",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 893,
+          "language": "English",
+          "char_start": 594,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6453619810723089
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "B",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "Why do direct social-assistance cash benefit levels lose value over time?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 89,
+        "evidence_quote": "Benefit levels are also declining\nin value over time because they are not indexed to inflation.",
+        "evidence_start": 2320,
+        "evidence_end": 2415,
+        "gold_text_sha256": "7389392dab5d2f226711df7045b0dd4d9a58476cf4f56acbe53257736fb087aa"
+      }
+    ],
+    "expected_answer": "The benefits are not indexed to inflation.",
+    "hits": [
+      {
+        "chunk_id": "ecc8957b674b19c8b32eac61e56f55b3685d3404071ff7a4b93addb8aaef2267",
+        "text": "and broader geographically\ntargeted public investments. Administratively, about 7 million\npeople are receiving direct cash support by being identified as\na poor or near-poor household (T able 2.2). Benefit levels are\nlow, and coverage is limited. Benefit levels are also declining\nin value over time",
+        "metadata": {
+          "page": 89,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2372,
+          "language": "English",
+          "char_start": 2073,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 69,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.684524655342102
+      },
+      {
+        "chunk_id": "6f20895bb2cebf59e77cb155a6af4f651f3d6a2e6c1305c2162fd8e5ecfee962",
+        "text": "Chapter 2.\na review of the drivers of poverty reduCtion\nFrom the Last Mile to the Next Mile 71\nSocial assistance through direct cash transfers are small,\nbut indirect benefits can be larger. There is a much wider\nset of programs spanning relevant ministries that provide\nsupport to poor households in",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 300,
+          "language": "English",
+          "char_start": 0,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6574008464813232
+      },
+      {
+        "chunk_id": "3b7caf45f3754df252262dadaa95d4af29943069ae9d5757d116039aed602d4a",
+        "text": "remaining types of benefits are\nrarely cited to be received. T argeting performance of these\nadditional programs varies. Social assistance schemes include\nprograms not just targeted to the poor but also based on\ncategorical targeting—that is, people with disabilities, people\nwith HIV , the elderly,",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 893,
+          "language": "English",
+          "char_start": 594,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.6453619810723089
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "C",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What was the dominant channel behind poverty reduction across most of the decade?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 91,
+        "evidence_quote": "The drivers of poverty reduction are\noverwhelmingly attributable to growth factors throughout\nmost of the decade, with a smaller role played by redistribution\nas a channel of poverty reduction.",
+        "evidence_start": 2200,
+        "evidence_end": 2393,
+        "gold_text_sha256": "dc8b832c337c3f5406fa23ad83a6f429ce09f6f20dbb772142d0dfa63d6e114c"
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 65,
+        "evidence_quote": "The drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade.",
+        "evidence_start": 590,
+        "evidence_end": 703,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "cb34a757a71e5fff7548a89d441485740c9fc43f80a14bb037ae43379a50c31d",
+        "verification_note": "The Chapter 1 summary explicitly attributes the drivers overwhelmingly to growth factors; it independently supports growth as the dominant channel."
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 92,
+        "evidence_quote": "A growth-driven poverty reduction process\noccurred thanks to a decade of prosperity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.",
+        "evidence_start": 193,
+        "evidence_end": 484,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "8cf3e20ade5398dba09e9c3a3038383632753c586545e8848e1e8ca111929306",
+        "verification_note": "Equivalent prose explains the growth-driven process and explicitly describes the relatively small overall redistribution effect."
+      }
+    ],
+    "expected_answer": "Growth factors were the dominant channel.",
+    "hits": [
+      {
+        "chunk_id": "ca9436cc0782c28742ccde508aef8f34906ae717bfad625145d2616c27c884e4",
+        "text": "The previous sections discussed household profiles and\nincome trends over the decade and alluded to potentially\nimportant drivers. This section quantifies the channels and\ndrivers of poverty reduction by decomposing poverty rates by\nbroad groups and income sources, as well as across different\nperio",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1650,
+          "language": "English",
+          "char_start": 1351,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.8096473330469544
+      },
+      {
+        "chunk_id": "e207434d3d0f4a124a55d5af0929ca100048ce3eb5631517f2ffbf775077f7f3",
+        "text": "h in supporting poverty\nreduction continued in importance throughout the\nlast decade. The role of certain income sources and sectors\nfor poverty reduction was clearly illustrated, both in terms\nof those that matter most (e.g., wage growth), and those\nthat played a lesser role (e.g., social assistanc",
+        "metadata": {
+          "page": 94,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1920,
+          "language": "English",
+          "char_start": 1620,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 74,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.8028246877894006
+      },
+      {
+        "chunk_id": "0adb1bf5976d6d3ebc947df00a878cac9d454efc396a0abe175d9ba4648f65f6",
+        "text": "well as across different\nperiods over the decade. 30 Nationally, poverty reduction was\nhigher during the first half of the decade, was concentrated\nin initially poorer areas, and was almost exclusively a rural\nphenomenon. From 2010 to 2016, LMIC $3.20/day\n2011PPP poverty rates declined from 16.8 to",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1919,
+          "language": "English",
+          "char_start": 1620,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7812093291504404
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "A",
+    "physical_index": "A",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What was the dominant channel behind poverty reduction across most of the decade?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 91,
+        "evidence_quote": "The drivers of poverty reduction are\noverwhelmingly attributable to growth factors throughout\nmost of the decade, with a smaller role played by redistribution\nas a channel of poverty reduction.",
+        "evidence_start": 2200,
+        "evidence_end": 2393,
+        "gold_text_sha256": "dc8b832c337c3f5406fa23ad83a6f429ce09f6f20dbb772142d0dfa63d6e114c"
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 65,
+        "evidence_quote": "The drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade.",
+        "evidence_start": 590,
+        "evidence_end": 703,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "cb34a757a71e5fff7548a89d441485740c9fc43f80a14bb037ae43379a50c31d",
+        "verification_note": "The Chapter 1 summary explicitly attributes the drivers overwhelmingly to growth factors; it independently supports growth as the dominant channel."
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 92,
+        "evidence_quote": "A growth-driven poverty reduction process\noccurred thanks to a decade of prosperity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.",
+        "evidence_start": 193,
+        "evidence_end": 484,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "8cf3e20ade5398dba09e9c3a3038383632753c586545e8848e1e8ca111929306",
+        "verification_note": "Equivalent prose explains the growth-driven process and explicitly describes the relatively small overall redistribution effect."
+      }
+    ],
+    "expected_answer": "Growth factors were the dominant channel.",
+    "hits": [
+      {
+        "chunk_id": "d27cffcbcbde58463a4a0d68c3417373d794367dcaffd7a170eb5523630ef61f",
+        "text": "section quantifies the channels and\ndrivers of poverty reduction by decomposing poverty rates by\nbroad groups and income sources, as well as across different\nperiods over the decade. 30 Nationally, poverty reduction was\nhigher during the first half of the decade, was concentrated\nin initially poorer",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1787,
+          "language": "English",
+          "char_start": 1487,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.8978583277548372
+      },
+      {
+        "chunk_id": "1ef7aff5ede9d90249640776c0d8ae84e050cdb424cd68b0be7c03845b8543e6",
+        "text": "drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade. Chapter 2 describes broad labor market changes\nover the last decade and the evolution of household profiles\nand incomes in more detail. With respect to the drivers of\npoverty reduction,",
+        "metadata": {
+          "page": 65,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 889,
+          "language": "English",
+          "char_start": 594,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 45,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.799063992556097
+      },
+      {
+        "chunk_id": "a65ec5ab5fd36299831999259237257a5e1ba617e1bb459f5c914835e6a900fe",
+        "text": "growth-\ndriven poverty reduction process. Among sources of\nhousehold income, labor income was the primary driver of\npoverty reduction from 2010 to 2020, and these trends are\nbroadly consistent across regions and also ethnicity (Figure\nA.2.1.1). Job creation and rising wages as a promotive",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 877,
+          "language": "English",
+          "char_start": 588,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7912722354369037
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "B",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What was the dominant channel behind poverty reduction across most of the decade?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 91,
+        "evidence_quote": "The drivers of poverty reduction are\noverwhelmingly attributable to growth factors throughout\nmost of the decade, with a smaller role played by redistribution\nas a channel of poverty reduction.",
+        "evidence_start": 2200,
+        "evidence_end": 2393,
+        "gold_text_sha256": "dc8b832c337c3f5406fa23ad83a6f429ce09f6f20dbb772142d0dfa63d6e114c"
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 65,
+        "evidence_quote": "The drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade.",
+        "evidence_start": 590,
+        "evidence_end": 703,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "cb34a757a71e5fff7548a89d441485740c9fc43f80a14bb037ae43379a50c31d",
+        "verification_note": "The Chapter 1 summary explicitly attributes the drivers overwhelmingly to growth factors; it independently supports growth as the dominant channel."
+      },
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 92,
+        "evidence_quote": "A growth-driven poverty reduction process\noccurred thanks to a decade of prosperity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.",
+        "evidence_start": 193,
+        "evidence_end": 484,
+        "gold_source_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "gold_text_sha256": "8cf3e20ade5398dba09e9c3a3038383632753c586545e8848e1e8ca111929306",
+        "verification_note": "Equivalent prose explains the growth-driven process and explicitly describes the relatively small overall redistribution effect."
+      }
+    ],
+    "expected_answer": "Growth factors were the dominant channel.",
+    "hits": [
+      {
+        "chunk_id": "d27cffcbcbde58463a4a0d68c3417373d794367dcaffd7a170eb5523630ef61f",
+        "text": "section quantifies the channels and\ndrivers of poverty reduction by decomposing poverty rates by\nbroad groups and income sources, as well as across different\nperiods over the decade. 30 Nationally, poverty reduction was\nhigher during the first half of the decade, was concentrated\nin initially poorer",
+        "metadata": {
+          "page": 91,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1787,
+          "language": "English",
+          "char_start": 1487,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 71,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.8978583277548372
+      },
+      {
+        "chunk_id": "1ef7aff5ede9d90249640776c0d8ae84e050cdb424cd68b0be7c03845b8543e6",
+        "text": "drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade. Chapter 2 describes broad labor market changes\nover the last decade and the evolution of household profiles\nand incomes in more detail. With respect to the drivers of\npoverty reduction,",
+        "metadata": {
+          "page": 65,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 889,
+          "language": "English",
+          "char_start": 594,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 45,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.799063992556097
+      },
+      {
+        "chunk_id": "a65ec5ab5fd36299831999259237257a5e1ba617e1bb459f5c914835e6a900fe",
+        "text": "growth-\ndriven poverty reduction process. Among sources of\nhousehold income, labor income was the primary driver of\npoverty reduction from 2010 to 2020, and these trends are\nbroadly consistent across regions and also ethnicity (Figure\nA.2.1.1). Job creation and rising wages as a promotive",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 877,
+          "language": "English",
+          "char_start": 588,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7912722354369037
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "C",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Do the income-decomposition contributions establish causal effects on poverty, and what methodological limitation explains the answer?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 96,
+        "evidence_quote": "Second, the method is not a general equilibrium method, meaning that the counterfactual\ndistributions are not the result of an economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes.",
+        "evidence_start": 761,
+        "evidence_end": 1082,
+        "gold_text_sha256": "e1d8b14daf9438b5eee58c3321563618bbc1076253636fbdb80e3981bc3fada4"
+      }
+    ],
+    "expected_answer": "No. The method is not a general-equilibrium method: its counterfactual distributions are not economic equilibria, so the contributions describe distributional changes rather than causal effects.",
+    "hits": [
+      {
+        "chunk_id": "00c6be4607c5dde0083a62fd2fd4b8fbcebf037a2f679eb39c81a2b78a7534b6",
+        "text": "e importance of the impact of inequality on poverty\nreduction, highlighting a double-dividend effect (Alvaredo\nand Gasparini, 2015; Bourguignon, 2004). At a macro level,\nchanges in poverty can be decomposed into a combination\nof growth and redistribution effects (Bourguignon, 2003,\n2004; Datt and Ra",
+        "metadata": {
+          "page": 60,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 570,
+          "language": "English",
+          "char_start": 270,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 40,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7535921335220337
+      },
+      {
+        "chunk_id": "d6fb5c96e062697fda1730f81f51c5714e94063121fbe3453ba6e727d8c50a8c",
+        "text": "perity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 569,
+          "language": "English",
+          "char_start": 270,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7524095773696899
+      },
+      {
+        "chunk_id": "20db6938104d9393f9fce1dd4f5807020bb2370449c7ba53dac90bbab9a2d3e7",
+        "text": "decline in this income source worsens\ninequality. This is compounded by strong growth trends\nobserved for other income sources that are well received by\nhouseholds at the higher end of the distribution.\nFigure 2.20. Growth-driven poverty\nreduction over the last decade\nPercentage point change in pov",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 3000,
+          "language": "English",
+          "char_start": 2701,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7261917591094971
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "A",
+    "physical_index": "A",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Do the income-decomposition contributions establish causal effects on poverty, and what methodological limitation explains the answer?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 96,
+        "evidence_quote": "Second, the method is not a general equilibrium method, meaning that the counterfactual\ndistributions are not the result of an economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes.",
+        "evidence_start": 761,
+        "evidence_end": 1082,
+        "gold_text_sha256": "e1d8b14daf9438b5eee58c3321563618bbc1076253636fbdb80e3981bc3fada4"
+      }
+    ],
+    "expected_answer": "No. The method is not a general-equilibrium method: its counterfactual distributions are not economic equilibria, so the contributions describe distributional changes rather than causal effects.",
+    "hits": [
+      {
+        "chunk_id": "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+        "text": "economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes. It is assumed that\nby keeping all other components constant, each income component is allowed to change,",
+        "metadata": {
+          "page": 96,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1187,
+          "language": "English",
+          "char_start": 888,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 76,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7495391518152279
+      },
+      {
+        "chunk_id": "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+        "text": "expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are consistent with a",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 587,
+          "language": "English",
+          "char_start": 297,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7411469441994117
+      },
+      {
+        "chunk_id": "2cc56c00081d1b43b610391505a621712cf90e2eba96682b30512d5df80a5777",
+        "text": "in the future by\nbreaking cycles of intergenerational poverty traps. Lower\nlevels of inequality have been empirically associated with\nhigher growth elasticity of poverty reduction; however, the\nempirical evidence is not conclusive (Bergstrom, 2020).\nConsumption growth was consistently high over\nthe",
+        "metadata": {
+          "page": 60,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "1",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1193,
+          "language": "English",
+          "char_start": 894,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 40,
+          "chapter_title": "Taking stock of welfare trends over a dynamic decade",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7406293308359797
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "B",
+    "physical_index": "B",
+    "applied_filter": {}
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "Do the income-decomposition contributions establish causal effects on poverty, and what methodological limitation explains the answer?",
+    "gold": [
+      {
+        "gold_source_id": "worldbank-vietnam-poverty-equity-2022",
+        "gold_page": 96,
+        "evidence_quote": "Second, the method is not a general equilibrium method, meaning that the counterfactual\ndistributions are not the result of an economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes.",
+        "evidence_start": 761,
+        "evidence_end": 1082,
+        "gold_text_sha256": "e1d8b14daf9438b5eee58c3321563618bbc1076253636fbdb80e3981bc3fada4"
+      }
+    ],
+    "expected_answer": "No. The method is not a general-equilibrium method: its counterfactual distributions are not economic equilibria, so the contributions describe distributional changes rather than causal effects.",
+    "hits": [
+      {
+        "chunk_id": "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+        "text": "economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes. It is assumed that\nby keeping all other components constant, each income component is allowed to change,",
+        "metadata": {
+          "page": 96,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 1187,
+          "language": "English",
+          "char_start": 888,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 76,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7495391518152279
+      },
+      {
+        "chunk_id": "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+        "text": "expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are consistent with a",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 587,
+          "language": "English",
+          "char_start": 297,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7411469441994117
+      },
+      {
+        "chunk_id": "929090fd85654ae08bbf91a0fa6eaafb975d636a59b611fc1a3ad8c99e785fb5",
+        "text": "and dependent on\nagriculture income, a decline in this income source worsens\ninequality. This is compounded by strong growth trends\nobserved for other income sources that are well received by\nhouseholds at the higher end of the distribution.\nFigure 2.20. Growth-driven poverty\nreduction over the last",
+        "metadata": {
+          "page": 92,
+          "year": 2022,
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "chapter": "2",
+          "country": "Viet Nam",
+          "version": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+          "char_end": 2962,
+          "language": "English",
+          "char_start": 2662,
+          "document_id": "worldbank-vietnam-poverty-equity-2022",
+          "printed_page": 72,
+          "chapter_title": "A review of the drivers of poverty reduction",
+          "document_type": "Poverty Assessment",
+          "report_number": "170511",
+          "api_document_date": "2023-04-10T04:00:00Z"
+        },
+        "score": 0.7366828761507808
+      }
+    ],
+    "evidence_match": [
+      false,
+      false,
+      false
+    ],
+    "hit1": false,
+    "hit3": false,
+    "label_method": "normalized evidence substring + source/page; equivalents need human review",
+    "strategy": "C",
+    "physical_index": "B",
+    "applied_filter": {
+      "chapter": "2"
+    }
+  }
+]

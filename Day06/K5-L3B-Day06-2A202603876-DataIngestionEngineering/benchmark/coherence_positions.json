@@ -1,0 +1,95 @@
+{
+  "rule": "First ten units in fixed source order; first prose paragraph >=180 characters in each; anchor at midpoint. Selected before retrieval/coherence scores.",
+  "positions": [
+    {
+      "id": "coherence-01",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 45,
+      "char_position": 1533,
+      "paragraph_start": 0,
+      "paragraph_end": 3067,
+      "source_text_sha256": "b5261e5622515c8e2f77de53e6be38dbde3bbfe7b5a94871eb7123fe786d0d6e"
+    },
+    {
+      "id": "coherence-02",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 46,
+      "char_position": 1423,
+      "paragraph_start": 0,
+      "paragraph_end": 2847,
+      "source_text_sha256": "e39da8f461ef605a98cdb0fc4493152bb0cd553d7fd593908d3ad597db21fed0"
+    },
+    {
+      "id": "coherence-03",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 47,
+      "char_position": 1624,
+      "paragraph_start": 0,
+      "paragraph_end": 3249,
+      "source_text_sha256": "ddd3f11fa8fc80e60c39015a804ca8f9c76f4d540bb33ae8ec9653d54baa8775"
+    },
+    {
+      "id": "coherence-04",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 49,
+      "char_position": 1354,
+      "paragraph_start": 0,
+      "paragraph_end": 2709,
+      "source_text_sha256": "58b10324abbb4cdfcece12a8a25435c66cfba3b5cb88d330e915d0fd32e4939a"
+    },
+    {
+      "id": "coherence-05",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 50,
+      "char_position": 2073,
+      "paragraph_start": 0,
+      "paragraph_end": 4146,
+      "source_text_sha256": "dace744c54992934cfb728875ec49bbd86eab3346b73f98f3f9e8bc1b4d80d69"
+    },
+    {
+      "id": "coherence-06",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 51,
+      "char_position": 1190,
+      "paragraph_start": 0,
+      "paragraph_end": 2380,
+      "source_text_sha256": "b36a192ad5dfa0080cd667cbd399624f7c5c5c3b322ebc81f08c078eef8f30c1"
+    },
+    {
+      "id": "coherence-07",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 52,
+      "char_position": 901,
+      "paragraph_start": 0,
+      "paragraph_end": 1803,
+      "source_text_sha256": "6c3969ea237941aecd8b0e68be58dc742f8c0793125b3907bab5edff03e32261"
+    },
+    {
+      "id": "coherence-08",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 54,
+      "char_position": 1387,
+      "paragraph_start": 0,
+      "paragraph_end": 2775,
+      "source_text_sha256": "00114dd2f1c6346330d00506c3a3e5c0cbafffabdafb17253c198d96e4f6fbca"
+    },
+    {
+      "id": "coherence-09",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 55,
+      "char_position": 1545,
+      "paragraph_start": 0,
+      "paragraph_end": 3091,
+      "source_text_sha256": "abca1f832c64a06401abf848590e2fc84ba7962ef762b48221e662dfeb7afb10"
+    },
+    {
+      "id": "coherence-10",
+      "document_id": "worldbank-vietnam-poverty-equity-2022",
+      "unit_id": 56,
+      "char_position": 1507,
+      "paragraph_start": 0,
+      "paragraph_end": 3014,
+      "source_text_sha256": "0d71f63422ff00c60ed646287acd23ed50b5b62ca87a56e29f866be79177355e"
+    }
+  ]
+}

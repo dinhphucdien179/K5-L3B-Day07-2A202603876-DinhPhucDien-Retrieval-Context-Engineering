@@ -1,0 +1,347 @@
+{
+  "bd01": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p049-table-1.3": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 49,
+        "region": "Panel A LMIC row, 2020; panel B LMIC row, 2020"
+      }
+    ]
+  },
+  "bd02": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 75,
+        "region": "National row, 2009 and 2019 columns"
+      }
+    ]
+  },
+  "bd03": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 200,
+        "region": "Health row and two indented subrows"
+      }
+    ]
+  },
+  "bd04": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p052-figure-1.7": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 52,
+        "region": "Three map panels, year labels and shared 0–100% legend"
+      }
+    ]
+  },
+  "bd05": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p107-figure-3.9": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 107,
+        "region": "Two map titles and shared poverty-rate color legend"
+      }
+    ]
+  },
+  "bd06": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p179-figure-6.5": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 179,
+        "region": "Top-left temperature and top-middle PM2.5 maps, legends; paragraph above"
+      }
+    ]
+  },
+  "bd07": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p137-figure-4.8": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 137,
+        "region": "Three age groups, female/male legend and vertical attendance-percent axis"
+      }
+    ]
+  },
+  "bd08": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p161-figure-5.11": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 161,
+        "region": "Two stacked-bar panels and four-color skill legend"
+      }
+    ]
+  },
+  "bd09": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p177-figure-6.3": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 177,
+        "region": "Green Vietnam line, orange LMIC line; share of total health expenditure axis"
+      }
+    ]
+  },
+  "bd10": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": [
+      {
+        "page": 48,
+        "region": "2020 row, LMIC column"
+      },
+      {
+        "page": 49,
+        "region": "Panel A 2020 LMIC and explanatory paragraph above"
+      }
+    ]
+  },
+  "bd11": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p137-table-4.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Vietnam 2020 survival-to-age5 cell"
+      },
+      {
+        "page": 137,
+        "region": "Survival-to-age5 male/female2020 cells"
+      }
+    ]
+  },
+  "bd12": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p200-table-7.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "Total revenues & grants row"
+      },
+      {
+        "page": 200,
+        "region": "Total expenditures row and title central government"
+      }
+    ]
+  },
+  "bd13": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p081": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 81,
+        "region": "Box2.1 continued, upper left paragraph"
+      }
+    ]
+  },
+  "bd14": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p178": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 178,
+        "region": "Left column Shocks experienced by households during COVID-19, first paragraph"
+      }
+    ]
+  },
+  "bd15": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p221": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 221,
+        "region": "Bottom-right paragraph Continuing improvements in higher education access and quality"
+      }
+    ]
+  },
+  "bd16": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bd17": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bd18": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  }
+}

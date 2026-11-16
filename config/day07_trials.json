@@ -1,0 +1,10 @@
+{
+  "selection_rule": "Prefer dev grounded-answer mean, then context evidence rate, then Evidence Hit@3; use cost/time to resolve ties. Inspect abstention and false abstention before freezing.",
+  "trials": [
+    {"name": "dense_baseline", "method": "dense", "index": "A", "top_k": 5, "budget": 6000, "max_searches": 3, "neighbors": 0, "hypothesis": "Day06 dense index without context expansion is the baseline."},
+    {"name": "bm25", "method": "bm25", "index": "A", "top_k": 5, "budget": 6000, "max_searches": 3, "neighbors": 0, "hypothesis": "Lexical matches may recover terms and statistics missed by dense retrieval."},
+    {"name": "hybrid", "method": "hybrid", "index": "A", "top_k": 5, "budget": 6000, "max_searches": 3, "neighbors": 0, "hypothesis": "RRF may combine complementary dense and lexical evidence."},
+    {"name": "hybrid_neighbors1", "method": "hybrid", "index": "A", "top_k": 5, "budget": 6000, "max_searches": 3, "neighbors": 1, "hypothesis": "One same-page neighbor on each side may restore definitions cut by 300-character windows."},
+    {"name": "hybrid_neighbors2", "method": "hybrid", "index": "A", "top_k": 5, "budget": 6000, "max_searches": 3, "neighbors": 2, "hypothesis": "Wider context may recover long qualifications, at the risk of crowding out other seeds."}
+  ]
+}

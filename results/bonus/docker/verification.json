@@ -1,0 +1,21 @@
+{
+  "verified_utc": "2026-11-16T10:30:03.934511+00:00",
+  "status": "passed",
+  "image_id": "sha256:e830cd7d23bef9bf294f3943fc0318cfa98b544d33910cb4c154059c6e2a8331",
+  "python_version": "3.12.16 (main, Nov  5 2026, 07:58:44) [GCC 12.2.0]",
+  "dotenv_version": "1.2.4",
+  "poppler": "pdftoppm version 22.12.0",
+  "prepare": {
+    "indexed_pages": 232,
+    "figure_records": 171,
+    "table_records": 34,
+    "corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1"
+  },
+  "unit_tests": 46,
+  "render_check": {
+    "page": 135,
+    "path": ".cache/bonus/p135-w1536.jpg",
+    "sha256": "11c6fe4366552ecf6d775b48fa788e228052ce66429c69827e096a3826ef5ff9"
+  },
+  "api_called": false
+}

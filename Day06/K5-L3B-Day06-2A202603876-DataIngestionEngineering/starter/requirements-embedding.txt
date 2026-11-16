@@ -1,0 +1,3 @@
+# Python 3.12 local embeddings. Install the CPU PyTorch wheel first; see README.md.
+sentence-transformers==5.7.0
+transformers==5.23.0

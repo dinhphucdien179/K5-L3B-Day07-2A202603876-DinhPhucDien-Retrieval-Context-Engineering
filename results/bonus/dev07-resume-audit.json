@@ -1,0 +1,17 @@
+{
+  "verified_utc": "2026-11-16T15:39:30.097626+00:00",
+  "all_16_existing_traces_unchanged": true,
+  "preserved_http_429_cases": [
+    "bd15",
+    "bd16"
+  ],
+  "newly_run": [
+    "bd17",
+    "bd18"
+  ],
+  "execution_segments_seconds": [
+    270.7171534049994,
+    52.10328970399996
+  ],
+  "note": "Two accounts used across two execution segments; no credentials recorded. No case was rerun/replaced."
+}

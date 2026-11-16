@@ -1,0 +1,82 @@
+[
+  {
+    "query_id": "t01",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng 50% 2010 xuống khoảng 44% 2020; source trang 76 chứa đủ số, năm và định nghĩa maximum education."
+  },
+  {
+    "query_id": "t02",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng foreign firms trả lương gấp đôi domestic; cited paragraph có trực tiếp so sánh và domestic formal-contract share."
+  },
+  {
+    "query_id": "t03",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đúng khoảng 10% hộ nhận pension 2020 và aging; citation hỗ trợ phần chính, câu trả lời không nêu chi tiết contract bị cắt."
+  },
+  {
+    "query_id": "t04",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ 53.3% 2010 → 64.7% 2020 và at least one wage/salary member."
+  },
+  {
+    "query_id": "t05",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Có 22% rural và 4.5% urban 2010, nhưng nói thiếu rates 2020 trong khi corpus có 7%/1.5%. Đây là thiếu context do biên chunk, chưa đủ đáp án bốn tỷ lệ."
+  },
+  {
+    "query_id": "tu01",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ, không bịa tỷ lệ 2026 hoặc cận 95% CI. Tu 01 có nhắc 10% 2020 là dữ kiện được context hỗ trợ, không suy ra 2026; đối chiếu absence_reason toàn corpus."
+  },
+  {
+    "query_id": "tu02",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ, không bịa tỷ lệ 2026 hoặc cận 95% CI. Tu 01 có nhắc 10% 2020 là dữ kiện được context hỗ trợ, không suy ra 2026; đối chiếu absence_reason toàn corpus."
+  }
+]

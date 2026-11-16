@@ -1,0 +1,2 @@
+# Tests use synthetic fixtures; the integration test uses a separate PostgreSQL DB.
+pytest==9.2.0

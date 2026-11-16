@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-11-16T12:47:04.088335+00:00",
+  "version": 2,
+  "replaces_exposed_test": "data/bonus/test.json",
+  "dev_sha256": "e634460cad81c5070dd63958ae41a8b02967c833ac0db964b3a613a665dcfd2a",
+  "test_sha256": "60c9347aaba65552cb8c0481990aec7d2df2ae6378d6e97f45c357b68f216f10",
+  "corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1",
+  "corpus_path": "data/bonus/corpus.jsonl",
+  "counts": {
+    "dev": {
+      "table": 3,
+      "diagram": 3,
+      "chart": 3,
+      "multi_hop": 3,
+      "text": 3,
+      "unanswerable": 3
+    },
+    "test": {
+      "table": 6,
+      "diagram": 5,
+      "chart": 5,
+      "multi_hop": 4,
+      "text": 4,
+      "unanswerable": 6
+    }
+  },
+  "policy": "Replacement test frozen before new dev/API experiments. Old exposed test is historical, never a fresh accuracy claim. Gold/groups/regions stay evaluator-only. Select on dev only; run complete new test once; all errors count as failures.",
+  "limitations": "Same-document source-specific evaluation with explicit locators. Test authored by same AI collaborator that fixed generic protocol defects, with no new test outputs. Not an external blind evaluation. Student independent verification pending."
+}

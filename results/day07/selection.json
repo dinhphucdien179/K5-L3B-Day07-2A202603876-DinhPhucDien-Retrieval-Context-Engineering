@@ -1,0 +1,19 @@
+{
+  "selected_trial": "hybrid_neighbors1",
+  "baseline": "dense_baseline",
+  "reason": "Selected on dev only: highest reviewed grounded-answer mean 1.8667/2, full evidence in 14/15 contexts, correct abstention 2/2, zero execution errors. Radius2 had one format error and lower answer/citation quality; BM25 was cheaper but scored 1.8/2. Labels are AI-assisted source reviews requiring student verification.",
+  "dev_run": "results/day07/agent-dev-01",
+  "dev_run_sha256": "c91b4ed170ee9a861f8b1372f07c7250199675ac5807a602605f0d0d9dcdf3a6",
+  "trials_sha256": "dff722d102d693b63c168272823ca3a4337ebd353d9b028310033e73c25e8a59",
+  "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+  "benchmark_freeze_sha256": "33ba2cc719051f338e42b63b70ad6eb6a00de8f174804da50b8bb24668bc7d24",
+  "code_fingerprint": {
+    "agent.py": "e254b76fc2e8887ea5e41efcd7b74aaccc373c6b08c49812d572de25ab23c795",
+    "context.py": "fda7eb101a08c8192bcde0577fe39910625530c28240b7a3cafcba23b51f2a2d",
+    "retrieval.py": "1d2bc38f7e6915bb7525408449729754e03f92a9ec3b0e0b25753f681ff3a876",
+    "day06.py": "6966755f82ff33ed2704e6b37630bf0844610fc0f9e4a37aba7455c32859db32",
+    "llm.py": "ed390934f8dde18376cf0bd38906370d566c62ed13798c7da9c0b4790adab224"
+  },
+  "model": "openai/gpt-4o-mini",
+  "selection_rule": "Prefer dev grounded-answer mean, then context evidence rate, then Evidence Hit@3; use cost/time to resolve ties. Inspect abstention and false abstention before freezing."
+}

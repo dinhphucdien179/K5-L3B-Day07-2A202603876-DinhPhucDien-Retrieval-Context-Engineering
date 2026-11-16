@@ -1,0 +1,33 @@
+{
+  "scope": "Text/layout của đủ232trang và kiểm tra ảnh bảngHCI trên trang132/137. Tìm từ khóa đơn thuần không chứng minh vắng mặt trong ảnh; đối chiếu trực quan HCI không có CI.",
+  "matches": {
+    "year_2028": [],
+    "fictional_household": [],
+    "confidence": [
+      {
+        "page": 80,
+        "snippets": [
+          "elped\n   as a vehicle for supporting Doi Moi. The education reform         install greater business confidence. The promulgation of the\n   process reached practical ground when a joint study was           new legislation was consi"
+        ]
+      },
+      {
+        "page": 127,
+        "snippets": [
+          "                     backwardness; improving gender equality, addressing issues with             to 95%, 60% for high school. Reach 90% for share of people over 15 who can read\n                                              "
+        ]
+      },
+      {
+        "page": 140,
+        "snippets": [
+          " poorest quintile\nBaulch et al. (2012) consider two groups of dropouts: (1)          nationwide and 95 percent for remaining quintiles were\nchildren who have completed lower secondary grades (and are        assisted by trained sta"
+        ]
+      },
+      {
+        "page": 198,
+        "snippets": [
+          "or domestic cigarettes equaled\nfiscal incidence. The treatment here is cursory and intended         95 percent of the factory price.56\nas a high-level overview of revenue and spending magnitudes\nand breakdowns, and does not provid"
+        ]
+      }
+    ]
+  }
+}

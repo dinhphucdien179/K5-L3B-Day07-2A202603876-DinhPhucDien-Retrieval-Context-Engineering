@@ -1,0 +1,79 @@
+[
+  {
+    "query_id": "t01",
+    "answerable": true,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "share of households whose most educated member had lower-secondary education or less change between 2010 and 2020",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": true
+  },
+  {
+    "query_id": "t02",
+    "answerable": true,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "wages paid by foreign companies compared with wages paid by domestic firms",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": true,
+    "original_hit3": true
+  },
+  {
+    "query_id": "t03",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "share of households received any pension income in 2020",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "t04",
+    "answerable": true,
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "share of households with at least one member receiving wages or salaries change from 2010 to 2020",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": true,
+    "original_hit3": true
+  },
+  {
+    "query_id": "t05",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "rural and urban poverty rates 2010 2020",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "tu01",
+    "answerable": false,
+    "hit1": null,
+    "hit3": null,
+    "context_evidence": null,
+    "ranking_query": "Vietnamese households pension income 2026",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": null,
+    "original_hit3": null
+  },
+  {
+    "query_id": "tu02",
+    "answerable": false,
+    "hit1": null,
+    "hit3": null,
+    "context_evidence": null,
+    "ranking_query": "2020 pension-income household share 95 percent confidence interval lower upper limits",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": null,
+    "original_hit3": null
+  }
+]

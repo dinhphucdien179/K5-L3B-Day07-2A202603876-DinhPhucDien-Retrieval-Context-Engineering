@@ -1,0 +1,66 @@
+{
+  "hardware": {
+    "effective_cpus": 16,
+    "native_threads": 4,
+    "cpu_model": "AMD Ryzen 7 4800H with Radeon Graphics",
+    "architecture": "x86_64",
+    "previous_thread_environment": {
+      "OMP_NUM_THREADS": null,
+      "MKL_NUM_THREADS": null,
+      "OPENBLAS_NUM_THREADS": null,
+      "NUMEXPR_NUM_THREADS": null
+    },
+    "budget": {
+      "native_threads": 4,
+      "fetch_workers": 1,
+      "max_inflight": 1,
+      "requests_per_second": 1.0,
+      "batch_size": 16,
+      "rss_limit_mb": 2048,
+      "min_available_ratio": 0.1,
+      "max_response_bytes": 33554432
+    },
+    "python": "3.12.13",
+    "environment_type": "conda",
+    "memory": {
+      "total_bytes": 24578732032,
+      "available_bytes": 12845314048,
+      "rss_bytes": 31420416,
+      "available_ratio": 0.5226190688468465,
+      "process_peak_rss_bytes": 31354880
+    }
+  },
+  "requests": [
+    {
+      "kind": "metadata",
+      "url": "https://search.worldbank.org/api/v3/wds?format=json&rows=5&guid=099115004242216918",
+      "http_status": 200,
+      "bytes": 3183,
+      "sha256": "1e7ebc57bcabebce563c975761da0478f3ca5b7a564ad822f48bea70e3a222f8",
+      "content_type": "application/json; charset=utf-8",
+      "body_path": ".cache/day6/worldbank-probe/1e7ebc57bcabebce563c975761da0478f3ca5b7a564ad822f48bea70e3a222f8.json",
+      "elapsed_seconds": 0.37618115399891394
+    },
+    {
+      "kind": "text",
+      "url": "https://documents1.worldbank.org/curated/en/099115004242216918/txt/P176261155e1805e1bd6e14287197d61965ce02eb562.txt",
+      "http_status": 200,
+      "bytes": 1343901,
+      "sha256": "b380b6e488886c2252397d8fcd1926478e900d53b79eb6a3466e4f78f35c37ca",
+      "content_type": "text/plain;charset=utf-8",
+      "body_path": ".cache/day6/worldbank-probe/b380b6e488886c2252397d8fcd1926478e900d53b79eb6a3466e4f78f35c37ca.txt",
+      "elapsed_seconds": 2.3998695480004244
+    },
+    {
+      "kind": "pdf",
+      "url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+      "http_status": 200,
+      "bytes": 20584558,
+      "sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+      "content_type": "application/pdf;charset=utf-8",
+      "body_path": ".cache/day6/worldbank-probe/6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00.pdf",
+      "elapsed_seconds": 1.0810066419999202
+    }
+  ],
+  "credentials_used": false
+}

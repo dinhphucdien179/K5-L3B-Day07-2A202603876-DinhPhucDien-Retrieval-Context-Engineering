@@ -1,0 +1,574 @@
+{
+  "v2t01": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p048-table-1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 48,
+        "region": "UMIC column, 2012 and 2018 rows"
+      }
+    ]
+  },
+  "v2t02": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p049-table-1.3": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 49,
+        "region": "Panel B IPL row, 2010/2020 columns and unit header"
+      }
+    ]
+  },
+  "v2t03": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 75,
+        "region": "Central Highlands row"
+      }
+    ]
+  },
+  "v2t04": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Fraction under five not stunted, Vietnam 2010/2020 columns"
+      }
+    ]
+  },
+  "v2t05": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "CIT under oil revenues and CIT under direct taxes; TRN DONG column"
+      }
+    ]
+  },
+  "v2t06": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 200,
+        "region": "Primary and Lower secondary rows, both numeric columns"
+      }
+    ]
+  },
+  "v2t07": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p096-figure-B.2.4.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 96,
+        "region": "Grey income-per-adult box, yellow pair and blue terminal pair"
+      }
+    ]
+  },
+  "v2t08": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p135-figure-B.4.1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 135,
+        "region": "Root to three component boxes, upper teal branch and leaf"
+      }
+    ]
+  },
+  "v2t09": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p190": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 190,
+        "region": "Rightmost grey parent and its five vertical leaves"
+      }
+    ]
+  },
+  "v2t10": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p197-figure-B.7.1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 197,
+        "region": "Bottom plus arrow and left white box leading to purple Final Income"
+      }
+    ]
+  },
+  "v2t11": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p225-figure-8.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 225,
+        "region": "Panel b insurance arrow and lower-right financing annotation"
+      }
+    ]
+  },
+  "v2t12": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p075-figure-2.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 75,
+        "region": "60–69 pair of labelled bars, legend and note"
+      }
+    ]
+  },
+  "v2t13": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p076-figure-2.3": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 76,
+        "region": "Tertiary labelled bars, legend and note"
+      }
+    ]
+  },
+  "v2t14": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p078-figure-2.7": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 78,
+        "region": "2015–2020 orange and grey bars, zero line, axis and legend"
+      }
+    ]
+  },
+  "v2t15": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p079-figure-2.8": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 79,
+        "region": "Right-hand No contract pair, bottom teal segments with numeric labels"
+      }
+    ]
+  },
+  "v2t16": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p082-figure-2.11": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 82,
+        "region": "Panel A first/last bars, average-number-of-sources axis, decile labels"
+      }
+    ]
+  },
+  "v2t17": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p137-table-4.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Survival age15–60 Vietnam2020 cell"
+      },
+      {
+        "page": 137,
+        "region": "Survival age15–60 male/female2020 cells"
+      }
+    ]
+  },
+  "v2t18": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p200-table-7.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "Non-oil Direct taxes > CIT, TRN DONG cell"
+      },
+      {
+        "page": 200,
+        "region": "Direct Transfers row"
+      }
+    ]
+  },
+  "v2t19": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p048-table-1.2": {
+        "supported": null,
+        "reason": ""
+      },
+      "p049-table-1.3": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 48,
+        "region": "UMIC 2020 number-of-poor cell"
+      },
+      {
+        "page": 49,
+        "region": "Panel B UMIC2020 and2020VNDtrillion header"
+      }
+    ]
+  },
+  "v2t20": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p075": {
+        "supported": null,
+        "reason": ""
+      },
+      "p220": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 75,
+        "region": "Bottom-left section2.1paragraph on households2020"
+      },
+      {
+        "page": 220,
+        "region": "Box8.2continuedfirst numbered shortcoming"
+      }
+    ]
+  },
+  "v2t21": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p220": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 220,
+        "region": "Third numbered statistical-practice shortcoming"
+      }
+    ]
+  },
+  "v2t22": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p096": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 96,
+        "region": "Second paragraph of continuedBox2.4above diagram"
+      }
+    ]
+  },
+  "v2t23": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p200": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 200,
+        "region": "Right column lower paragraph on private education spending"
+      }
+    ]
+  },
+  "v2t24": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p190": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 190,
+        "region": "Box6.3paragraph above social-protection tree"
+      }
+    ]
+  },
+  "v2t25": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "v2t26": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "v2t27": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "v2t28": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "v2t29": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "v2t30": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  }
+}

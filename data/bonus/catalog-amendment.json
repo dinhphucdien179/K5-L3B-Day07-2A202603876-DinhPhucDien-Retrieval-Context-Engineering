@@ -1,0 +1,83 @@
+{
+  "amended_utc": "2026-11-16T05:19:44.035311+00:00",
+  "reason": "Source TOC contains stale table numbers/page locators; canonical locators verified against actual page captions before any benchmark execution.",
+  "previous_freeze": {
+    "created_utc": "2026-11-16T05:06:46.342945+00:00",
+    "dev_sha256": "98823f8955bd20c525757ba1f391a1750351cebff34ff32d6ef6f503eaa28985",
+    "test_sha256": "38b2385e33125f580a25ebd15f89a33b42e4d7356afb4c3aed30b2523f85f77c",
+    "corpus_sha256": "e23e361e11c3b1de18d9229c4e42b7881981b848fdea7fc12d13f7790aa11d02",
+    "counts": {
+      "dev": {
+        "table": 3,
+        "diagram": 3,
+        "chart": 3,
+        "multi_hop": 3,
+        "text": 3,
+        "unanswerable": 3
+      },
+      "test": {
+        "table": 6,
+        "diagram": 5,
+        "chart": 5,
+        "multi_hop": 4,
+        "text": 4,
+        "unanswerable": 6
+      }
+    },
+    "policy": "Authored/frozen before agent experiments. Gold, group and expected answers never enter runtime. Select only on dev; test is single final evaluation, errors remain failures.",
+    "limits": "Document-specific benchmark, many explicit Table/Figure locators; not an open-domain generalization claim. Dev maps count as substantive images. Test diagram group has five distinct conceptual diagrams."
+  },
+  "new_corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1",
+  "dev_test_questions_and_gold_unchanged": true,
+  "corrections": [
+    {
+      "kind": "figure",
+      "caption": "Statistical Performance Index scores, 2019",
+      "toc_label": "B.8.2.1",
+      "toc_page": 219,
+      "actual_label": "B.8.2.1",
+      "actual_page": 220
+    },
+    {
+      "kind": "table",
+      "caption": "Evolution of small area poverty estimation techniques",
+      "toc_label": "B.1.3.1",
+      "toc_page": 54,
+      "actual_label": "B.1.2.1",
+      "actual_page": 54
+    },
+    {
+      "kind": "table",
+      "caption": "Summary of economic class definitions",
+      "toc_label": "B.1.4.1",
+      "toc_page": 56,
+      "actual_label": "B.1.3.1",
+      "actual_page": 56
+    },
+    {
+      "kind": "table",
+      "caption": "Number of panel households (over two-year periods)",
+      "toc_label": "B.1.5.1",
+      "toc_page": 59,
+      "actual_label": "B.1.4.1",
+      "actual_page": 59
+    },
+    {
+      "kind": "table",
+      "caption": "A new context and Last Mile policy summary",
+      "toc_label": "8.1",
+      "toc_page": 216,
+      "actual_label": "8.1",
+      "actual_page": 217
+    },
+    {
+      "kind": "table",
+      "caption": "Next Mile policy summary",
+      "toc_label": "8.2",
+      "toc_page": 221,
+      "actual_label": "8.2",
+      "actual_page": 222
+    }
+  ],
+  "prior_smokes": "smoke-01/02 used the earlier source catalog; retained unchanged and not benchmark evidence."
+}

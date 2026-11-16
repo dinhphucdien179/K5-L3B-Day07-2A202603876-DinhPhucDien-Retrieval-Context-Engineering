@@ -1,0 +1,189 @@
+[
+  {
+    "query_id": "d01",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "requirements guide the choice of a poverty threshold for monitoring trends",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d02",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "2020 household survey understate adverse effects COVID-19 consumption households interviewed early year",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d03",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "average poverty gap measure relative to the poverty line",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d04",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "traditionally poor highest poverty rates decade",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d05",
+    "answerable": true,
+    "hit1": false,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "direct estimates from the household survey provide too little geographic detail for understanding local poverty",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": true,
+    "original_hit3": true
+  },
+  {
+    "query_id": "d06",
+    "answerable": true,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "original small-area estimation method combine data sources estimate poverty small geographic areas",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": true,
+    "original_hit3": true
+  },
+  {
+    "query_id": "d07",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "number of middle-class people in Vietnam change between 2010 and 2020",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d08",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "economic-class definitions Vietnamese government definitions welfare discussion",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d09",
+    "answerable": true,
+    "hit1": true,
+    "hit3": true,
+    "context_evidence": true,
+    "ranking_query": "falling into poverty 2016 to 2018 compared with 2010 to 2012",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": true,
+    "original_hit3": true
+  },
+  {
+    "query_id": "d10",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "employment transitions high rates moving up low rates moving down economic classes",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d11",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "VHLSS panel 2020 comparison report",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d12",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "reducing inequality double-dividend effect poverty reduction",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d13",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "Shared Prosperity indicator income growth focus",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d14",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": true,
+    "ranking_query": "October 2021 growth downgrade projected 2021 poverty rate $3.20/day 2011PPP line without increasing inequality",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "d15",
+    "answerable": true,
+    "hit1": false,
+    "hit3": false,
+    "context_evidence": false,
+    "ranking_query": "income trend dependence on agriculture poorest households chapter 1",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": false,
+    "original_hit3": false
+  },
+  {
+    "query_id": "du01",
+    "answerable": false,
+    "hit1": null,
+    "hit3": null,
+    "context_evidence": null,
+    "ranking_query": "national poverty rate household survey 2025",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": null,
+    "original_hit3": null
+  },
+  {
+    "query_id": "du02",
+    "answerable": false,
+    "hit1": null,
+    "hit3": null,
+    "context_evidence": null,
+    "ranking_query": "2020 VHLSS income and sampling weight of household ID VN2020-000001",
+    "ranking_note": "first tool query; original-query retrieval is reported separately for agents",
+    "original_hit1": null,
+    "original_hit3": null
+  }
+]

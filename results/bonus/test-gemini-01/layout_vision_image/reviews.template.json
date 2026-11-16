@@ -1,0 +1,551 @@
+{
+  "bt01": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p048-table-1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 48,
+        "region": "IPL $1.90 column,2010 and2020 rows"
+      }
+    ]
+  },
+  "bt02": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p069-table-A.1.2.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 69,
+        "region": "Two conversion-rate rows and unit header"
+      }
+    ]
+  },
+  "bt03": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Expected Years of School row, Vietnam2010/2020 columns"
+      }
+    ]
+  },
+  "bt04": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p137-table-4.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 137,
+        "region": "Human Capital Index row;2020 female/male columns"
+      }
+    ]
+  },
+  "bt05": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p170-table-A.5.1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 170,
+        "region": "Occupation2 professionals, merged high-skilled non-manual/tertiary cells spanninggroups1–3"
+      }
+    ]
+  },
+  "bt06": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "PIT row below direct taxes, both numeric columns"
+      }
+    ]
+  },
+  "bt07": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p096-figure-B.2.4.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 96,
+        "region": "First two branch levels of decomposition tree, left to right"
+      }
+    ]
+  },
+  "bt08": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p135-figure-B.4.1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 135,
+        "region": "School and Health branches on right side of HCI tree"
+      }
+    ]
+  },
+  "bt09": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p190": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 190,
+        "region": "First two main columns and their three leaves each"
+      }
+    ]
+  },
+  "bt10": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p197-figure-B.7.1.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 197,
+        "region": "Central flow from pre-fiscal income through net market income to disposable income; minus/plus side boxes"
+      }
+    ]
+  },
+  "bt11": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p225-figure-8.1": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 225,
+        "region": "Panel a gap, panel c continuous coverage and top annotation"
+      }
+    ]
+  },
+  "bt12": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p081-figure-2.10": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 81,
+        "region": "Stacked bars deciles1–10, green familyfarm/orange familybusiness legend"
+      }
+    ]
+  },
+  "bt13": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p145-figure-4.17": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 145,
+        "region": "Age8and12 paired bars,top/bottomlegend,percentaxis"
+      }
+    ]
+  },
+  "bt14": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p157-figure-5.4": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 157,
+        "region": "Two dashed arrows ending at2045,legend,y-axisunit andnotenextline"
+      }
+    ]
+  },
+  "bt15": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p159-figure-5.7": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 159,
+        "region": "GreenWorkingage line;solidtill2018,dashedprojected2020–2050;percentaxis"
+      }
+    ]
+  },
+  "bt16": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p190-figure-6.12": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 190,
+        "region": "Sixbars,country/income-group labels,y-axis shareofwelfareamonglowestquintile"
+      }
+    ]
+  },
+  "bt17": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p137-table-4.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Harmonizedtestscores Vietnam2020/EAP2020"
+      },
+      {
+        "page": 137,
+        "region": "Harmonizedtestscore female2020/male2020"
+      }
+    ]
+  },
+  "bt18": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": null,
+        "reason": ""
+      },
+      "p200-table-7.2": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "VATrow underTaxesongoods/services"
+      },
+      {
+        "page": 200,
+        "region": "Educationrow"
+      }
+    ]
+  },
+  "bt19": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": [
+      {
+        "page": 132,
+        "region": "Section4.2rightcolumn:12.9expected,10.7beginningofsentenceatbottom"
+      },
+      {
+        "page": 133,
+        "region": "Continuationtop-leftdefining learning-adjustedyearsofschooling"
+      }
+    ]
+  },
+  "bt20": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": [
+      {
+        "page": 75,
+        "region": "Regional2009/2019counts;paragraphleftabove"
+      },
+      {
+        "page": 179,
+        "region": "TopmiddlePM2.5mapandparagraphabove"
+      }
+    ]
+  },
+  "bt21": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": [
+      {
+        "page": 133,
+        "region": "RightcolumnparagraphImprovingaccesstomaternalhealthcare"
+      }
+    ]
+  },
+  "bt22": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p178": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 178,
+        "region": "Bottom-rightparagraphClimatechangeisexpectedtoexacerbateexistingrisks"
+      }
+    ]
+  },
+  "bt23": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p199": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 199,
+        "region": "RightcolumnExpendituresfirstparagraph"
+      }
+    ]
+  },
+  "bt24": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {
+      "p221": {
+        "supported": null,
+        "reason": ""
+      }
+    },
+    "expected_evidence": [
+      {
+        "page": 221,
+        "region": "LeftcolumnEquitablehumancapitalformationparagraph"
+      }
+    ]
+  },
+  "bt25": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bt26": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bt27": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bt28": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bt29": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  },
+  "bt30": {
+    "answer_correct": null,
+    "citation_complete": null,
+    "abstention_correct": null,
+    "reason": "",
+    "checked_original_pages": [],
+    "reviewer": "",
+    "citation_checks": {},
+    "expected_evidence": []
+  }
+}

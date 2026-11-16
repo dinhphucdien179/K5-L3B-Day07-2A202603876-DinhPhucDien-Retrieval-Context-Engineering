@@ -1,0 +1,224 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "What two requirements guide the choice of a poverty threshold for monitoring trends in this report?",
+    "expected_answer": "It should reflect Vietnam's minimum necessary living standards and remain comparable across time so the trend series is consistent.",
+    "evidence_quote": "The first is that the threshold of an appropriate\nstandard should reflect Vietnam’s minimum necessary living\nstandards, and the second is that the threshold should be\ncomparable across time to provide a consistent time series.",
+    "unit": 46,
+    "type": "direct"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Why could the 2020 household survey understate the adverse effects of COVID-19 on consumption for households interviewed early in the year?",
+    "expected_answer": "Some consumption items use a 12-month recall period, so interviews in the first three quarters of 2020 include pre-COVID consumption from 2019.",
+    "evidence_quote": "For some\ncomponents of consumption, households provide information\nover a 12-month recall period. For households interviewed in\nthe first three quarters of 2020, their consumption patterns\nwould include periods in 2019 that are pre-COVID.",
+    "unit": 47,
+    "type": "condition"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What does the average poverty gap measure, and how is that gap expressed relative to the poverty line?",
+    "expected_answer": "It measures the additional consumption needed to raise poor people to the poverty line, expressed as a per-person percentage of that line.",
+    "evidence_quote": "The average poverty gap illustrates the amount of\nadditional consumption necessary to raise the poor to\nthe poverty line (Figure 1.4). The gap is measured in terms\nof the percentage of the poverty line on a per person basis that\nwould raise everyone in poverty to the minimum threshold.",
+    "unit": 49,
+    "type": "definition"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Which two regions are described as traditionally poor and as having the highest poverty rates throughout the decade?",
+    "expected_answer": "The Central Highlands and the Midlands and Northern Mountains.",
+    "evidence_quote": "The traditionally poor regions in Vietnam are the Central\nHighlands and the Midlands and Northern Mountains,\nwhere poverty rates were the highest throughout the\ndecade (Figure 1.5).",
+    "unit": 50,
+    "type": "direct"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Why do direct estimates from the household survey provide too little geographic detail for understanding local poverty?",
+    "expected_answer": "Direct household-survey estimates are representative only at broad geographic levels; the sample lacks sufficient coverage to estimate poverty in small local areas.",
+    "evidence_quote": "This level of\ndisaggregation is extremely powerful, greatly enhancing the\nunderstanding of spatial poverty and dynamics since direct\nestimates of poverty from the household survey are only\nrepresentative across six broad regions; the country had 63\nprovinces and over 700 districts in 2019.",
+    "unit": 51,
+    "type": "explanation",
+    "alternative_evidence": [
+      {
+        "unit": 54,
+        "evidence_quote": "Since household survey samples are small and do not have the coverage of a Census, poverty rates cannot be\nestimated in small areas.",
+        "verification_note": "Equivalent prose explains insufficient sample coverage for small-area estimates. The primary source illustrates the geographic mismatch using six survey regions versus provinces/districts; the question asks the reason, not those illustrative counts."
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "What two data sources did the original small-area estimation method combine to estimate poverty in small geographic areas?",
+    "expected_answer": "A household survey and a census.",
+    "evidence_quote": "Elbers et al. (2003) originally proposed a so-called “small area estimation” method\nto estimate poverty measures at small areas by combining a household survey and a census.",
+    "unit": 54,
+    "type": "direct"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "How did the number of middle-class people in Vietnam change between 2010 and 2020?",
+    "expected_answer": "It approximately tripled, rising from 7.3 million in 2010 to 22.6 million in 2020.",
+    "evidence_quote": "The size of the middle\nclass also tripled from 2010 to 2020, increasing from 7.3\nmillion people in 2010 to 22.6 million in 2020",
+    "unit": 55,
+    "type": "numeric"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Should the economic-class definitions used for the report's welfare discussion be treated as Vietnamese government definitions?",
+    "expected_answer": "No. They are analytical definitions for illustrating welfare distribution dynamics, even where some lower poverty lines are monetarily comparable with MOLISA thresholds.",
+    "evidence_quote": "While some of the lower-level W orld Bank poverty lines are comparable\nin monetary value to the MOLISA monetary dimension of poverty thresholds, these definitions do not reflect government\ndefinitions of economic classes. Rather, they are created to help illustrate the discussion on welfare distribution dynamics.",
+    "unit": 56,
+    "type": "condition",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Among people who were not poor, how common was falling into poverty between 2016 and 2018 compared with 2010 to 2012?",
+    "expected_answer": "Less than 2 percent fell into poverty in 2016–2018, about half the likelihood in 2010–2012.",
+    "evidence_quote": "Between 2016 and 2018, less than 2 percent\nof the nonpoor fell into poverty, half the likelihood\nfrom 2010 to 2012 (Figure 1.15.A).",
+    "unit": 57,
+    "type": "numeric"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Which employment transitions were associated with both high rates of moving up and low rates of moving down the economic classes?",
+    "expected_answer": "Completely exiting agriculture or gaining employment with a formal contract.",
+    "evidence_quote": "Groups that experienced\nhigh rates of climbing and low rates of sliding are those\nwhich exited agriculture completely or gained employment\nwith a formal contract.",
+    "unit": 59,
+    "type": "paraphrase"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Why is there no VHLSS panel for 2020 in the comparison described in the report?",
+    "expected_answer": "The 2010–2018 samples used a frame based on the 2009 Census, but the 2020 sample used the 2019 Census, so the panel did not continue into 2020.",
+    "evidence_quote": "The VHLSS 2010–2018 samples were drawn from\na master sample frame based on the 2009 Census. Since\nthe 2020 VHLSS was sampled from the 2019 Census, a\npanel does not exist for this year.",
+    "unit": 59,
+    "type": "explanation"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Why does the report describe reducing inequality as having a double-dividend effect on poverty reduction?",
+    "expected_answer": "It reduces poverty today and accelerates future poverty reduction by breaking intergenerational poverty traps.",
+    "evidence_quote": "Reducing inequality has a\ndouble-dividend effect because it promotes poverty reduction\ntoday and accelerates poverty reduction in the future by\nbreaking cycles of intergenerational poverty traps.",
+    "unit": 60,
+    "type": "explanation"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Whose income growth is the focus of the Shared Prosperity indicator when assessing whether economic growth is inclusive?",
+    "expected_answer": "The bottom 40 percent of the income distribution, rather than the population average or those at the top.",
+    "evidence_quote": "The Shared Prosperity indicator measures the extent to\nwhich economic growth is inclusive by focusing on income\ngrowth rates of the population at the bottom of the income\ndistribution (bottom 40 percent) rather than on average or\namong those at the top.",
+    "unit": 61,
+    "type": "definition"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Under the scenario without increasing inequality, how did the October 2021 growth downgrade change the projected 2021 poverty rate at the $3.20/day 2011PPP line?",
+    "expected_answer": "The projection rose from 4.2 percent to 4.7 percent, roughly half a percentage point. These are scenario-based projections, not observed poverty outcomes.",
+    "evidence_quote": "Downgraded\ngrowth projections made in October 2021 estimated are that\npoverty will be about a half percentage point higher—4.7 vs.\n4.2 percent—in 2021 under the $3.20/day 2011PPP poverty\nline (and under the scenario without increasing inequality)",
+    "unit": 63,
+    "type": "condition",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What income trend makes dependence on agriculture a continuing concern for the poorest households?",
+    "expected_answer": "Agricultural incomes showed little growth over the decade, despite the poorest households' dependence on that income source.",
+    "evidence_quote": "For\nthe poorest households, agriculture is more often the largest\nsource of household income, but agricultural incomes have\nalso shown little growth over the decade.",
+    "unit": 65,
+    "type": "paraphrase",
+    "filter": {
+      "chapter": "1"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 1 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence.",
+    "alternative_evidence": [
+      {
+        "unit": 85,
+        "evidence_quote": "Agriculture is one of the lowest\nrevenue-generating economic activities that households can\nbe engaged in. When examining dynamics in nominal total\nearnings, agriculture incomes remain similar in 2010 and 2020.",
+        "verification_note": "Equivalent explanatory prose describes low agricultural returns and nominal agricultural earnings remaining similar in 2010 and 2020. This is an alternative to Chapter 1's summary of little income growth, not a table-derived label."
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Which two kinds of insurance does the report associate with having a job contract?",
+    "expected_answer": "Social insurance and unemployment insurance.",
+    "evidence_quote": "Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance.",
+    "unit": 77,
+    "type": "direct"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "How do the VHLSS and the Labor Force Survey differ in their recall periods for income or labor-market activity?",
+    "expected_answer": "The VHLSS records income for the previous 12 months, while the Labor Force Survey records labor-market activity for the previous month.",
+    "evidence_quote": "Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth and does not include income sources from non-labor market activity, or detailed sector or business costs.",
+    "unit": 83,
+    "type": "comparison"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Why do direct social-assistance cash benefit levels lose value over time?",
+    "expected_answer": "The benefits are not indexed to inflation.",
+    "evidence_quote": "Benefit levels are also declining\nin value over time because they are not indexed to inflation.",
+    "unit": 89,
+    "type": "explanation"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What was the dominant channel behind poverty reduction across most of the decade?",
+    "expected_answer": "Growth factors were the dominant channel.",
+    "evidence_quote": "The drivers of poverty reduction are\noverwhelmingly attributable to growth factors throughout\nmost of the decade, with a smaller role played by redistribution\nas a channel of poverty reduction.",
+    "unit": 91,
+    "type": "paraphrase",
+    "alternative_evidence": [
+      {
+        "unit": 65,
+        "evidence_quote": "The drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade.",
+        "verification_note": "The Chapter 1 summary explicitly attributes the drivers overwhelmingly to growth factors; it independently supports growth as the dominant channel."
+      },
+      {
+        "unit": 92,
+        "evidence_quote": "A growth-driven poverty reduction process\noccurred thanks to a decade of prosperity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.",
+        "verification_note": "Equivalent prose explains the growth-driven process and explicitly describes the relatively small overall redistribution effect."
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Do the income-decomposition contributions establish causal effects on poverty, and what methodological limitation explains the answer?",
+    "expected_answer": "No. The method is not a general-equilibrium method: its counterfactual distributions are not economic equilibria, so the contributions describe distributional changes rather than causal effects.",
+    "evidence_quote": "Second, the method is not a general equilibrium method, meaning that the counterfactual\ndistributions are not the result of an economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes.",
+    "unit": 96,
+    "type": "condition",
+    "filter": {
+      "chapter": "2"
+    },
+    "filter_context": "The reader has explicitly selected Chapter 2 in the report viewer before asking this question. Search that chapter only; the scope is an input, not inferred from the gold evidence."
+  }
+]

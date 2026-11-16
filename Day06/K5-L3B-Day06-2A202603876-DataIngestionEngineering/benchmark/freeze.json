@@ -1,0 +1,38 @@
+{
+  "frozen_at": "2026-11-14T06:16:50.510837+00:00",
+  "retrieval_runs_before_freeze": 0,
+  "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+  "authored_sha256": "f2b0d0a5da95b66e22a207a0e64c4dfdb0f80e87e39f2ea9c7740b133fc350b1",
+  "corpus_spec_sha256": "50b952d5da5c20fd40feedf0e77eaf98d59fc67493785db868bcb239bc72c2bc",
+  "fetch_manifest_sha256": "7de85aa0790bce830d8067ef6d461cf75bbad3e7db7fd0d5fc5d94b31a44991c",
+  "authored_path": "benchmark/questions.authored.json",
+  "corpus_spec_path": "data/corpus-spec.json",
+  "fetch_manifest_path": "results/20261114T060802.237616Z-fetch/fetch-manifest.json",
+  "benchmark_sha256": "e9e8c1d5a6ca060a6f3407560fc5a6dd2382e2a88f632ab2406c6be2ca5e0a2c",
+  "manifest_sha256": "aaebdc7c84ba2dec209f3bd02bd706c3b08f6da7e748801d9a7b7d02b92fed47",
+  "coherence_positions_sha256": "84abdb10ca80314fb2dcfe95602fc6043942e43bc6bf5ab7fcf8a5d9336e27f6",
+  "normalization_version": "NFC-paragraphs-code-v2",
+  "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+  "splits": {
+    "dev": 15,
+    "test": 5
+  },
+  "filter_splits": {
+    "dev": 3,
+    "test": 1
+  },
+  "dev_chapters": [
+    "1"
+  ],
+  "test_chapters": [
+    "2"
+  ],
+  "split_method": "15 dev questions about chapter 1 and 5 test questions about chapter 2; all selected pages remain searchable for A/B/C.",
+  "limitations": [
+    "Same report and related poverty concepts can overlap across chapters.",
+    "Five test questions are illustrative and do not establish a general ranking.",
+    "Questions prepared with AI-assisted source reading and exact-span checks; learner review and human audit remain distinct."
+  ],
+  "previous_freeze_sha256": null,
+  "amendment_reason": null
+}

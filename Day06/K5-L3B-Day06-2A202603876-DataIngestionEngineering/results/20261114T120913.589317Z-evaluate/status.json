@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "result": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 3,
+      "hit3_count": 4,
+      "hit1": 0.2,
+      "hit3": 0.26666666666666666
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 2,
+      "hit3_count": 2,
+      "hit1": 0.13333333333333333,
+      "hit3": 0.13333333333333333
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 3,
+      "hit3_count": 3,
+      "hit1": 0.2,
+      "hit3": 0.2
+    }
+  ]
+}

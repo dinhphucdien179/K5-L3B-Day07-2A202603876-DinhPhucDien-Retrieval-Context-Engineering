@@ -1,0 +1,13 @@
+{
+  "python": "3.12.13",
+  "environment": "Conda AI20k",
+  "tests": 31,
+  "unit_test_exit_code": 0,
+  "reviewed_agent_cases": 99,
+  "recorded_execution_errors": 2,
+  "context_offsets_and_budget_verified": true,
+  "gold_not_in_user_payload": true,
+  "frozen_code_unchanged_since_selection": true,
+  "recorded_benchmark_api_cost_usd": 0.0711891,
+  "cost_note": "Sum of recorded benchmark responses only; excludes manual smoke checks and unknown interrupted request usage."
+}

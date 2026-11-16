@@ -1,0 +1,46 @@
+{
+  "created_utc": "2026-11-16T15:37:09.594037+00:00",
+  "reason": "User changed API key to another account and authorized continuing. No credential or account identity saved.",
+  "previous_execution": {
+    "split": "dev",
+    "workers": 2,
+    "cases_per_trial": 18,
+    "trials": [
+      "layout_vision_image"
+    ],
+    "planned_new_cases": 18,
+    "elapsed_seconds_this_execution": 270.7171534049994,
+    "status": "error",
+    "credit_blocked": false,
+    "provider_blocked": true,
+    "remaining_unrun": 2
+  },
+  "existing_trace_sha256": {
+    "results/bonus/dev-gemini-07/layout_vision_image/bd01.json": "5d42503016061da7cbc8bd2347e36511495c597caf1be78a9937f7cbd949be60",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd02.json": "87b731d9493002bf4bbd5ed6462a7a8138898dc12329382801ad5830a44addb8",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd03.json": "526220c4d4f34b74a68e0895c48e77d1c8139aa2375ca2101ce7424db7cbee6a",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd04.json": "10f8ede438de88efd1edebbd91fa615a3c0c3d6a5b94b7d50eb930cc15e63620",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd05.json": "a9fc3886ce05b7a5582e2aee6118347704451d2ab839712b8d75060119ae1749",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd06.json": "826879828c46bb9fb54fc15913e970178d011aee41eccf13ed01cc99dc5f42c7",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd07.json": "2051226c7e7a42cb40d5d61f0fe9c9d7e532583b391908c9dce28bb4aae453a7",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd08.json": "636ab3600367174309f736367f7aadef6097a626b9f0fcdb51813cb9f9498574",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd09.json": "aa7196ed2ad37ae7e1936febde93a250df1c459a2438e7870a1ecb691f177d97",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd10.json": "64822d971ceee55cd32ef615b82327fc2f8dc4fb56f89fd90045d353fc344755",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd11.json": "e24b76e938fb2ff0b84d01b9d99a329bb908df1a1b0faec247ff3240b6ad5d85",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd12.json": "9d4d82ddc2e2d6eb8be0da745f03d052d3eef313eecc59caac1461b9b4e68ac3",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd13.json": "9bc0fce407f2190762969c803fa9feb44947c30c95c031d22cd5a6ae0e26af88",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd14.json": "55deb050b036293318093d3983a5bfa1ccfe54619d5cbd268fe172ed07606109",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd15.json": "8df56b2ebfb6013895fd19ea4adb5fae383d8e1f071ab51f3cd40236213cb290",
+    "results/bonus/dev-gemini-07/layout_vision_image/bd16.json": "6b7f14a330629661577630c019f112d5a00a3755c57af267831c71db710b27c4"
+  },
+  "client_settings": {
+    "provider": "gemini",
+    "model": "gemini-3.5-flash-lite",
+    "max_output_tokens": 8192,
+    "reasoning_effort": "low",
+    "temperature": 0,
+    "max_retries": 2,
+    "min_interval_seconds": 6.0,
+    "max_inflight": 2
+  }
+}

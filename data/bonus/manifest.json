@@ -1,0 +1,3092 @@
+{
+  "source": {
+    "title": "From the Last Mile to the Next Mile — 2022 Vietnam Poverty and Equity Assessment",
+    "url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+    "expected_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+    "physical_pdf_pages": 232,
+    "license_or_permission": "Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO), report physical page 3"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "layout_characters": 581,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 2,
+      "layout_characters": 0,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 3,
+      "layout_characters": 3094,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 4,
+      "layout_characters": 0,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 5,
+      "layout_characters": 146,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 6,
+      "layout_characters": 45,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 7,
+      "layout_characters": 3598,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 8,
+      "layout_characters": 3092,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 9,
+      "layout_characters": 4342,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 10,
+      "layout_characters": 3920,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 11,
+      "layout_characters": 4441,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 12,
+      "layout_characters": 4629,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 13,
+      "layout_characters": 5866,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 14,
+      "layout_characters": 5380,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 15,
+      "layout_characters": 4532,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 16,
+      "layout_characters": 2426,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 17,
+      "layout_characters": 2550,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 18,
+      "layout_characters": 3471,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 19,
+      "layout_characters": 1196,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 20,
+      "layout_characters": 48,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 21,
+      "layout_characters": 3837,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 22,
+      "layout_characters": 10512,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 23,
+      "layout_characters": 7422,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 24,
+      "layout_characters": 5441,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 25,
+      "layout_characters": 3523,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 26,
+      "layout_characters": 5973,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 27,
+      "layout_characters": 9165,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 28,
+      "layout_characters": 5543,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 29,
+      "layout_characters": 12144,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 30,
+      "layout_characters": 6108,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 31,
+      "layout_characters": 4970,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 32,
+      "layout_characters": 6827,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 33,
+      "layout_characters": 5695,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 34,
+      "layout_characters": 12433,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 35,
+      "layout_characters": 4688,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 36,
+      "layout_characters": 9103,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 37,
+      "layout_characters": 4441,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 38,
+      "layout_characters": 5566,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 39,
+      "layout_characters": 1764,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 40,
+      "layout_characters": 6794,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 41,
+      "layout_characters": 2486,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 42,
+      "layout_characters": 202,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 43,
+      "layout_characters": 1499,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 44,
+      "layout_characters": 1167,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 45,
+      "layout_characters": 10588,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 46,
+      "layout_characters": 4260,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 47,
+      "layout_characters": 4645,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 48,
+      "layout_characters": 4855,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 49,
+      "layout_characters": 6727,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 50,
+      "layout_characters": 4614,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 51,
+      "layout_characters": 6703,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 52,
+      "layout_characters": 3088,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 53,
+      "layout_characters": 6397,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 54,
+      "layout_characters": 4237,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 55,
+      "layout_characters": 5818,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 56,
+      "layout_characters": 11514,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 57,
+      "layout_characters": 6012,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 58,
+      "layout_characters": 4417,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 59,
+      "layout_characters": 6255,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 60,
+      "layout_characters": 5147,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 61,
+      "layout_characters": 8525,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 62,
+      "layout_characters": 7018,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 63,
+      "layout_characters": 9267,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 64,
+      "layout_characters": 5280,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 65,
+      "layout_characters": 5562,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 66,
+      "layout_characters": 7835,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 67,
+      "layout_characters": 7860,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 68,
+      "layout_characters": 3009,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 69,
+      "layout_characters": 2703,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 70,
+      "layout_characters": 5475,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 71,
+      "layout_characters": 6986,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 72,
+      "layout_characters": 7026,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 73,
+      "layout_characters": 3696,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 74,
+      "layout_characters": 1100,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 75,
+      "layout_characters": 7243,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 76,
+      "layout_characters": 12465,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 77,
+      "layout_characters": 4847,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 78,
+      "layout_characters": 6556,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 79,
+      "layout_characters": 5858,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 80,
+      "layout_characters": 5512,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 81,
+      "layout_characters": 4796,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 82,
+      "layout_characters": 6434,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 83,
+      "layout_characters": 4142,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 84,
+      "layout_characters": 4592,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 85,
+      "layout_characters": 4442,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 86,
+      "layout_characters": 6539,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 87,
+      "layout_characters": 3345,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 88,
+      "layout_characters": 11362,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 89,
+      "layout_characters": 5605,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 90,
+      "layout_characters": 6585,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 91,
+      "layout_characters": 5094,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 92,
+      "layout_characters": 7301,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 93,
+      "layout_characters": 6457,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 94,
+      "layout_characters": 4947,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 95,
+      "layout_characters": 3784,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 96,
+      "layout_characters": 3662,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 97,
+      "layout_characters": 2610,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 98,
+      "layout_characters": 7062,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 99,
+      "layout_characters": 8909,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 100,
+      "layout_characters": 893,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 101,
+      "layout_characters": 5443,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 102,
+      "layout_characters": 15004,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 103,
+      "layout_characters": 6772,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 104,
+      "layout_characters": 5892,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 105,
+      "layout_characters": 5653,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 106,
+      "layout_characters": 11569,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 107,
+      "layout_characters": 4244,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 108,
+      "layout_characters": 5669,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 109,
+      "layout_characters": 4392,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 110,
+      "layout_characters": 6447,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 111,
+      "layout_characters": 5695,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 112,
+      "layout_characters": 5177,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 113,
+      "layout_characters": 4930,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 114,
+      "layout_characters": 5530,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 115,
+      "layout_characters": 4895,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 116,
+      "layout_characters": 4496,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 117,
+      "layout_characters": 6684,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 118,
+      "layout_characters": 13041,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 119,
+      "layout_characters": 13092,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 120,
+      "layout_characters": 5334,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 121,
+      "layout_characters": 6321,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 122,
+      "layout_characters": 4962,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 123,
+      "layout_characters": 2744,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 124,
+      "layout_characters": 5530,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 125,
+      "layout_characters": 3304,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 126,
+      "layout_characters": 7239,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 127,
+      "layout_characters": 9522,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 128,
+      "layout_characters": 203,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 129,
+      "layout_characters": 2094,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 130,
+      "layout_characters": 985,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 131,
+      "layout_characters": 6420,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 132,
+      "layout_characters": 4960,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 133,
+      "layout_characters": 9035,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 134,
+      "layout_characters": 7809,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 135,
+      "layout_characters": 3856,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 136,
+      "layout_characters": 7079,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 137,
+      "layout_characters": 6690,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 138,
+      "layout_characters": 5973,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 139,
+      "layout_characters": 6355,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 140,
+      "layout_characters": 5603,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 141,
+      "layout_characters": 4538,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 142,
+      "layout_characters": 5614,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 143,
+      "layout_characters": 12605,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 144,
+      "layout_characters": 7011,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 145,
+      "layout_characters": 9276,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 146,
+      "layout_characters": 4044,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 147,
+      "layout_characters": 3839,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 148,
+      "layout_characters": 2391,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 149,
+      "layout_characters": 7247,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 150,
+      "layout_characters": 3945,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 151,
+      "layout_characters": 7325,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 152,
+      "layout_characters": 4966,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 153,
+      "layout_characters": 5157,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 154,
+      "layout_characters": 3700,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 155,
+      "layout_characters": 937,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 156,
+      "layout_characters": 4953,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 157,
+      "layout_characters": 15007,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 158,
+      "layout_characters": 6491,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 159,
+      "layout_characters": 9501,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 160,
+      "layout_characters": 10979,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 161,
+      "layout_characters": 7525,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 162,
+      "layout_characters": 5384,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 163,
+      "layout_characters": 8922,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 164,
+      "layout_characters": 4999,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 165,
+      "layout_characters": 10956,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 166,
+      "layout_characters": 7997,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 167,
+      "layout_characters": 7731,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 168,
+      "layout_characters": 7812,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 169,
+      "layout_characters": 5705,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 170,
+      "layout_characters": 998,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 171,
+      "layout_characters": 1620,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 172,
+      "layout_characters": 830,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 173,
+      "layout_characters": 774,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 174,
+      "layout_characters": 6145,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 175,
+      "layout_characters": 4914,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 176,
+      "layout_characters": 5456,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 177,
+      "layout_characters": 7517,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 178,
+      "layout_characters": 5446,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 179,
+      "layout_characters": 2299,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 180,
+      "layout_characters": 5067,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 181,
+      "layout_characters": 4778,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 182,
+      "layout_characters": 2052,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 183,
+      "layout_characters": 11681,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 184,
+      "layout_characters": 4583,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 185,
+      "layout_characters": 4374,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 186,
+      "layout_characters": 5451,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 187,
+      "layout_characters": 7711,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 188,
+      "layout_characters": 5700,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 189,
+      "layout_characters": 4867,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 190,
+      "layout_characters": 7642,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 191,
+      "layout_characters": 5583,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 192,
+      "layout_characters": 6863,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 193,
+      "layout_characters": 4506,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 194,
+      "layout_characters": 6655,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 195,
+      "layout_characters": 2031,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 196,
+      "layout_characters": 1074,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 197,
+      "layout_characters": 4424,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 198,
+      "layout_characters": 4813,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 199,
+      "layout_characters": 6311,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 200,
+      "layout_characters": 6930,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 201,
+      "layout_characters": 5071,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 202,
+      "layout_characters": 6885,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 203,
+      "layout_characters": 8059,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 204,
+      "layout_characters": 6323,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 205,
+      "layout_characters": 6975,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 206,
+      "layout_characters": 4301,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 207,
+      "layout_characters": 20488,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 208,
+      "layout_characters": 5889,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 209,
+      "layout_characters": 27119,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 210,
+      "layout_characters": 4520,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 211,
+      "layout_characters": 11101,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 212,
+      "layout_characters": 6752,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 213,
+      "layout_characters": 2203,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 214,
+      "layout_characters": 4443,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 215,
+      "layout_characters": 1297,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 216,
+      "layout_characters": 5553,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 217,
+      "layout_characters": 5182,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 218,
+      "layout_characters": 5181,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 219,
+      "layout_characters": 3728,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 220,
+      "layout_characters": 2739,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 221,
+      "layout_characters": 5883,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 222,
+      "layout_characters": 5405,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 223,
+      "layout_characters": 6302,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 224,
+      "layout_characters": 5328,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 225,
+      "layout_characters": 7709,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 226,
+      "layout_characters": 5580,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 227,
+      "layout_characters": 5992,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 228,
+      "layout_characters": 5422,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 229,
+      "layout_characters": 7538,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 230,
+      "layout_characters": 0,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 231,
+      "layout_characters": 0,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": true,
+      "policy": "Retain text when present; original page image remains retrievable"
+    },
+    {
+      "page": 232,
+      "layout_characters": 326,
+      "indexed": true,
+      "bbox": [
+        0,
+        0,
+        612.0,
+        792.0
+      ],
+      "sparse_text": false,
+      "policy": "Retain text when present; original page image remains retrievable"
+    }
+  ],
+  "indexed_pages": 232,
+  "omitted_pages": [],
+  "page_records": 232,
+  "figure_records": 171,
+  "table_records": 34,
+  "corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1",
+  "extraction": "pdftotext version 24.02.0",
+  "source_catalog_corrections": [
+    {
+      "kind": "figure",
+      "caption": "Statistical Performance Index scores, 2019",
+      "toc_label": "B.8.2.1",
+      "toc_page": 219,
+      "actual_label": "B.8.2.1",
+      "actual_page": 220
+    },
+    {
+      "kind": "table",
+      "caption": "Evolution of small area poverty estimation techniques",
+      "toc_label": "B.1.3.1",
+      "toc_page": 54,
+      "actual_label": "B.1.2.1",
+      "actual_page": 54
+    },
+    {
+      "kind": "table",
+      "caption": "Summary of economic class definitions",
+      "toc_label": "B.1.4.1",
+      "toc_page": 56,
+      "actual_label": "B.1.3.1",
+      "actual_page": 56
+    },
+    {
+      "kind": "table",
+      "caption": "Number of panel households (over two-year periods)",
+      "toc_label": "B.1.5.1",
+      "toc_page": 59,
+      "actual_label": "B.1.4.1",
+      "actual_page": 59
+    },
+    {
+      "kind": "table",
+      "caption": "A new context and Last Mile policy summary",
+      "toc_label": "8.1",
+      "toc_page": 216,
+      "actual_label": "8.1",
+      "actual_page": 217
+    },
+    {
+      "kind": "table",
+      "caption": "Next Mile policy summary",
+      "toc_label": "8.2",
+      "toc_page": 221,
+      "actual_label": "8.2",
+      "actual_page": 222
+    }
+  ],
+  "method": "Poppler layout text + word coordinates + whole-page rendering, vision at query time; no generated captions indexed",
+  "limitations": [
+    "No cell-structured table export; layout rows and original image are both supplied.",
+    "No automatic diagram interpretation during indexing; vision reads retrieved source pages.",
+    "Unnumbered visuals remain available through their full page; no separate object IDs.",
+    "Full-page bounds are conservative; precise caption boxes are recorded when detected.",
+    "Text-only sparse pages retained; extraction counts do not measure semantic fidelity."
+  ]
+}

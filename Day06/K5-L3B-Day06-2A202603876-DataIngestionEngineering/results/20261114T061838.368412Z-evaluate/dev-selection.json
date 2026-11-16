@@ -1,0 +1,38 @@
+{
+  "strategy": "A",
+  "identity": {
+    "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+    "benchmark_sha256": "e9e8c1d5a6ca060a6f3407560fc5a6dd2382e2a88f632ab2406c6be2ca5e0a2c",
+    "embedding": {
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "device": "cpu",
+      "max_seq_length": 128
+    },
+    "chunking": {
+      "fixed_size": 300,
+      "overlap": 30,
+      "paragraph_max_size": 300
+    },
+    "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+    "normalization": "NFC-paragraphs-code-v2",
+    "resolved_embedding": {
+      "provider": "sentence-transformers",
+      "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "dimensions": 384,
+      "max_seq_length": 128,
+      "normalize_embeddings": true,
+      "dtype": "float32",
+      "device": "cpu",
+      "batch_size": 16,
+      "normalization_version": "NFC-paragraphs-code-v2",
+      "sentence_transformers": "5.7.0",
+      "torch": "2.15.0+cpu",
+      "transformers": "5.23.0",
+      "native_threads": 4
+    }
+  },
+  "rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+  "dev_artifacts": "results/20261114T061838.368412Z-evaluate"
+}

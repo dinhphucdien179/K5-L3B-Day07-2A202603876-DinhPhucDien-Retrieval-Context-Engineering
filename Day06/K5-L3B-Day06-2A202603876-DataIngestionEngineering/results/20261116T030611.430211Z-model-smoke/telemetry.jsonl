@@ -1,0 +1,3 @@
+{"stage": "model-load", "status": "ok", "elapsed_seconds": 5.279831984999873, "memory": {"total_bytes": 24578732032, "available_bytes": 15478013952, "rss_bytes": 764329984, "available_ratio": 0.6297319947932455, "process_peak_rss_bytes": 810135552}}
+{"stage": "authored-embedding", "status": "ok", "elapsed_seconds": 0.004702547000306367, "memory": {"total_bytes": 24578732032, "available_bytes": 15477760000, "rss_bytes": 764731392, "available_ratio": 0.6297216626085067, "process_peak_rss_bytes": 810135552}}
+{"stage": "database-roundtrip", "status": "ok", "elapsed_seconds": 0.16078497099988454, "memory": {"total_bytes": 24578732032, "available_bytes": 15490584576, "rss_bytes": 865959936, "available_ratio": 0.6302434379378159, "process_peak_rss_bytes": 864940032}}

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "bd01",
+    "group": "table",
+    "answerable": true,
+    "question": "In Table 1.3, what is the 2020 LMIC poverty gap as a share of the poverty line, and the corresponding annual monetary gap? Give the units.",
+    "expected_answer": "0.012 of the line (1.2%); 15.02 trillion 2020 VND annually.",
+    "gold": [
+      {
+        "id": "p049-table-1.3",
+        "page": 49,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          237.6055,
+          496.5912,
+          374.3956,
+          509.7042
+        ],
+        "region": "Panel A LMIC row, 2020; panel B LMIC row, 2020",
+        "verified_facts": "0.012 and 15.02; ratios versus trillion VND",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd02",
+    "group": "table",
+    "answerable": true,
+    "question": "Using Table 2.1, give the national census populations in 2009 and 2019 and their absolute increase.",
+    "expected_answer": "85,801,996 and 96,208,635; increase 10,406,639 people.",
+    "gold": [
+      {
+        "id": "p075-table-2.1",
+        "page": 75,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.6127,
+          448.1571,
+          250.0707,
+          461.2701
+        ],
+        "region": "National row, 2009 and 2019 columns",
+        "verified_facts": "85,801,996; 96,208,635; subtract for 10,406,639",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd03",
+    "group": "table",
+    "answerable": true,
+    "question": "According to Table 7.2, what were health spending and its GDP share in 2018, and the in-patient/out-patient amounts?",
+    "expected_answer": "Health 89 trillion dong, 1.6% GDP; in-patient 43 and out-patient 46 trillion dong.",
+    "gold": [
+      {
+        "id": "p200-table-7.2",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          90.7525,
+          73.0002,
+          263.9305,
+          86.1132
+        ],
+        "region": "Health row and two indented subrows",
+        "verified_facts": "89; 1.6%; 43; 46",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd04",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Read the three maps in Figure 1.7. Which years do they compare, what does the shared color scale measure, and does the dark high-poverty area generally expand or contract?",
+    "expected_answer": "2009, 2015, 2019; poverty rate (%), darker green higher; high-poverty area generally contracts.",
+    "gold": [
+      {
+        "id": "p052-figure-1.7",
+        "page": 52,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          205.9842,
+          399.3283,
+          406.0173,
+          412.4413
+        ],
+        "region": "Three map panels, year labels and shared 0–100% legend",
+        "verified_facts": "2009/2015/2019; poverty percent; dark concentration shrinks",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd05",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Which two regions are zoomed in Figure 3.9, and does orange or blue indicate higher poverty on its legend?",
+    "expected_answer": "Midlands and Northern Mountains; Central Highlands. Orange is higher poverty, blue lower.",
+    "gold": [
+      {
+        "id": "p107-figure-3.9",
+        "page": 107,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          159.4424,
+          427.1177,
+          452.5625,
+          440.2307
+        ],
+        "region": "Two map titles and shared poverty-rate color legend",
+        "verified_facts": "Midlands & Northern Mountains, Central Highlands; orange high, blue low",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd06",
+    "group": "diagram",
+    "answerable": true,
+    "question": "In the top row of Figure 6.5, compare the temperature and PM2.5 maps: where are high temperatures concentrated and where is high air pollution concentrated?",
+    "expected_answer": "Higher temperature in the south; air pollution concentrated in the Red River Delta (northern area).",
+    "gold": [
+      {
+        "id": "p179-figure-6.5",
+        "page": 179,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          176.956,
+          177.0131,
+          435.0481,
+          190.1261
+        ],
+        "region": "Top-left temperature and top-middle PM2.5 maps, legends; paragraph above",
+        "verified_facts": "Warm colors high; south temperature, Red River Delta air pollution",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd07",
+    "group": "chart",
+    "answerable": true,
+    "question": "From Figure 4.8, how does school attendance change from ages 10–14 to 20–24 for both genders, and which gender is slightly higher at 20–24?",
+    "expected_answer": "Falls from near universal to roughly a quarter for both; men slightly higher at 20–24.",
+    "gold": [
+      {
+        "id": "p137-figure-4.8",
+        "page": 137,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          55.7209,
+          371.5389,
+          298.963,
+          384.6519
+        ],
+        "region": "Three age groups, female/male legend and vertical attendance-percent axis",
+        "verified_facts": "Near 100% -> around25%; male slightly above female in20–24",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "At final age group accept 20–30%; approximate reading, no exact decimals required",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd08",
+    "group": "chart",
+    "answerable": true,
+    "question": "Compare the agriculture/fishing and manufacturing panels in Figure 5.11 between 2010 and 2020. Which sector loses workers and which gains, and what skill color dominates agriculture?",
+    "expected_answer": "Agriculture/fishing loses workers, manufacturing gains; unskilled manual (yellow) dominates agriculture.",
+    "gold": [
+      {
+        "id": "p161-figure-5.11",
+        "page": 161,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          207.2986,
+          343.7495,
+          404.7037,
+          356.8625
+        ],
+        "region": "Two stacked-bar panels and four-color skill legend",
+        "verified_facts": "Agriculture ~24m->17m; manufacturing ~7m->11m; yellow unskilled manual",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd09",
+    "group": "chart",
+    "answerable": true,
+    "question": "Using Figure 6.3, compare the direction of Vietnam and the lower-middle-income group in out-of-pocket health spending from 2010 to 2018. Give Vietnam’s approximate endpoints and units.",
+    "expected_answer": "Vietnam rises about37% to45% of total health expenditure; LMIC group falls.",
+    "gold": [
+      {
+        "id": "p177-figure-6.3",
+        "page": 177,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.7298,
+          65.8592,
+          249.9538,
+          78.9722
+        ],
+        "region": "Green Vietnam line, orange LMIC line; share of total health expenditure axis",
+        "verified_facts": "Vietnam37 to45; LMIC roughly57to51",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Vietnam endpoints within 2 percentage points; correct direction and denominator required",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd10",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Combine Tables 1.1 and 1.3: what are the 2020 LMIC headcount poverty rate and average poverty-gap share, and why are these not the same statistic?",
+    "expected_answer": "Headcount5.0% of people versus poverty gap0.012=1.2% of poverty line averaged across population; prevalence versus average shortfall.",
+    "gold": [
+      {
+        "id": "p048-table-1.1",
+        "page": 48,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          226.7376,
+          65.8555,
+          385.2636,
+          78.9685
+        ],
+        "region": "2020 row, LMIC column",
+        "verified_facts": "Headcount5.0%",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p049-table-1.3",
+        "page": 49,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          237.6055,
+          496.5912,
+          374.3956,
+          509.7042
+        ],
+        "region": "Panel A 2020 LMIC and explanatory paragraph above",
+        "verified_facts": "Average gap1.2% of line; not headcount",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd11",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Use Tables 4.1 and 4.2 to give the 2020 national, male and female probabilities of surviving to age five, and calculate the female–male difference in percentage points.",
+    "expected_answer": "National0.979, male0.976, female0.983; female minus male0.007 probability=0.7 percentage points.",
+    "gold": [
+      {
+        "id": "p132-table-4.1",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          158.9326,
+          517.6306,
+          453.0715,
+          530.7436
+        ],
+        "region": "Vietnam 2020 survival-to-age5 cell",
+        "verified_facts": "0.979",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p137-table-4.2",
+        "page": 137,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          179.4799,
+          73.0002,
+          432.5239,
+          86.1132
+        ],
+        "region": "Survival-to-age5 male/female2020 cells",
+        "verified_facts": "Male0.976; female0.983;0.7pp difference",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd12",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Compare total 2018 revenues and grants in Table 7.1 with total expenditures in Table 7.2. Which is larger and by how many trillion dong? Do not infer a national fiscal balance from these differently scoped tables.",
+    "expected_answer": "Revenues/grants1,364; total expenditures1,435 trillion dong; expenditures71trillion higher in these tables, scope caveat.",
+    "gold": [
+      {
+        "id": "p199-table-7.1",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          73.689,
+          225.8419,
+          280.995,
+          238.9549
+        ],
+        "region": "Total revenues & grants row",
+        "verified_facts": "1,364 trillion dong",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p200-table-7.2",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          90.7525,
+          73.0002,
+          263.9305,
+          86.1132
+        ],
+        "region": "Total expenditures row and title central government",
+        "verified_facts": "1,435trillion; difference71; scopes differ",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd13",
+    "group": "text",
+    "answerable": true,
+    "question": "In Box 2.1, when did Vietnam join the WTO, and to what share of GDP had exports of goods and services risen by 2019?",
+    "expected_answer": "January2007;106% of GDP in2019.",
+    "gold": [
+      {
+        "id": "p081",
+        "page": 81,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Box2.1 continued, upper left paragraph",
+        "verified_facts": "January2007; exports106% of GDP2019",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd14",
+    "group": "text",
+    "answerable": true,
+    "question": "What share of households reported a negative shock between February and June 2020, and which first nationwide lockdown month is identified in section 6.2?",
+    "expected_answer": "Almost70%; April2020.",
+    "gold": [
+      {
+        "id": "p178",
+        "page": 178,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Left column Shocks experienced by households during COVID-19, first paragraph",
+        "verified_facts": "Almost70%; February–June2020; lockdownApril2020",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd15",
+    "group": "text",
+    "answerable": true,
+    "question": "In section 8.2, how does Vietnam’s higher-education gross enrollment rate compare with 30 percent and with East Asian peers?",
+    "expected_answer": "Below30%, among the lowest in East Asia.",
+    "gold": [
+      {
+        "id": "p221",
+        "page": 221,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Bottom-right paragraph Continuing improvements in higher education access and quality",
+        "verified_facts": "GER below30%;one of lowest East Asian",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  {
+    "id": "bd16",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What was Vietnam’s observed national child stunting rate measured in a survey conducted in 2028?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "A2022 publication cannot provide observed2028 survey results.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "2028": [],
+        "stunting": [
+          27,
+          31,
+          41,
+          115,
+          132,
+          133,
+          134,
+          135,
+          136,
+          138,
+          205,
+          206,
+          218
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "dev"
+  },
+  {
+    "id": "bd17",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Give the exact 2020 VHLSS income and sampling weight of respondent household BONUS-HH-814209.",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Published aggregates, no identified household-level record.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "BONUS-HH-814209": []
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "dev"
+  },
+  {
+    "id": "bd18",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What are the lower and upper 95% confidence bounds for Vietnam’s 2020 HCI value in Table 4.1?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Point estimate0.69 is supplied, requested confidence interval is absent.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "confidence": [
+          80
+        ],
+        "0.69": [
+          120,
+          132
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "dev"
+  }
+]

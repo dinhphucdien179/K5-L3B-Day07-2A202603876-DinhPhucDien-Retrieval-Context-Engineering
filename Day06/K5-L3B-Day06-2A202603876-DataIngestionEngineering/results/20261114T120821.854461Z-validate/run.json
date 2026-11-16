@@ -1,0 +1,76 @@
+{
+  "command": "validate",
+  "config": {
+    "runtime": {
+      "native_threads": 4,
+      "fetch_workers": 1,
+      "max_inflight": 1,
+      "requests_per_second": 1.0,
+      "batch_size": 16,
+      "rss_limit_mb": 2048,
+      "min_available_ratio": 0.1,
+      "max_response_bytes": 33554432
+    },
+    "embedding": {
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "device": "cpu",
+      "max_seq_length": 128
+    },
+    "chunking": {
+      "fixed_size": 300,
+      "overlap": 30,
+      "paragraph_max_size": 300
+    },
+    "corpus": "data/pages.jsonl",
+    "sources": "data/sources.json",
+    "benchmark": "benchmark/questions.json",
+    "manifest": "data/manifest.json",
+    "corpus_spec": "data/corpus-spec.json",
+    "freeze": "benchmark/freeze.json",
+    "cache": ".cache/day6",
+    "results": "results",
+    "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C."
+  },
+  "hardware": {
+    "effective_cpus": 16,
+    "native_threads": 4,
+    "cpu_model": "AMD Ryzen 7 4800H with Radeon Graphics",
+    "architecture": "x86_64",
+    "previous_thread_environment": {
+      "OMP_NUM_THREADS": null,
+      "MKL_NUM_THREADS": null,
+      "OPENBLAS_NUM_THREADS": null,
+      "NUMEXPR_NUM_THREADS": null
+    },
+    "budget": {
+      "native_threads": 4,
+      "fetch_workers": 1,
+      "max_inflight": 1,
+      "requests_per_second": 1.0,
+      "batch_size": 16,
+      "rss_limit_mb": 2048,
+      "min_available_ratio": 0.1,
+      "max_response_bytes": 33554432
+    },
+    "python": "3.12.16",
+    "environment_type": "venv",
+    "memory": {
+      "total_bytes": 24578732032,
+      "available_bytes": 15324561408,
+      "rss_bytes": 22355968,
+      "available_ratio": 0.6234886888407573,
+      "process_peak_rss_bytes": 22134784
+    }
+  },
+  "packages": {
+    "numpy": "2.5.4",
+    "requests": "2.34.2",
+    "pypdf": "6.21.4",
+    "psycopg": "3.3.8",
+    "pgvector": "0.4.2",
+    "torch": "2.15.0+cpu",
+    "sentence-transformers": "5.7.0"
+  },
+  "status": "started"
+}

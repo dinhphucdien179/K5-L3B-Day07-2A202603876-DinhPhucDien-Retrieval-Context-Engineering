@@ -1,0 +1,117 @@
+[
+  {
+    "trial": "dense_baseline",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 8,
+      "N": 15,
+      "rate": 0.5333333333333333
+    },
+    "errors": 0,
+    "total_seconds": 9.244715106001422,
+    "api_cost_usd": 0
+  },
+  {
+    "trial": "bm25",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 9,
+      "N": 15,
+      "rate": 0.6
+    },
+    "errors": 0,
+    "total_seconds": 0.03703140600009647,
+    "api_cost_usd": 0
+  },
+  {
+    "trial": "hybrid",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 8,
+      "N": 15,
+      "rate": 0.5333333333333333
+    },
+    "errors": 0,
+    "total_seconds": 0.10820535800121434,
+    "api_cost_usd": 0
+  },
+  {
+    "trial": "hybrid_neighbors1",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 14,
+      "N": 15,
+      "rate": 0.9333333333333333
+    },
+    "errors": 0,
+    "total_seconds": 0.13292155799808825,
+    "api_cost_usd": 0
+  },
+  {
+    "trial": "hybrid_neighbors2",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 14,
+      "N": 15,
+      "rate": 0.9333333333333333
+    },
+    "errors": 0,
+    "total_seconds": 0.13846700799967948,
+    "api_cost_usd": 0
+  }
+]

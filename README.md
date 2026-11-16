@@ -1,5 +1,27 @@
 # Day 7 — Agentic RAG
 
+**Đinh Phúc Diên — 2A202603876 — L3B.** Bài thực hành dùng PostgreSQL/pgvector
+và embedding Day06 cho phần cơ bản, mở rộng toàn bộ báo cáo World Bank 232 trang
+cho phần bonus.
+
+- [Báo cáo hoàn chỉnh](report/individual/2A202603876_DinhPhucDien.md): dữ liệu, thí nghiệm retrieval, đánh giá agent và bonus theo mẫu đề.
+- [Cài đặt và lệnh chạy trên Windows, macOS, Linux](docs/RUN.md): lựa chọn 1 — venv; lựa chọn 2 — Conda (khuyến khích). [Chuẩn bị Day06](docs/DAY06_SETUP.md).
+- [Code](src/README.md), [benchmark cơ bản](data/day07/README.md), [benchmark bonus hiện tại](data/bonus-v2/README.md).
+- [Kiểm tra bài nộp](results/submission/verification.json): unit test, checksum, nhãn, số liệu và đường dẫn tài liệu.
+
+Phần cơ bản chọn hybrid mở rộng một chunk mỗi phía trên dev; test có context đủ
+evidence 5/5, điểm trả lời 2,000/2, citation hợp lệ 6/8. Bonus đạt 30/30 trên bộ
+test mới, không có câu lỗi hệ thống; kết quả cũ 26/30 được giữ để đối chiếu.
+Nhãn có AI hỗ trợ đọc nguồn, chưa có xác nhận độc lập của người học.
+
+```bash
+python scripts/verify_submission.py
+```
+
+Chạy lệnh trên sau khi tạo và kích hoạt môi trường Python theo hướng dẫn.
+Lệnh kiểm tra offline, không gọi API. Các lệnh dùng model thật nằm trong
+hướng dẫn chạy. Phần đề bài gốc được giữ bên dưới.
+
 **Bài cá nhân · Python 3.11+ · tiếp nối Day 6**
 
 Dùng embedding và vector store từ Day 6 để xây một agent biết tìm bằng chứng, trả lời có nguồn và nhận biết khi không đủ thông tin. Bạn tự chọn kiến trúc, số tool và cách tổ chức retrieval.
@@ -30,4 +52,4 @@ Index một tài liệu thực tế từ **100 trang** có bảng, ảnh và bi�
 
 ![Các bước thử nghiệm trên dev và đánh giá trên test](assets/experiment-loop.svg)
 
-Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/MSSV_HoTen.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.
+Nộp code, cách chạy, cấu hình, benchmark, trace và [báo cáo](report/individual/2A202603876_DinhPhucDien.md). Thời gian ở [checkpoints](CHECKPOINTS.md) là gợi ý, có thể điều chỉnh theo lớp và phạm vi thử nghiệm.

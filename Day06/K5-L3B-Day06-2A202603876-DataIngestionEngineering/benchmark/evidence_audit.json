@@ -1,0 +1,222 @@
+[
+  {
+    "question_id": "q01",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 46,
+    "evidence_matches_source": true,
+    "quote_words": 35,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "e39da8f461ef605a98cdb0fc4493152bb0cd553d7fd593908d3ad597db21fed0",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q02",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 47,
+    "evidence_matches_source": true,
+    "quote_words": 34,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "ddd3f11fa8fc80e60c39015a804ca8f9c76f4d540bb33ae8ec9653d54baa8775",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q03",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 49,
+    "evidence_matches_source": true,
+    "quote_words": 49,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "58b10324abbb4cdfcece12a8a25435c66cfba3b5cb88d330e915d0fd32e4939a",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q04",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 50,
+    "evidence_matches_source": true,
+    "quote_words": 27,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "dace744c54992934cfb728875ec49bbd86eab3346b73f98f3f9e8bc1b4d80d69",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q05",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 51,
+    "evidence_matches_source": true,
+    "quote_words": 43,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 1,
+    "source_text_sha256": "b36a192ad5dfa0080cd667cbd399624f7c5c5c3b322ebc81f08c078eef8f30c1",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q06",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 54,
+    "evidence_matches_source": true,
+    "quote_words": 27,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "00114dd2f1c6346330d00506c3a3e5c0cbafffabdafb17253c198d96e4f6fbca",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q07",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 55,
+    "evidence_matches_source": true,
+    "quote_words": 24,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "abca1f832c64a06401abf848590e2fc84ba7962ef762b48221e662dfeb7afb10",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q08",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 56,
+    "evidence_matches_source": true,
+    "quote_words": 46,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "0d71f63422ff00c60ed646287acd23ed50b5b62ca87a56e29f866be79177355e",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q09",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 57,
+    "evidence_matches_source": true,
+    "quote_words": 23,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "59149657974ad6c495a95d52e95060c823f629dc1ff6c51fddd70742dfd6d4f1",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q10",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 59,
+    "evidence_matches_source": true,
+    "quote_words": 25,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "293e8d4a339efd2842bc01e19d7ef1a1004ef7fcb4b525bd350835cb7b39d61e",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q11",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 59,
+    "evidence_matches_source": true,
+    "quote_words": 34,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "293e8d4a339efd2842bc01e19d7ef1a1004ef7fcb4b525bd350835cb7b39d61e",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q12",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 60,
+    "evidence_matches_source": true,
+    "quote_words": 26,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "6ac6a33d56adb025af02c36a3ca7f3961ec6e4bbf54e0ec2ded9edcc4f225c31",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q13",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 61,
+    "evidence_matches_source": true,
+    "quote_words": 42,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "692f9675a674bf7e91cbabb36eaf0db7b2e356edbd436b37b754314d1b8cc015",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q14",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 63,
+    "evidence_matches_source": true,
+    "quote_words": 36,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "40b180e28e30c61aab39f47e87224cdf5e214089ceec8557af73ad846bd9c573",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q15",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 65,
+    "evidence_matches_source": true,
+    "quote_words": 25,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 1,
+    "source_text_sha256": "cb34a757a71e5fff7548a89d441485740c9fc43f80a14bb037ae43379a50c31d",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q16",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 77,
+    "evidence_matches_source": true,
+    "quote_words": 17,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "7f66099b740e50fe830159b63e2ed0e8f5ace64de5b290d68c8ad558e63d2d9b",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q17",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 83,
+    "evidence_matches_source": true,
+    "quote_words": 42,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "8d65169cba0b4cbd73bc1ab45f5f7b77ba3faef9b7b9c15d044c8dfc603d4200",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q18",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 89,
+    "evidence_matches_source": true,
+    "quote_words": 16,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "7389392dab5d2f226711df7045b0dd4d9a58476cf4f56acbe53257736fb087aa",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q19",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 91,
+    "evidence_matches_source": true,
+    "quote_words": 29,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 2,
+    "source_text_sha256": "dc8b832c337c3f5406fa23ad83a6f429ce09f6f20dbb772142d0dfa63d6e114c",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  },
+  {
+    "question_id": "q20",
+    "document_id": "worldbank-vietnam-poverty-equity-2022",
+    "unit_id": 96,
+    "evidence_matches_source": true,
+    "quote_words": 50,
+    "alternative_exact_matches": 0,
+    "documented_alternatives_count": 0,
+    "source_text_sha256": "e1d8b14daf9438b5eee58c3321563618bbc1076253636fbdb80e3981bc3fada4",
+    "semantic_review": "AI-assisted source reading; learner review pending. Not a retrieval result or human evaluation label."
+  }
+]

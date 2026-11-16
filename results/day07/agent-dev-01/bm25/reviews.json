@@ -1,0 +1,210 @@
+[
+  {
+    "query_id": "d01",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng minimum necessary living standards nhưng thay so sánh qua thời gian thành across contexts/populations; citation dừng ở comparable across nên không chứng minh điều kiện thứ hai.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d02",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng recall 12 tháng dẫn đến dữ liệu phỏng vấn sớm 2020 bao gồm pre-COVID 2019; hai nguồn bổ sung.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d03",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Định nghĩa và đơn vị poverty line đúng; prose và bảng poverty gap đều liên quan.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d04",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu đúng hai vùng; prose source giữ tên, highest rates và slower decline.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d05",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng survey chỉ đại diện sáu vùng rộng, không đủ địa phương; số tỉnh/huyện và bối cảnh small-area estimates được nguồn hỗ trợ.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d06",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng household survey+census, citation trực tiếp.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d07",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ tripled, 7.3 triệu 2010 và 22.6 triệu 2020; citation có nguyên văn số và năm.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d08",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng mục đích welfare distribution thay government definitions; context chứa mệnh đề non-government và citations hỗ trợ mục đích/global definitions.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d09",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ dưới 2%,2016–18 và nửa 2010–12.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d10",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng rời hoàn toàn agriculture, nhưng dùng sectors with better opportunities thay điều kiện có formal contract. Source bị cắt ngay employment w.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d11",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng khác Census sampling frame và không có panel 2020; source đủ lý do.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d12",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ hai lợi ích hiện tại/tương lai và phá intergenerational traps; citations bổ sung.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d13",
+    "answerable": true,
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Nêu bottom 40 nhưng thiếu income distribution so với average/top; citation là twin goal và định nghĩa dừng giữa câu, chưa hỗ trợ đầy đủ cách đo income growth.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d14",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đủ projected 4.2 lên 4.7%, điều kiện không tăng inequality và 0.5 point; câu hỏi cung cấp October 2021, source giữ các giá trị và scenario.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "d15",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đúng agriculture là nguồn lớn nhưng income ít tăng; được citation hỗ trợ.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "du01",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối rõ ràng, không cung cấp số liệu hoặc bản ghi bịa; đối chiếu absence_reason của corpus 39 trang.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  },
+  {
+    "query_id": "du02",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối rõ ràng, không cung cấp số liệu hoặc bản ghi bịa; đối chiếu absence_reason của corpus 39 trang.",
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending"
+  }
+]

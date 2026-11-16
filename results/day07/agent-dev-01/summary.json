@@ -1,0 +1,167 @@
+[
+  {
+    "trial": "dense_baseline",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 6,
+      "N": 15,
+      "rate": 0.4
+    },
+    "errors": 0,
+    "total_seconds": 304.4301626469969,
+    "api_cost_usd": 0.00994905,
+    "original_hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    }
+  },
+  {
+    "trial": "bm25",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "hit3": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "context_evidence": {
+      "n": 9,
+      "N": 15,
+      "rate": 0.6
+    },
+    "errors": 0,
+    "total_seconds": 182.8225166830016,
+    "api_cost_usd": 0.0101685,
+    "original_hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    }
+  },
+  {
+    "trial": "hybrid",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 9,
+      "N": 15,
+      "rate": 0.6
+    },
+    "errors": 1,
+    "total_seconds": 174.5747592730022,
+    "api_cost_usd": 0.0103485,
+    "original_hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    }
+  },
+  {
+    "trial": "hybrid_neighbors1",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 14,
+      "N": 15,
+      "rate": 0.9333333333333333
+    },
+    "errors": 0,
+    "total_seconds": 175.14239854400057,
+    "api_cost_usd": 0.0150726,
+    "original_hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    }
+  },
+  {
+    "trial": "hybrid_neighbors2",
+    "split": "dev",
+    "cases": 17,
+    "hit1": {
+      "n": 2,
+      "N": 15,
+      "rate": 0.13333333333333333
+    },
+    "hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "context_evidence": {
+      "n": 13,
+      "N": 15,
+      "rate": 0.8666666666666667
+    },
+    "errors": 1,
+    "total_seconds": 157.18240399600018,
+    "api_cost_usd": 0.0139827,
+    "original_hit1": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 15,
+      "rate": 0.2
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "records": 437,
+  "physical_pages": 232,
+  "figure_records": 171,
+  "table_records": 34,
+  "caption_bbox_found": 205,
+  "caption_bbox_missing": [],
+  "source_catalog_corrections": [
+    {
+      "kind": "figure",
+      "caption": "Statistical Performance Index scores, 2019",
+      "toc_label": "B.8.2.1",
+      "toc_page": 219,
+      "actual_label": "B.8.2.1",
+      "actual_page": 220
+    },
+    {
+      "kind": "table",
+      "caption": "Evolution of small area poverty estimation techniques",
+      "toc_label": "B.1.3.1",
+      "toc_page": 54,
+      "actual_label": "B.1.2.1",
+      "actual_page": 54
+    },
+    {
+      "kind": "table",
+      "caption": "Summary of economic class definitions",
+      "toc_label": "B.1.4.1",
+      "toc_page": 56,
+      "actual_label": "B.1.3.1",
+      "actual_page": 56
+    },
+    {
+      "kind": "table",
+      "caption": "Number of panel households (over two-year periods)",
+      "toc_label": "B.1.5.1",
+      "toc_page": 59,
+      "actual_label": "B.1.4.1",
+      "actual_page": 59
+    },
+    {
+      "kind": "table",
+      "caption": "A new context and Last Mile policy summary",
+      "toc_label": "8.1",
+      "toc_page": 216,
+      "actual_label": "8.1",
+      "actual_page": 217
+    },
+    {
+      "kind": "table",
+      "caption": "Next Mile policy summary",
+      "toc_label": "8.2",
+      "toc_page": 221,
+      "actual_label": "8.2",
+      "actual_page": 222
+    }
+  ],
+  "source_pdf_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+  "note": "All 205 numbered objects locate actual source-page captions. Bounds are full-page; no exact object crop boundary is claimed."
+}

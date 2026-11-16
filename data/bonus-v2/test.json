@@ -1,0 +1,974 @@
+[
+  {
+    "id": "v2t01",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "From Table 1.1, give the UMIC ($5.50/day 2011PPP) poverty rates in 2012 and 2018 and the reduction in percentage points.",
+    "expected_answer": "40.8% to 23.4%; decrease 17.4 percentage points.",
+    "gold": [
+      {
+        "id": "p048-table-1.1",
+        "page": 48,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          226.7376,
+          65.8555,
+          385.2636,
+          78.9685
+        ],
+        "region": "UMIC column, 2012 and 2018 rows",
+        "verified_facts": "40.8;23.4;40.8-23.4=17.4pp",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t02",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "In panel B of Table 1.3, give the IPL annual total poverty gaps for 2010 and 2020, their monetary reduction, and the price-year/unit.",
+    "expected_answer": "5.38 to 1.44 trillion 2020 VND annually; decrease 3.94 trillion 2020 VND.",
+    "gold": [
+      {
+        "id": "p049-table-1.3",
+        "page": 49,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          237.6055,
+          496.5912,
+          374.3956,
+          509.7042
+        ],
+        "region": "Panel B IPL row, 2010/2020 columns and unit header",
+        "verified_facts": "5.38;1.44;3.94;2020 VND trillion annually",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t03",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Using Table 2.1, what were the Central Highlands populations in 2009 and 2019, and the absolute increase?",
+    "expected_answer": "5,115,135 and 5,842,605 people; increase 727,470 people.",
+    "gold": [
+      {
+        "id": "p075-table-2.1",
+        "page": 75,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.6127,
+          448.1571,
+          250.0707,
+          461.2701
+        ],
+        "region": "Central Highlands row",
+        "verified_facts": "5,115,135;5,842,605;727,470",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t04",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "According to Table 4.1, how did Vietnam’s fraction of children under five not stunted change between 2010 and 2020? State the fractions and change in percentage points.",
+    "expected_answer": "0.773 to 0.762; decline 0.011 probability = 1.1 percentage points.",
+    "gold": [
+      {
+        "id": "p132-table-4.1",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          158.9326,
+          517.6306,
+          453.0715,
+          530.7436
+        ],
+        "region": "Fraction under five not stunted, Vietnam 2010/2020 columns",
+        "verified_facts": "0.773;0.762;decline1.1pp",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t05",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "In Table 7.1, compare the oil-revenue CIT row with the non-oil direct-tax CIT row for 2018. Give both trillion-dong amounts and their difference.",
+    "expected_answer": "Oil CIT49;non-oil direct-tax CIT202;non-oil higher153trillion dong.",
+    "gold": [
+      {
+        "id": "p199-table-7.1",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          73.689,
+          225.8419,
+          280.995,
+          238.9549
+        ],
+        "region": "CIT under oil revenues and CIT under direct taxes; TRN DONG column",
+        "verified_facts": "49;202;202-49=153trillion dong",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t06",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Using Table 7.2, what are 2018 primary and lower-secondary education expenditures in trillion dong and percent of GDP? Which amount is larger and by how much?",
+    "expected_answer": "Primary63trillion,1.1%GDP;lower-secondary49trillion,0.9%GDP;primary higher14trillion dong.",
+    "gold": [
+      {
+        "id": "p200-table-7.2",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          90.7525,
+          73.0002,
+          263.9305,
+          86.1132
+        ],
+        "region": "Primary and Lower secondary rows, both numeric columns",
+        "verified_facts": "63;1.1%;49;.9%;14trillion dong",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t07",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Follow the right-hand branches of Figure B.2.4.1: which two boxes split income per adult, and which two boxes further split labor income per adult?",
+    "expected_answer": "Income per adult branches to labor and non-labor income per adult. Labor income per adult branches to share of occupied adults and labor income per occupied adult.",
+    "gold": [
+      {
+        "id": "p096-figure-B.2.4.1",
+        "page": 96,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          139.4658,
+          353.7296,
+          472.3839,
+          366.8426
+        ],
+        "region": "Grey income-per-adult box, yellow pair and blue terminal pair",
+        "verified_facts": "Labor/non-labor per adult;occupied-adult share and labor income per occupied adult",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t08",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Read Figure B.4.1.1: how many immediate productivity-component branches leave the Human Capital Index root, and which single leaf is attached to the Survival component?",
+    "expected_answer": "Three branches; Survival to age 5 is the single leaf of the Survival component.",
+    "gold": [
+      {
+        "id": "p135-figure-B.4.1.1",
+        "page": 135,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          156.6112,
+          531.526,
+          455.3923,
+          544.639
+        ],
+        "region": "Root to three component boxes, upper teal branch and leaf",
+        "verified_facts": "3;survival to age5;not adult survival",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t09",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "In Figure B.6.3.1, list the five leaves connected to Minimum Basic Social Services, keeping them separate from Social Insurance.",
+    "expected_answer": "Housing;Health Insurance and Health;Education;Clean Water;Information Access.",
+    "gold": [
+      {
+        "id": "p190-figure-B.6.3.1",
+        "page": 190,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          69.531,
+          295.8334,
+          542.631,
+          308.9234
+        ],
+        "region": "Rightmost grey parent and its five vertical leaves",
+        "verified_facts": "Housing;Health Insurance and Health;Education;Clean Water;Information Access",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t10",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Read the bottom of Figure B.7.1.1: what is added to Consumer Income to obtain Final Income, is it net of fees, and which two sectors are named?",
+    "expected_answer": "Add in-kind transfers net of user fees, for health and education.",
+    "gold": [
+      {
+        "id": "p197-figure-B.7.1.1",
+        "page": 197,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          129.6705,
+          420.3685,
+          482.3337,
+          433.4815
+        ],
+        "region": "Bottom plus arrow and left white box leading to purple Final Income",
+        "verified_facts": "Add in-kind transfers net of user fees:health;education",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t11",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "In panel b of Figure 8.1, what fairness condition is proposed for social insurance, and where should the equity elements of its financing be shifted?",
+    "expected_answer": "Ensure social insurance is actuarially fair; shift equity elements to broader-based financing through general revenues.",
+    "gold": [
+      {
+        "id": "p225-figure-8.1",
+        "page": 225,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          177.8774,
+          302.0654,
+          434.1245,
+          315.1784
+        ],
+        "region": "Panel b insurance arrow and lower-right financing annotation",
+        "verified_facts": "Actuarially fair;broader-based general-revenue financing",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t12",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Read Figure 2.1: for households whose oldest member is aged 60–69, give the 2010 and 2020 counts and their increase. State the unit and legend colors.",
+    "expected_answer": "2.5million(teal2010) to4.6million(orange2020);increase2.1million households.",
+    "gold": [
+      {
+        "id": "p075-figure-2.1",
+        "page": 75,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          374.6171,
+          204.8025,
+          494.7041,
+          217.9155
+        ],
+        "region": "60–69 pair of labelled bars, legend and note",
+        "verified_facts": "2.5;4.6;2.1million;teal2010/orange2020;oldest member defines age",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t13",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "From Figure 2.3, give the 2010 and 2020 counts of households with tertiary education as their maximum level, the increase, and what the education category refers to.",
+    "expected_answer": "3.0million to4.7million;increase1.7million households;maximum completed education of any household member.",
+    "gold": [
+      {
+        "id": "p076-figure-2.3",
+        "page": 76,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          85.2221,
+          441.0124,
+          269.4611,
+          454.1254
+        ],
+        "region": "Tertiary labelled bars, legend and note",
+        "verified_facts": "3.0;4.7;1.7million;maximum education of any member",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t14",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "In Figure 2.7, compare medium-skill and low-skill net employment changes during 2015–2020. Give approximate magnitudes, directions, units, and the two legend colors.",
+    "expected_answer": "Medium-skill orange rises about2.9million workers;low-skill grey falls about3.0million workers. Axis in thousands.",
+    "gold": [
+      {
+        "id": "p078-figure-2.7",
+        "page": 78,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          350.9555,
+          65.8594,
+          518.3645,
+          78.9724
+        ],
+        "region": "2015–2020 orange and grey bars, zero line, axis and legend",
+        "verified_facts": "Orange+~2900thousand;grey-~3000thousand",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": "Medium gain2.6–3.2million;low loss2.7–3.3million;signs, units and colors required",
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t15",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Using the no-contract bars in Figure 2.8, what share of workers is in agriculture and fishing in 2010 and 2020? Give the change in percentage points and its legend color.",
+    "expected_answer": "Teal agriculture/fishing56.2% to40.4%;decline15.8percentage points.",
+    "gold": [
+      {
+        "id": "p079-figure-2.8",
+        "page": 79,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          223.467,
+          177.0131,
+          388.536,
+          190.1261
+        ],
+        "region": "Right-hand No contract pair, bottom teal segments with numeric labels",
+        "verified_facts": "56.2;40.4;decline15.8pp;teal",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t16",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Read panel A of Figure 2.11: compare the approximate mean number of income sources for the poorest and richest deciles. Is the richest decile more diversified on this measure?",
+    "expected_answer": "Poorest about3.3 sources;richest about2.9 sources;richest less diversified by this measure.",
+    "gold": [
+      {
+        "id": "p082-figure-2.11",
+        "page": 82,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          102.5344,
+          510.4859,
+          509.4694,
+          523.5989
+        ],
+        "region": "Panel A first/last bars, average-number-of-sources axis, decile labels",
+        "verified_facts": "Poorest~3.3;richest~2.9;poorest higher",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": "Poorest3.1–3.5,richest2.7–3.1;unit is sources per household, not millions or percent;direction required",
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t17",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Combine Tables 4.1 and 4.2 for 2020: give Vietnam’s national, male and female survival rates from age 15 to 60, then the female–male gap in percentage points.",
+    "expected_answer": "National.867,male.813,female.924;female-minus-male.111=11.1percentage points.",
+    "gold": [
+      {
+        "id": "p132-table-4.1",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          158.9326,
+          517.6306,
+          453.0715,
+          530.7436
+        ],
+        "region": "Survival age15–60 Vietnam2020 cell",
+        "verified_facts": ".867",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      },
+      {
+        "id": "p137-table-4.2",
+        "page": 137,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          179.4799,
+          73.0002,
+          432.5239,
+          86.1132
+        ],
+        "region": "Survival age15–60 male/female2020 cells",
+        "verified_facts": ".813;.924;11.1pp",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t18",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Compare the 2018 non-oil direct-tax CIT amount in Table 7.1 with Direct Transfers in Table 7.2. Give both amounts and their difference in trillion dong without inferring earmarking.",
+    "expected_answer": "CIT202trillion versus Direct Transfers40trillion;CIT higher162trillion dong;no earmarking inference.",
+    "gold": [
+      {
+        "id": "p199-table-7.1",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          73.689,
+          225.8419,
+          280.995,
+          238.9549
+        ],
+        "region": "Non-oil Direct taxes > CIT, TRN DONG cell",
+        "verified_facts": "202",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      },
+      {
+        "id": "p200-table-7.2",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          90.7525,
+          73.0002,
+          263.9305,
+          86.1132
+        ],
+        "region": "Direct Transfers row",
+        "verified_facts": "40;202-40=162",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t19",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Use the 2020 UMIC entries in Tables 1.2 and 1.3: give the number of poor and annual total monetary gap, then estimate the annual gap per poor person in million 2020 VND using those rounded table values.",
+    "expected_answer": "18.3million poor;116.91trillion2020VND annual gap;116.91/18.3≈6.39million2020VND per poor person annually, approximate because counts are rounded.",
+    "gold": [
+      {
+        "id": "p048-table-1.2",
+        "page": 48,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          220.5097,
+          399.332,
+          391.4917,
+          412.445
+        ],
+        "region": "UMIC 2020 number-of-poor cell",
+        "verified_facts": "18.3million",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      },
+      {
+        "id": "p049-table-1.3",
+        "page": 49,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          237.6055,
+          496.5912,
+          374.3956,
+          509.7042
+        ],
+        "region": "Panel B UMIC2020 and2020VNDtrillion header",
+        "verified_facts": "116.91trillion;6.3885millionVND/person/year",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": "Accept6.3–6.5million2020VND per poor person per year;rounded-input approximation, both source amounts and units required",
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t20",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Combine section 2.1 on physical page 75 with Box 8.2 on physical page 220: what is the 2020 average household size, how many observations are in the VHLSS expenditure module, and is that module representative at provincial level?",
+    "expected_answer": "3.7members per household;9,000expenditure-module observations;not representative at provincial level.",
+    "gold": [
+      {
+        "id": "p075",
+        "page": 75,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Bottom-left section2.1paragraph on households2020",
+        "verified_facts": "3.7members per household",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      },
+      {
+        "id": "p220",
+        "page": 220,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Box8.2continuedfirst numbered shortcoming",
+        "verified_facts": "9000observations;not representative at provincial level",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t21",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "According to Box 8.2, what was Vietnam’s 2020 Open Data Inventory rank and denominator, and which two Statistics Law years are contrasted when discussing openness?",
+    "expected_answer": "91st of187countries;2015law reduced openness compared with2003law.",
+    "gold": [
+      {
+        "id": "p220",
+        "page": 220,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Third numbered statistical-practice shortcoming",
+        "verified_facts": "91/187;2015versus2003;reduced openness",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t22",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "In Box 2.4, give the two caveats of the decomposition method: what cannot be distinguished, and why must its poverty-change contributions not be interpreted as causal effects?",
+    "expected_answer": "Cannot infer returns versus endowments;not a general-equilibrium method, counterfactuals are not equilibrium outcomes, so contributions detect distributional changes rather than causal effects.",
+    "gold": [
+      {
+        "id": "p096",
+        "page": 96,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Second paragraph of continuedBox2.4above diagram",
+        "verified_facts": "Returns vs endowments not distinguished;not general equilibrium;not causal",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t23",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "In chapter 7’s education discussion on physical page 200, how are household expenses received by public schools treated, and why are uniforms or books paid to private sellers excluded?",
+    "expected_answer": "School-received payments are co-payments/effectively a tax reducing net education benefit;private uniforms/books payments go outside public fiscal system and are excluded.",
+    "gold": [
+      {
+        "id": "p200",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Right column lower paragraph on private education spending",
+        "verified_facts": "School receipts co-payments/tax;private vendor expenses not part of fiscal system",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t24",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "According to Box 6.3, in what year was MPSARD approved, and to which age group did its proposed phased cash-transfer policy apply?",
+    "expected_answer": "2017;infants and young children under4.",
+    "gold": [
+      {
+        "id": "p190",
+        "page": 190,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Box6.3paragraph above social-protection tree",
+        "verified_facts": "2017;under4",
+        "verification": "AI-assisted direct inspection of original PDF images; student independent review pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete, including units, conditions and arithmetic; every claim cited to supporting original source. Original PDF determines grade."
+  },
+  {
+    "id": "v2t25",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What exact p-value establishes the causal effect of wage income on poverty reduction in the decomposition of Box 2.4?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "No causal p-value reported;Box2.4explicitly warns decomposition contributions are not causal effects.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "p-value": [],
+        "causal effect": [
+          96
+        ]
+      },
+      "checked_nearby_original_pages": [
+        96
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  },
+  {
+    "id": "v2t26",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Give the complete numerical covariance matrix of the household income components underlying Figure 2.12 for 2020.",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Component trends are shown, not their joint covariance matrix or microdata.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "covariance": [],
+        "correlation matrix": []
+      },
+      "checked_nearby_original_pages": [
+        84
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  },
+  {
+    "id": "v2t27",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Provide the executable software source code implementing the national social-insurance system drawn in Figure 8.1.",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Conceptual policy diagram, no executable implementation or software listing.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "source code": [],
+        "executable": []
+      },
+      "checked_nearby_original_pages": [
+        225
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  },
+  {
+    "id": "v2t28",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Give the exact latitude and longitude of each individual household represented in the clean-water map in Figure 6.5.",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Map presents district-level aggregate patterns, no household coordinate list.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "latitude": [],
+        "longitude": [],
+        "GPS": []
+      },
+      "checked_nearby_original_pages": [
+        179
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  },
+  {
+    "id": "v2t29",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What is the exact 2020 number of disability-adjusted life years caused by PM2.5 for every Vietnamese district in Figure 6.5?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "District PM2.5 exposure map does not report district attributable DALYs.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "disability-adjusted": [],
+        "DALY": []
+      },
+      "checked_nearby_original_pages": [
+        179
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  },
+  {
+    "id": "v2t30",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What exact statutory day, month and year is set as the implementation deadline for the curriculum revision recommended in Table 8.2?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Policy recommendation gives no exact statutory implementation deadline.",
+    "absence_audit": {
+      "scope": "All 232 physical pages",
+      "keyword_matches": {
+        "deadline": [],
+        "curricula": [
+          221,
+          222
+        ]
+      },
+      "checked_nearby_original_pages": [
+        222
+      ],
+      "method": "Full corpus keyword search and original source inspection; related statistics do not establish the requested value or artifact."
+    }
+  }
+]

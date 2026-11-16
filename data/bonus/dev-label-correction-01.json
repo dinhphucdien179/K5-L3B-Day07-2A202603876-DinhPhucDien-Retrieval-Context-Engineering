@@ -1,0 +1,76 @@
+{
+  "corrected_utc": "2026-11-16T05:37:31.909742+00:00",
+  "case_id": "bd09",
+  "reason": "Rechecked original Figure6.3 image at physical page177: labels show37% in2010 and45% in2018; correct authored dev gold39/46. Questions, tolerance and all test cases unchanged. Correction after dev-01, before dev-02/test.",
+  "previous_dev_sha256": "98823f8955bd20c525757ba1f391a1750351cebff34ff32d6ef6f503eaa28985",
+  "new_dev_sha256": "e634460cad81c5070dd63958ae41a8b02967c833ac0db964b3a613a665dcfd2a",
+  "previous_case": {
+    "id": "bd09",
+    "group": "chart",
+    "answerable": true,
+    "question": "Using Figure 6.3, compare the direction of Vietnam and the lower-middle-income group in out-of-pocket health spending from 2010 to 2018. Give Vietnam’s approximate endpoints and units.",
+    "expected_answer": "Vietnam rises about39% to46% of total health expenditure; LMIC group falls.",
+    "gold": [
+      {
+        "id": "p177-figure-6.3",
+        "page": 177,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.7298,
+          65.8592,
+          249.9538,
+          78.9722
+        ],
+        "region": "Green Vietnam line, orange LMIC line; share of total health expenditure axis",
+        "verified_facts": "Vietnam39 to46; LMIC roughly57to51",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Vietnam endpoints within 2 percentage points; correct direction and denominator required",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  "corrected_case": {
+    "id": "bd09",
+    "group": "chart",
+    "answerable": true,
+    "question": "Using Figure 6.3, compare the direction of Vietnam and the lower-middle-income group in out-of-pocket health spending from 2010 to 2018. Give Vietnam’s approximate endpoints and units.",
+    "expected_answer": "Vietnam rises about37% to45% of total health expenditure; LMIC group falls.",
+    "gold": [
+      {
+        "id": "p177-figure-6.3",
+        "page": 177,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.7298,
+          65.8592,
+          249.9538,
+          78.9722
+        ],
+        "region": "Green Vietnam line, orange LMIC line; share of total health expenditure axis",
+        "verified_facts": "Vietnam37 to45; LMIC roughly57to51",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Vietnam endpoints within 2 percentage points; correct direction and denominator required",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "dev"
+  },
+  "source_image": ".cache/bonus/p177-w1600.jpg",
+  "source_image_sha256": "f4336370f1032b6a21b1eab50bb0c572b76b18db97c14d1301b419c44598e2b7",
+  "test_sha256_unchanged": true
+}

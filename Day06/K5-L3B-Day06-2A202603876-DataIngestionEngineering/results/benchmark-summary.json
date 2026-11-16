@@ -1,0 +1,158 @@
+{
+  "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+  "selected_on_dev": {
+    "strategy": "A",
+    "identity": {
+      "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+      "benchmark_sha256": "e9e8c1d5a6ca060a6f3407560fc5a6dd2382e2a88f632ab2406c6be2ca5e0a2c",
+      "embedding": {
+        "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+        "device": "cpu",
+        "max_seq_length": 128
+      },
+      "chunking": {
+        "fixed_size": 300,
+        "overlap": 30,
+        "paragraph_max_size": 300
+      },
+      "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+      "normalization": "NFC-paragraphs-code-v2",
+      "resolved_embedding": {
+        "provider": "sentence-transformers",
+        "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+        "dimensions": 384,
+        "max_seq_length": 128,
+        "normalize_embeddings": true,
+        "dtype": "float32",
+        "device": "cpu",
+        "batch_size": 16,
+        "normalization_version": "NFC-paragraphs-code-v2",
+        "sentence_transformers": "5.7.0",
+        "torch": "2.15.0+cpu",
+        "transformers": "5.23.0",
+        "native_threads": 4
+      }
+    },
+    "rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+    "dev_artifacts": "results/20261114T061838.368412Z-evaluate"
+  },
+  "ingest_artifacts": "results/20261114T061734.896134Z-ingest",
+  "evaluation_artifacts": {
+    "dev": "results/20261114T061838.368412Z-evaluate",
+    "test": "results/20261114T062008.998642Z-evaluate"
+  },
+  "metrics": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 3,
+      "hit3_count": 4,
+      "hit1": 0.2,
+      "hit3": 0.26666666666666666,
+      "chunks": 459,
+      "sql_search_seconds": 0.07360585599235492,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T061838.368412Z-evaluate/dev-traces.json"
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 2,
+      "hit3_count": 2,
+      "hit1": 0.13333333333333333,
+      "hit3": 0.13333333333333333,
+      "chunks": 421,
+      "sql_search_seconds": 0.07466831100464333,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T061838.368412Z-evaluate/dev-traces.json"
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1_count": 3,
+      "hit3_count": 3,
+      "hit1": 0.2,
+      "hit3": 0.2,
+      "chunks": 421,
+      "sql_search_seconds": 0.0679856800034031,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T061838.368412Z-evaluate/dev-traces.json"
+    },
+    {
+      "strategy": "A",
+      "split": "test",
+      "n": 5,
+      "hit1_count": 2,
+      "hit3_count": 2,
+      "hit1": 0.4,
+      "hit3": 0.4,
+      "chunks": 459,
+      "sql_search_seconds": 0.025994671997978003,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T062008.998642Z-evaluate/test-traces.json"
+    },
+    {
+      "strategy": "B",
+      "split": "test",
+      "n": 5,
+      "hit1_count": 1,
+      "hit3_count": 1,
+      "hit1": 0.2,
+      "hit3": 0.2,
+      "chunks": 421,
+      "sql_search_seconds": 0.02392131900523964,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T062008.998642Z-evaluate/test-traces.json"
+    },
+    {
+      "strategy": "C",
+      "split": "test",
+      "n": 5,
+      "hit1_count": 1,
+      "hit3_count": 1,
+      "hit1": 0.2,
+      "hit3": 0.2,
+      "chunks": 421,
+      "sql_search_seconds": 0.022022025999831385,
+      "paid_api_cost_usd": 0,
+      "trace_path": "results/20261114T062008.998642Z-evaluate/test-traces.json"
+    }
+  ],
+  "manual_labels": "Coherence/test grounding reviewed with disclosed method; test metadata verified against source artifacts. Human confirmation pending.",
+  "timing_scope": "SQL search time excludes model load/query embedding; stage telemetry has end-to-end wall time.",
+  "cost_scope": "No paid APIs were used; local hardware/electricity cost not estimated.",
+  "coherence_ai_review": {
+    "artifact": "results/manual-review/coherence.json",
+    "summary": "results/manual-review/coherence-summary.json",
+    "records": 30,
+    "unique_chunks": 20,
+    "reviewer_type": "ai",
+    "human_confirmation": "pending",
+    "mean_0_2": {
+      "A": 1.0,
+      "B": 1.1,
+      "C": 1.1
+    }
+  },
+  "test_review": {
+    "artifact": "results/manual-review/test-grounding.json",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "summary": "results/manual-review/test-review-summary.json",
+    "metadata_records_checked": 45,
+    "metadata_correct": 45,
+    "grounding_cases": 15,
+    "grounding_mean_0_2": {
+      "A": 1.2,
+      "B": 1.6,
+      "C": 1.6
+    },
+    "grounding_reviewer_type": "ai",
+    "human_confirmation": "pending"
+  },
+  "docker_reproduction": "artifacts/docker-verification.json"
+}

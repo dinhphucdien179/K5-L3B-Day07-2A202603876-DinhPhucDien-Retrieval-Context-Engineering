@@ -1,0 +1,11 @@
+services:
+  bonus:
+    build:
+      context: .
+      dockerfile: Dockerfile.bonus
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    environment:
+      PYTHONPATH: /workspace/src
+    # .env is read inside the process; never interpolate API credentials into YAML.

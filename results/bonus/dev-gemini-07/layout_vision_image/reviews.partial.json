@@ -1,0 +1,293 @@
+{
+  "bd01": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.3, trang 49: đúng share 0.012 của chuẩn nghèo và khoảng cách tiền tệ hằng năm 15.02 nghìn tỷ VND giá 2020. Đúng hàng LMIC, cột 2020 của hai panel.",
+    "checked_original_pages": [
+      49
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p049-table-1.3": {
+        "supported": true,
+        "reason": "Bảng 1.3, trang 49: đúng share 0.012 của chuẩn nghèo và khoảng cách tiền tệ hằng năm 15.02 nghìn tỷ VND giá 2020. Đúng hàng LMIC, cột 2020 của hai panel."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "5d42503016061da7cbc8bd2347e36511495c597caf1be78a9937f7cbd949be60"
+  },
+  "bd02": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 2.1, trang 75: đúng 85,801,996 người năm 2009 và 96,208,635 năm 2019; hiệu 10,406,639 người. Nguồn hỗ trợ đủ các số và phép tính.",
+    "checked_original_pages": [
+      75
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": true,
+        "reason": "Bảng 2.1, trang 75: đúng 85,801,996 người năm 2009 và 96,208,635 năm 2019; hiệu 10,406,639 người. Nguồn hỗ trợ đủ các số và phép tính."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "87b731d9493002bf4bbd5ed6462a7a8138898dc12329382801ad5830a44addb8"
+  },
+  "bd03": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.2, trang 200: chi y tế 89 nghìn tỷ đồng, 1.6% GDP; nội trú 43 và ngoại trú 46 nghìn tỷ, mỗi nhóm 0.8% GDP. Đúng năm 2018.",
+    "checked_original_pages": [
+      200
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.2, trang 200: chi y tế 89 nghìn tỷ đồng, 1.6% GDP; nội trú 43 và ngoại trú 46 nghìn tỷ, mỗi nhóm 0.8% GDP. Đúng năm 2018."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "526220c4d4f34b74a68e0895c48e77d1c8139aa2375ca2101ce7424db7cbee6a"
+  },
+  "bd04": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 1.7, trang 52: đúng ba năm 2009, 2015, 2019; thang tỷ lệ nghèo 0–100%; vùng xanh đậm thu hẹp qua các bản đồ. Đã kiểm tra ảnh và chú giải.",
+    "checked_original_pages": [
+      52
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p052-figure-1.7": {
+        "supported": true,
+        "reason": "Hình 1.7, trang 52: đúng ba năm 2009, 2015, 2019; thang tỷ lệ nghèo 0–100%; vùng xanh đậm thu hẹp qua các bản đồ. Đã kiểm tra ảnh và chú giải."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "10f8ede438de88efd1edebbd91fa615a3c0c3d6a5b94b7d50eb930cc15e63620"
+  },
+  "bd05": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 3.9, trang 107: đúng Midlands & Northern Mountains và Central Highlands; màu cam biểu thị tỷ lệ nghèo cao hơn, xanh thấp hơn theo chú giải.",
+    "checked_original_pages": [
+      107
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p107-figure-3.9": {
+        "supported": true,
+        "reason": "Hình 3.9, trang 107: đúng Midlands & Northern Mountains và Central Highlands; màu cam biểu thị tỷ lệ nghèo cao hơn, xanh thấp hơn theo chú giải."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "a9fc3886ce05b7a5582e2aee6118347704451d2ab839712b8d75060119ae1749"
+  },
+  "bd06": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 6.5, trang 179: nhiệt độ cao ở phía nam và một phần miền trung; PM2.5 cao tập trung tại Red River Delta phía bắc. Hai bản đồ và đoạn văn phía trên hỗ trợ câu trả lời.",
+    "checked_original_pages": [
+      179
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p179-figure-6.5": {
+        "supported": true,
+        "reason": "Hình 6.5, trang 179: nhiệt độ cao ở phía nam và một phần miền trung; PM2.5 cao tập trung tại Red River Delta phía bắc. Hai bản đồ và đoạn văn phía trên hỗ trợ câu trả lời."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "826879828c46bb9fb54fc15913e970178d011aee41eccf13ed01cc99dc5f42c7"
+  },
+  "bd07": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 4.8, trang 137: từ gần 100% ở nhóm 10–14 xuống khoảng 26–27% ở nhóm 20–24; nam màu cam nhỉnh hơn nữ màu xanh ở nhóm cuối. Đúng hướng, mức và giới tính.",
+    "checked_original_pages": [
+      137
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p137-figure-4.8": {
+        "supported": true,
+        "reason": "Hình 4.8, trang 137: từ gần 100% ở nhóm 10–14 xuống khoảng 26–27% ở nhóm 20–24; nam màu cam nhỉnh hơn nữ màu xanh ở nhóm cuối. Đúng hướng, mức và giới tính."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "2051226c7e7a42cb40d5d61f0fe9c9d7e532583b391908c9dce28bb4aae453a7"
+  },
+  "bd08": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 5.11, trang 161: nông/ngư từ gần 25 xuống 17.5 triệu người, chế tạo từ khoảng 7 lên 11.5 triệu. Vàng là unskilled manual, lớn nhất năm 2010; xám là skilled manual. Các mô tả phù hợp ảnh gốc; số đầu nông/ngư được nêu là xấp xỉ.",
+    "checked_original_pages": [
+      161
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p161-figure-5.11": {
+        "supported": true,
+        "reason": "Hình 5.11, trang 161: nông/ngư từ gần 25 xuống 17.5 triệu người, chế tạo từ khoảng 7 lên 11.5 triệu. Vàng là unskilled manual, lớn nhất năm 2010; xám là skilled manual. Các mô tả phù hợp ảnh gốc; số đầu nông/ngư được nêu là xấp xỉ."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "636ab3600367174309f736367f7aadef6097a626b9f0fcdb51813cb9f9498574"
+  },
+  "bd09": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 6.3, trang 177: Việt Nam tăng từ 37% lên 45%, LMIC giảm từ khoảng 57% xuống 51% trong 2010–2018; mẫu số là tổng chi y tế. Đúng hướng, điểm cuối và đơn vị.",
+    "checked_original_pages": [
+      177
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p177-figure-6.3": {
+        "supported": true,
+        "reason": "Hình 6.3, trang 177: Việt Nam tăng từ 37% lên 45%, LMIC giảm từ khoảng 57% xuống 51% trong 2010–2018; mẫu số là tổng chi y tế. Đúng hướng, điểm cuối và đơn vị."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "aa7196ed2ad37ae7e1936febde93a250df1c459a2438e7870a1ecb691f177d97"
+  },
+  "bd10": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.1 và 1.3, trang 48–49: headcount LMIC 5%; poverty gap 0.012 = 1.2% chuẩn nghèo, bình quân toàn dân số. Phân biệt đúng tỷ lệ người nghèo với mức thiếu hụt chuẩn hóa; lần này đã ghép đủ hai nguồn.",
+    "checked_original_pages": [
+      48,
+      49
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p048-table-1.1": {
+        "supported": true,
+        "reason": "Bảng 1.1 và 1.3, trang 48–49: headcount LMIC 5%; poverty gap 0.012 = 1.2% chuẩn nghèo, bình quân toàn dân số. Phân biệt đúng tỷ lệ người nghèo với mức thiếu hụt chuẩn hóa; lần này đã ghép đủ hai nguồn."
+      },
+      "p049-table-1.3": {
+        "supported": true,
+        "reason": "Bảng 1.1 và 1.3, trang 48–49: headcount LMIC 5%; poverty gap 0.012 = 1.2% chuẩn nghèo, bình quân toàn dân số. Phân biệt đúng tỷ lệ người nghèo với mức thiếu hụt chuẩn hóa; lần này đã ghép đủ hai nguồn."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "64822d971ceee55cd32ef615b82327fc2f8dc4fb56f89fd90045d353fc344755"
+  },
+  "bd11": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 4.1 và 4.2, trang 132/137: xác suất sống tới năm tuổi của toàn quốc 0.979, nam 0.976, nữ 0.983. Hiệu 0.007 xác suất = 0.7 điểm phần trăm. Đúng nguồn cho từng giá trị.",
+    "checked_original_pages": [
+      132,
+      137
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng 4.1 và 4.2, trang 132/137: xác suất sống tới năm tuổi của toàn quốc 0.979, nam 0.976, nữ 0.983. Hiệu 0.007 xác suất = 0.7 điểm phần trăm. Đúng nguồn cho từng giá trị."
+      },
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Bảng 4.1 và 4.2, trang 132/137: xác suất sống tới năm tuổi của toàn quốc 0.979, nam 0.976, nữ 0.983. Hiệu 0.007 xác suất = 0.7 điểm phần trăm. Đúng nguồn cho từng giá trị."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "e24b76e938fb2ff0b84d01b9d99a329bb908df1a1b0faec247ff3240b6ad5d85"
+  },
+  "bd12": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.1 và 7.2, trang 199/200: thu và viện trợ 1,364, tổng chi 1,435 nghìn tỷ đồng năm 2018; chênh 71. Chỉ so các bảng, không suy thành cán cân ngân sách quốc gia.",
+    "checked_original_pages": [
+      199,
+      200
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng 7.1 và 7.2, trang 199/200: thu và viện trợ 1,364, tổng chi 1,435 nghìn tỷ đồng năm 2018; chênh 71. Chỉ so các bảng, không suy thành cán cân ngân sách quốc gia."
+      },
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.1 và 7.2, trang 199/200: thu và viện trợ 1,364, tổng chi 1,435 nghìn tỷ đồng năm 2018; chênh 71. Chỉ so các bảng, không suy thành cán cân ngân sách quốc gia."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "9d4d82ddc2e2d6eb8be0da745f03d052d3eef313eecc59caac1461b9b4e68ac3"
+  },
+  "bd13": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Box 2.1, trang 81: gia nhập WTO tháng 1/2007; xuất khẩu hàng hóa và dịch vụ đạt 106% GDP năm 2019. Cả hai ý khớp bản gốc.",
+    "checked_original_pages": [
+      81
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p081": {
+        "supported": true,
+        "reason": "Box 2.1, trang 81: gia nhập WTO tháng 1/2007; xuất khẩu hàng hóa và dịch vụ đạt 106% GDP năm 2019. Cả hai ý khớp bản gốc."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "9bc0fce407f2190762969c803fa9feb44947c30c95c031d22cd5a6ae0e26af88"
+  },
+  "bd14": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang 178: gần 70% hộ gặp cú sốc trong tháng 2–6/2020; lockdown đầu tiên trên toàn quốc vào tháng 4/2020. Citation hỗ trợ đủ điều kiện thời gian.",
+    "checked_original_pages": [
+      178
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {
+      "p178": {
+        "supported": true,
+        "reason": "Trang 178: gần 70% hộ gặp cú sốc trong tháng 2–6/2020; lockdown đầu tiên trên toàn quốc vào tháng 4/2020. Citation hỗ trợ đủ điều kiện thời gian."
+      }
+    },
+    "passed": true,
+    "trace_sha256": "55deb050b036293318093d3983a5bfa1ccfe54619d5cbd268fe172ed07606109"
+  },
+  "bd15": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Gemini HTTP 429 ở lần chốt kết quả. Dù có bản nháp, đây vẫn là lỗi hệ thống, chưa có câu trả lời được chấp nhận; không chuyển bản nháp thành điểm đạt.",
+    "checked_original_pages": [
+      221
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "8df56b2ebfb6013895fd19ea4adb5fae383d8e1f071ab51f3cd40236213cb290"
+  },
+  "bd16": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Gemini HTTP 429 ngay lần gọi đầu tiên; không có kết quả từ chối được chấp nhận. Giữ nguyên câu lỗi, không loại khỏi mẫu số.",
+    "checked_original_pages": [],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection; student independent verification pending",
+    "citation_checks": {},
+    "passed": false,
+    "trace_sha256": "6b7f14a330629661577630c019f112d5a00a3755c57af267831c71db710b27c4"
+  }
+}

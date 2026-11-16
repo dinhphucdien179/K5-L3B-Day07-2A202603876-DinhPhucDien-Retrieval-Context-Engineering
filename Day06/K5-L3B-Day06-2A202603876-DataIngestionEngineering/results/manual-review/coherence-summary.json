@@ -1,0 +1,65 @@
+{
+  "status": "ai_review_completed_human_confirmation_pending",
+  "review": {
+    "reviewer_type": "ai",
+    "reviewers": [
+      "Codex assistant qualitative reading",
+      "Isolated independent Codex review agent"
+    ],
+    "model_version_note": "Exact serving model revision was not exposed/recorded for this conversational review.",
+    "reviewed_at": "2026-11-14T06:44:05.101112+00:00",
+    "basis": "Read all 20 unique chunk texts and compare with adjacent normalized source text; assess self-contained meaning using the unchanged 0/1/2 rubric. No scores derived from Hit@1/Hit@3 or punctuation rules.",
+    "independent_review_scope": "Independent agent received only opaque sample IDs, chunk text, page/offsets and adjacent source context; strategy labels and retrieval metrics were omitted.",
+    "primary_reviewer_prior_exposure": "Primary assistant had previously seen overall retrieval results; the isolated review did not receive them.",
+    "repeated_records": "B and C use identical physical chunks, so their labels/reasons are shared; 30 records represent 20 unique chunks, not 30 independent observations.",
+    "calibration_note": "A chunk with interpretable content but missing context is 1; a boundary cut alone does not force 0. Missing attribution/citation alone does not prevent 2 if the substantive idea is complete.",
+    "borderline_case": {
+      "sample_id": "1ba52d38ab489426",
+      "final_score": 1,
+      "reason": "The regional list/figure text lacks its main relation, but the poverty-line and cross-year comparability note is still interpretable; 0 would overstate total unintelligibility."
+    },
+    "input_sha256": "dc4b24c3213f7a510828b39be24f39950abc4c0af1433a973055348e8bf8c697",
+    "unscored_pack_sha256": "27584b6513a630d54380047d8b8a8952660b70dfb08ae32598371e7259745fdb",
+    "human_review_status": "pending; these are disclosed AI judgments, not student/human manual labels",
+    "limitations": [
+      "Ten frozen anchors all come from chapter 1 and cannot represent the entire corpus.",
+      "Two AI readings do not establish inter-human agreement; judgments remain subjective.",
+      "Source context is for verification only; information outside a chunk is not credited as self-contained chunk content."
+    ]
+  },
+  "strategies": {
+    "A": {
+      "n": 10,
+      "score_sum": 10,
+      "mean_0_2": 1.0,
+      "counts": {
+        "0": 0,
+        "1": 10,
+        "2": 0
+      }
+    },
+    "B": {
+      "n": 10,
+      "score_sum": 11,
+      "mean_0_2": 1.1,
+      "counts": {
+        "0": 0,
+        "1": 9,
+        "2": 1
+      }
+    },
+    "C": {
+      "n": 10,
+      "score_sum": 11,
+      "mean_0_2": 1.1,
+      "counts": {
+        "0": 0,
+        "1": 9,
+        "2": 1
+      }
+    }
+  },
+  "records": 30,
+  "unique_chunks": 20,
+  "human_confirmed_records": 0
+}

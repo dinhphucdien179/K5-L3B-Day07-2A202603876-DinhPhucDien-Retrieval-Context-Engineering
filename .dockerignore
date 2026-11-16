@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+!.env.example
+.cache
+**/.cache
+**/__pycache__
+**/*.pyc
+results
+Day06

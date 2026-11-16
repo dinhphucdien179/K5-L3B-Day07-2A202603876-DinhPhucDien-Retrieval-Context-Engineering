@@ -1,0 +1,50 @@
+{
+  "created_utc": "2026-11-16T15:39:56.878175+00:00",
+  "identity": {
+    "split": "test",
+    "model": "gemini-3.5-flash-lite",
+    "client_settings": {
+      "provider": "gemini",
+      "model": "gemini-3.5-flash-lite",
+      "max_output_tokens": 8192,
+      "reasoning_effort": "low",
+      "temperature": 0,
+      "max_retries": 2,
+      "min_interval_seconds": 6.0,
+      "max_inflight": 2
+    },
+    "workers": 2,
+    "configs": [
+      {
+        "name": "layout_vision_image",
+        "vision": true,
+        "visual_mode": "crop",
+        "image_citations_only": true,
+        "verify_answer": true,
+        "top_k": 3,
+        "context_budget_chars": 20000,
+        "max_searches": 3,
+        "max_inspections": 2,
+        "max_images": 2,
+        "image_width": 1600
+      }
+    ],
+    "code_sha256": {
+      "src/bonus/__init__.py": "465976f7d72178e4fb7c146d3504b4ed0cd4afa79c7bae2becfa365770181b42",
+      "src/bonus/__main__.py": "dc11dc2502c3abfce64f8c5b0f4082338cb10055d92f68cf74524ca554e6f794",
+      "src/bonus/agent.py": "6be19bfb5d5839df2643942c6e92f5047bf9a044562a1644090041aeeec41e6a",
+      "src/bonus/benchmark.py": "f489c1ea3a8e0fa680da6c9aad8a1c56529b34181c74b1528316f8aaac97a36c",
+      "src/bonus/corpus.py": "f4113196d31a9ec96d883cabfa8bf7a1e8a4b1c95427962aef0c02e97b1a0771",
+      "src/bonus/llm.py": "647b971536e05e36be3e72127d752c557bc55f8f5b2d8cd247c23520bc3deea7",
+      "src/bonus/visual.py": "136f33ac53c51270ffce390d67cd3679ea18b74c6bcace78e8a6de1ecc01efc3",
+      "src/day07/llm.py": "ed390934f8dde18376cf0bd38906370d566c62ed13798c7da9c0b4790adab224",
+      "src/day07/retrieval.py": "1d2bc38f7e6915bb7525408449729754e03f92a9ec3b0e0b25753f681ff3a876",
+      "src/day07/agent.py": "e254b76fc2e8887ea5e41efcd7b74aaccc373c6b08c49812d572de25ab23c795",
+      "config/bonus_trials.json": "8952c065db66a74585039eda4c7ae518a24f86746ffe8df35a87fe24fd91223d"
+    },
+    "benchmark_dir": "data/bonus-v2",
+    "freeze_sha256": "7ba6b50f6dbe754f762cbff914fbfff6f3152fea7d48f912b3bcb7560c42c0c8",
+    "corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1",
+    "selection_sha256": "40385ff35be8508c5343793b23d7ea4c648a3e1224efd6a1085bbdb5f6e8b095"
+  }
+}

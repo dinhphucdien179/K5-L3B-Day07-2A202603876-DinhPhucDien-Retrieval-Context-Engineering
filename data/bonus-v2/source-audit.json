@@ -1,0 +1,107 @@
+{
+  "created_utc": "2026-11-16T12:47:04.074692+00:00",
+  "reviewer": "Codex AI-assisted original-PDF inspection; student independent review pending",
+  "answerable_source_pages": [
+    48,
+    49,
+    75,
+    76,
+    78,
+    79,
+    82,
+    96,
+    132,
+    135,
+    137,
+    190,
+    197,
+    199,
+    200,
+    220,
+    225
+  ],
+  "images": {
+    "48": {
+      "path": ".cache/bonus/p048-w1600.jpg",
+      "sha256": "7edc38185538335d0d76c678ac6ff2649c9f8e11ecd6b8be81026157c11241e0"
+    },
+    "49": {
+      "path": ".cache/bonus/p049-w1600.jpg",
+      "sha256": "fd127fbac597031c6494bb156ce0e20c8c156c109c385bd2763c4731825d6622"
+    },
+    "75": {
+      "path": ".cache/bonus/p075-w1600.jpg",
+      "sha256": "feb2f6662c13e0065674db9145ed5e1151d74497109cac538e5d4e36d58b8255"
+    },
+    "76": {
+      "path": ".cache/bonus/p076-w1600.jpg",
+      "sha256": "5fdce0cc4a7d1777dc43971c016553b3f2ec45303c987d05883de110633e34f9"
+    },
+    "78": {
+      "path": ".cache/bonus/p078-w1600.jpg",
+      "sha256": "0421f8bfb815a712ad71669f6ce4227f1a55cd5864440e0d0e7a9db4c874fb83"
+    },
+    "79": {
+      "path": ".cache/bonus/p079-w1600.jpg",
+      "sha256": "5ea3fdcac16a99e02be91c175fab12fe7d528e70188b570976808bf6f225eb24"
+    },
+    "82": {
+      "path": ".cache/bonus/p082-w1600.jpg",
+      "sha256": "cb0d13d92aad55fca352127aa53b0ce9776804cdd5648eeb0e22df4c6b463e73"
+    },
+    "84": {
+      "path": ".cache/bonus/p084-w1600.jpg",
+      "sha256": "8c4db117862bf7263a8eab70887270c6eedd0a131ebfcc8c37b61132510361f0"
+    },
+    "96": {
+      "path": ".cache/bonus/p096-w1600.jpg",
+      "sha256": "c35633904828f3b38d4e5f24c73c31cb8e90f175e7743bc9a8b484d2a5ee7429"
+    },
+    "132": {
+      "path": ".cache/bonus/p132-w1600.jpg",
+      "sha256": "6062839859cb9ae898cd392c7a39c7e54cf0bd320382654c1e70b161c51601a2"
+    },
+    "135": {
+      "path": ".cache/bonus/p135-w1600.jpg",
+      "sha256": "5382022066963b65b054a45f30d16786ae13ba4cf2f5b1f7664179034d23de5f"
+    },
+    "137": {
+      "path": ".cache/bonus/p137-w1600.jpg",
+      "sha256": "591b2667ee3e118eefdd412c856bf0330b6456e17b5eba9aa8f2aed28ed95e2d"
+    },
+    "179": {
+      "path": ".cache/bonus/p179-w1600.jpg",
+      "sha256": "dc6943bbb28c997331f591bd1a9bdbaff9de9311684f7f673c56517032cec7c1"
+    },
+    "190": {
+      "path": ".cache/bonus/p190-w1600.jpg",
+      "sha256": "3790836efdcd39e0a8be99444dcd624e8de966e4eddaf72654d8b00914104594"
+    },
+    "197": {
+      "path": ".cache/bonus/p197-w1600.jpg",
+      "sha256": "61b566e3fd970566fd799903943e14823280fec875bf5c64f0962e6614c92055"
+    },
+    "199": {
+      "path": ".cache/bonus/p199-w1600.jpg",
+      "sha256": "2d90d9db8438277974269996d2476d28539657191708b46291f8e07adff961ce"
+    },
+    "200": {
+      "path": ".cache/bonus/p200-w1600.jpg",
+      "sha256": "a5d062f0bf69ad34fc8e4d0807dec418bd149083ecb54cd5b3b6531347e3157b"
+    },
+    "220": {
+      "path": ".cache/bonus/p220-w1600.jpg",
+      "sha256": "fd2c063db0f4c21ec7ff444d96d8b47762256883037de00aa092edcf6bd57db6"
+    },
+    "222": {
+      "path": ".cache/bonus/p222-w1600.jpg",
+      "sha256": "f3ff78edb9b2bb554c4e2bb57db0372dcdcecc5db78973d625a354d6e9db4ee4"
+    },
+    "225": {
+      "path": ".cache/bonus/p225-w1600.jpg",
+      "sha256": "9dbbfc62d61497ee35f9678ea7324fc59646d40d9e2b98c6440365007f355370"
+    }
+  },
+  "new_test_outputs_observed": false,
+  "overlap_policy": "Existing development questions retained. New test targets different facts/branches/rows from dev and old test; same document and some source figures reused. No claim of independent test authorship or equal difficulty across versions."
+}

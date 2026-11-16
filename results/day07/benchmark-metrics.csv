@@ -1,0 +1,8 @@
+trial,split,hit1_n,hit3_n,answerable_N,context_evidence_n,grounded_mean_out_of_2,errors,api_cost_usd_recorded,total_latency_seconds
+dense_baseline,dev,3,3,15,6,1.6,0,0.00994905,304.4301626469969
+bm25,dev,2,2,15,9,1.8,0,0.0101685,182.8225166830016
+hybrid,dev,2,3,15,9,1.7142857142857142,1,0.0103485,174.5747592730022
+hybrid_neighbors1,dev,2,3,15,14,1.8666666666666667,0,0.0150726,175.14239854400057
+hybrid_neighbors2,dev,2,3,15,13,1.7857142857142858,1,0.0139827,157.18240399600018
+dense_baseline,test,2,3,5,3,1.8,0,0.0044682,69.9103970690021
+hybrid_neighbors1,test,3,3,5,5,2.0,0,0.00719955,365.9211771909995

@@ -1,0 +1,458 @@
+{
+  "reviewer_type": "ai",
+  "human_confirmed": false,
+  "reviewed_at_utc": "2026-11-14T10:42:44Z",
+  "input_file": "results/manual-review/test-grounding-input.json",
+  "input_sha256": "6f7da94db612bb76d3dd27a12969140e69171a6caf0b3dac3baa6e50e502755f",
+  "method_scope": "Đọc độc lập cả 11 case và toàn văn cả 33 hit theo thứ tự trong một tệp đầu vào này. Chỉ xét ý nghĩa câu hỏi, rubric 0/1/2 và bằng chứng top-3 trong từng case; xem xét khả năng hỗ trợ kết hợp giữa ba hit. Expected answer chỉ chỉ ra mục tiêu, không phải chứng cứ. Không đọc tệp repo khác, metric, config, nhãn chiến lược hoặc corpus; không tra cứu ngoài và không dùng nội dung case khác để lấp phần thiếu. Phân biệt nội dung thực sự được nêu với mệnh đề bị cắt; chỉ chấm đủ khi điều kiện cần của câu trả lời xuất hiện và metadata cho phép truy nguồn. Đây là đánh giá trực tiếp của AI, chưa được con người xác nhận.",
+  "rubric": {
+    "0": "No evidence answering the question",
+    "1": "Relevant evidence exists but necessary conditions or context are missing",
+    "2": "Top-3 evidence together is sufficient to answer and source can be traced"
+  },
+  "cases": [
+    {
+      "case_id": "9f5d66eb37d3",
+      "question_id": "q16",
+      "score": 2,
+      "reason_vi": "Hạng 1 nói rõ việc có hợp đồng lao động gắn với quyền hưởng bảo hiểm xã hội và bảo hiểm thất nghiệp. Hai loại bảo hiểm cùng xuất hiện trong một câu đầy đủ; hạng 2 và 3 bổ sung bối cảnh việc làm có hợp đồng. URL, trang 77 và offsets cho phép truy nguồn.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "b5a349e51a0d4848bceb689e5d60efa028eea1058ef1349ec3781a4c75e3846b",
+          "excerpt": ".4 percent in\n2010. Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance. But 21\nmillion households, or 81 percent of all households, still have\nat least one household member who either has a wage job\nwithout a contract, is engaged in self-em",
+          "assessment_vi": "Trả lời trực tiếp đủ hai loại: social insurance và unemployment insurance, đồng thời gắn rõ cả hai với job contract.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 77,
+          "char_start": 2700,
+          "char_end": 3000
+        },
+        {
+          "rank": 2,
+          "chunk_id": "765c655924e11fb8673d1de3663031235d2016ab706c8fe1b05344a7af6102fa",
+          "excerpt": "obs\nin foreign-owned firms are formal in nature, or have a work\ncontract and offer social insurance. In 2020, about half of\nall jobs with contracts were in the manufacturing sector.\nThe public sector is the only other sector also that has high\nrates of formal jobs. In net, there were over 2 million",
+          "assessment_vi": "Bổ sung quan hệ giữa hợp đồng và bảo hiểm xã hội ở việc làm chính thức; không nêu bảo hiểm thất nghiệp.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 78,
+          "char_start": 1080,
+          "char_end": 1379
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4ec96816e07c83dd9339fd5ba18c38c112b3ec97809e49f7dedb0fdd27bec1dd",
+          "excerpt": "informal, with only 27 percent of wage workers\nhaving a contract through which employers contribute to\nsocial insurance and health care. At the household level, over\n40 percent of households in 2020 now have a member whose\nprimary wage job has a contract, compared to 31.4 percent in\n2010. Having a j",
+          "assessment_vi": "Bổ sung việc người sử dụng lao động đóng bảo hiểm xã hội và chăm sóc sức khỏe qua hợp đồng; không thay thế chứng cứ trực tiếp về hai loại bảo hiểm ở hạng 1.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 77,
+          "char_start": 2430,
+          "char_end": 2730
+        }
+      ],
+      "missing_information": []
+    },
+    {
+      "case_id": "8da9afbd17f9",
+      "question_id": "q16",
+      "score": 2,
+      "reason_vi": "Hạng 1 chứa trọn câu liên hệ hợp đồng lao động với bảo hiểm xã hội và bảo hiểm thất nghiệp, đủ trả lời câu hỏi. Hạng 2 và 3 không bổ sung nội dung cần thiết nhưng không làm mất chứng cứ ở hạng 1; nguồn có URL, trang 77 và offsets.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "87be17cca60bee42fde426881da8dc4efcca5299b7a38a1bc42122af93a54a45",
+          "excerpt": "compared to 31.4 percent in\n2010. Having a job contract aligns with being entitled to social\ninsurance, as well as having unemployment insurance. But 21\nmillion households, or 81 percent of all households, still have\nat least one household member who either has a wage job\nwithout a contract, is",
+          "assessment_vi": "Nêu trực tiếp và đầy đủ social insurance cùng unemployment insurance trong quan hệ với having a job contract.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 77,
+          "char_start": 2686,
+          "char_end": 2981
+        },
+        {
+          "rank": 2,
+          "chunk_id": "ec40d5eaba3394fa4cc660392c6a4fd8ffa24d2cb96814c9d8957b9c00773e79",
+          "excerpt": "92) often report they are employed but not\nearning wages because they earn income from commissions\non tickets sold and thus report business income. Even with\nthese distinctions, there is large variation in the type of work\nand quality of work associated with wage employment.\nW age income can be",
+          "assessment_vi": "Nói về phân loại thu nhập tiền công, hoa hồng và thu nhập kinh doanh; không trả lời hai loại bảo hiểm.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 82,
+          "char_start": 2376,
+          "char_end": 2671
+        },
+        {
+          "rank": 3,
+          "chunk_id": "6d2243e7d023bb50a03fdd3fa9de1003ae197167c8c4bbb804aa8ac91301430f",
+          "excerpt": "insurance and real estate\nMining and quarrying\nConstruction\nT ransport, storage, and comms\nOther\nManufacturing\nCommerce\nPublic admin\n0\n20\n40\n60\n80\n100\n46.6\n14.9\n9.3\n32.8\n19.1\n14.8\n12.8\n17.0\n56.2\n15.915.9\n23.1\n40.4\nSource: W orld Bank staff calculations using VHLSS 2010–2020.\nFigure 2.9.",
+          "assessment_vi": "Là các nhãn ngành và số liệu của hình; cụm insurance and real estate là nhãn ngành, không phải chứng cứ về bảo hiểm gắn với hợp đồng.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 79,
+          "char_start": 887,
+          "char_end": 1174
+        }
+      ],
+      "missing_information": []
+    },
+    {
+      "case_id": "e781a753c863",
+      "question_id": "q17",
+      "score": 1,
+      "reason_vi": "Hạng 1 chứng minh VHLSS ghi nhận thu nhập trong 12 tháng trước nhưng câu về kỳ hoạt động thị trường lao động của LFS bị cắt ở activity ov. Hạng 2 và 3 bàn về khác biệt việc làm và nguồn thu nhập, không khôi phục được kỳ hồi tưởng của LFS. Vì vậy chỉ có một vế của so sánh được chứng minh.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "6cac68a92f3f80a9276ef48d8334a4301986ce2b9b55ad578719adabaddb8096",
+          "excerpt": "is one of the main differences between welfare analysis conducted\nusing the household survey and other labor and income analyses using labor force surveys (LFS). Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity ov",
+          "assessment_vi": "Nêu rõ kỳ 12 tháng của VHLSS; phần mô tả kỳ của LFS bị cắt trước khi có độ dài thời gian.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 83,
+          "char_start": 271,
+          "char_end": 570
+        },
+        {
+          "rank": 2,
+          "chunk_id": "fd0104be52ae10717b93bf9d8e0aac33c87bba02f37f3a1e7ac8b5a95b564888",
+          "excerpt": "fferences arise from taking into consideration multiple jobs from all working members in\nhouseholds and across the entire year. In the VHLSS, half of all workers in the primary job stated that they were working but\ndid not receive a salary. These earnings may be reflected in family business (non-ag)",
+          "assessment_vi": "Nêu việc tính nhiều công việc và các thành viên trong cả năm, cùng thu nhập chưa thể hiện thành lương; không nêu kỳ hồi tưởng hoạt động lao động của LFS.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 83,
+          "char_start": 2700,
+          "char_end": 3000
+        },
+        {
+          "rank": 3,
+          "chunk_id": "a51be84577912c6a07da99addfa2f1c4cb27cb02dc4f7ce63d5f225bd8082b1a",
+          "excerpt": "main difference is that reliance on wages in manufacturing appears higher in the VHLSS, but in the LFS, employment\nin services is higher than in manufacturing. This is because the sector of activity may be related to wages, farm, or non-\nfarm business incomes. These differences arise from taking in",
+          "assessment_vi": "So sánh cơ cấu việc làm chế tạo và dịch vụ giữa VHLSS/LFS; không cho biết kỳ thời gian của LFS.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 83,
+          "char_start": 2431,
+          "char_end": 2730
+        }
+      ],
+      "missing_information": [
+        "Độ dài và mốc kỳ hồi tưởng hoạt động thị trường lao động của LFS, cụ thể thông tin tháng trước, không xuất hiện trong cả ba hit."
+      ]
+    },
+    {
+      "case_id": "07108548a32a",
+      "question_id": "q17",
+      "score": 2,
+      "reason_vi": "Hạng 1 tự chứa đủ phép so sánh: VHLSS ghi nhận thu nhập trong 12 tháng trước, LFS ghi nhận hoạt động thị trường lao động trong tháng trước. Hạng 2 và 3 cung cấp bối cảnh khảo sát nhưng không cần để lấp khoảng trống. Nguồn có URL, trang 83 và offsets.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "9d61117a2e5a3ba6d9eb4187dad25eb142ff8e394ba7fd8f7fb07db67040db7c",
+          "excerpt": "differences between welfare analysis conducted\nusing the household survey and other labor and income analyses using labor force surveys (LFS). Another difference is that\nthe VHLSS records information on income for the last 12 months, while the LFS records labor market activity over the last\nmonth",
+          "assessment_vi": "Nêu đầy đủ last 12 months cho income của VHLSS và over the last month cho labor market activity của LFS.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 83,
+          "char_start": 290,
+          "char_end": 587
+        },
+        {
+          "rank": 2,
+          "chunk_id": "1da04669d27646d7638bc5cbeca369874e08225c677fca87711a278195dd3784",
+          "excerpt": "1.4.\nSource: W orld Bank staff calculation using VHLSS panel sub-samples.\nAcross the biennial household expenditure modules,\nabout half of the sample are re-interviewed and half are\nrotated. Furthermore, a quarter of the samples are re-\ninterviewed over three consecutive rounds spanning four\nyears.",
+          "assessment_vi": "Mô tả luân phiên và tái phỏng vấn mẫu qua các vòng khảo sát; không phải kỳ hồi tưởng thu nhập hoặc hoạt động lao động.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 59,
+          "char_start": 2645,
+          "char_end": 2944
+        },
+        {
+          "rank": 3,
+          "chunk_id": "94695d42b4b93cf140c34ec3266556757348ae1ea67d3ecc978bcca2c09d5411",
+          "excerpt": "household-level analysis of incomes and wages. For example,\none main difference is that reliance on wages in manufacturing appears higher in the VHLSS, but in the LFS, employment\nin services is higher than in manufacturing. This is because the sector of activity may be related to wages, farm, or",
+          "assessment_vi": "So sánh cơ cấu ngành việc làm, không bổ sung kỳ hồi tưởng; hạng 1 đã đủ cả hai vế.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 83,
+          "char_start": 2367,
+          "char_end": 2663
+        }
+      ],
+      "missing_information": []
+    },
+    {
+      "case_id": "d78a84ab9f28",
+      "question_id": "q18",
+      "score": 2,
+      "reason_vi": "Hạng 1 xác định đối tượng là trợ cấp tiền mặt trực tiếp và nói đầy đủ rằng giá trị trợ cấp giảm theo thời gian vì không được chỉ số hóa theo lạm phát. Hai hit còn lại nói về chương trình trợ giúp xã hội, không cần bổ sung điều kiện. Nguồn có URL, trang 89 và offsets.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "51a49da932e5bb268404f275806ff696bc9b3de146bbe9e0ef22ea919e54e2ab",
+          "excerpt": "on\npeople are receiving direct cash support by being identified as\na poor or near-poor household (T able 2.2). Benefit levels are\nlow, and coverage is limited. Benefit levels are also declining\nin value over time because they are not indexed to inflation.\nAbout 15 percent of households reported rece",
+          "assessment_vi": "Chứa nguyên nhân trực tiếp: declining in value over time because they are not indexed to inflation, trong đoạn nói về hỗ trợ tiền mặt trực tiếp.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 89,
+          "char_start": 2160,
+          "char_end": 2460
+        },
+        {
+          "rank": 2,
+          "chunk_id": "96c3dfe9f0ab0aa8e4dc477e158bb04a0d9b6e601cc4093dffa9e4e33590f4a7",
+          "excerpt": "Chapter 2.\na review of the drivers of poverty reduCtion\nFrom the Last Mile to the Next Mile 71\nSocial assistance through direct cash transfers are small,\nbut indirect benefits can be larger. There is a much wider\nset of programs spanning relevant ministries that provide\nsupport to poor households in",
+          "assessment_vi": "Nêu trợ cấp tiền mặt nhỏ và lợi ích gián tiếp có thể lớn hơn; không giải thích việc mất giá theo thời gian.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 0,
+          "char_end": 300
+        },
+        {
+          "rank": 3,
+          "chunk_id": "074ba595c2390e9a4159b5ad4ee58d199b47dbb2aa6c454f31e7830d8fbdc878",
+          "excerpt": "ude in measures of household\ncurrent income. However, remaining types of benefits are\nrarely cited to be received. T argeting performance of these\nadditional programs varies. Social assistance schemes include\nprograms not just targeted to the poor but also based on\ncategorical targeting—that is, peo",
+          "assessment_vi": "Bàn về mức nhận trợ cấp và cách nhắm mục tiêu chương trình; không nêu nguyên nhân lạm phát.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 540,
+          "char_end": 840
+        }
+      ],
+      "missing_information": []
+    },
+    {
+      "case_id": "76aab9484a9b",
+      "question_id": "q18",
+      "score": 1,
+      "reason_vi": "Hạng 1 xác nhận trợ cấp tiền mặt có mức thấp, độ bao phủ hạn chế và mất giá theo thời gian, nhưng dừng ngay trước phần giải thích nguyên nhân. Hạng 2 nói mức trợ cấp nhỏ, hạng 3 nói nhóm được nhắm tới; không hit nào nói đến việc chỉ số hóa theo lạm phát. Không đủ trả lời vì sao mất giá.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "ecc8957b674b19c8b32eac61e56f55b3685d3404071ff7a4b93addb8aaef2267",
+          "excerpt": "and broader geographically\ntargeted public investments. Administratively, about 7 million\npeople are receiving direct cash support by being identified as\na poor or near-poor household (T able 2.2). Benefit levels are\nlow, and coverage is limited. Benefit levels are also declining\nin value over time",
+          "assessment_vi": "Xác nhận hiện tượng declining in value over time và đúng đối tượng direct cash support; không có mệnh đề nguyên nhân.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 89,
+          "char_start": 2073,
+          "char_end": 2372
+        },
+        {
+          "rank": 2,
+          "chunk_id": "6f20895bb2cebf59e77cb155a6af4f651f3d6a2e6c1305c2162fd8e5ecfee962",
+          "excerpt": "Chapter 2.\na review of the drivers of poverty reduCtion\nFrom the Last Mile to the Next Mile 71\nSocial assistance through direct cash transfers are small,\nbut indirect benefits can be larger. There is a much wider\nset of programs spanning relevant ministries that provide\nsupport to poor households in",
+          "assessment_vi": "Nêu quy mô nhỏ của chuyển tiền và vai trò lợi ích gián tiếp; không nêu lý do giá trị giảm dần.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 0,
+          "char_end": 300
+        },
+        {
+          "rank": 3,
+          "chunk_id": "3b7caf45f3754df252262dadaa95d4af29943069ae9d5757d116039aed602d4a",
+          "excerpt": "remaining types of benefits are\nrarely cited to be received. T argeting performance of these\nadditional programs varies. Social assistance schemes include\nprograms not just targeted to the poor but also based on\ncategorical targeting—that is, people with disabilities, people\nwith HIV , the elderly,",
+          "assessment_vi": "Mô tả chương trình hướng tới nhóm khuyết tật, HIV và người cao tuổi; không nêu cách điều chỉnh trợ cấp theo giá cả.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 594,
+          "char_end": 893
+        }
+      ],
+      "missing_information": [
+        "Nguyên nhân trợ cấp không được chỉ số hóa hoặc điều chỉnh theo lạm phát không xuất hiện trong top-3."
+      ]
+    },
+    {
+      "case_id": "f174dc553004",
+      "question_id": "q19",
+      "score": 1,
+      "reason_vi": "Ba hit có liên quan đến các động lực giảm nghèo. Hạng 2 nói tăng lương là một ví dụ trong những nguồn thu nhập quan trọng nhất, nhưng chủ ngữ của câu về cả thập kỷ đã bị cắt. Không hit nào xác định rõ các yếu tố tăng trưởng là kênh chi phối trong phần lớn thập kỷ; không thể nâng ví dụ tăng lương thành kết luận phân rã tổng quát đó.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "ca9436cc0782c28742ccde508aef8f34906ae717bfad625145d2616c27c884e4",
+          "excerpt": "The previous sections discussed household profiles and\nincome trends over the decade and alluded to potentially\nimportant drivers. This section quantifies the channels and\ndrivers of poverty reduction by decomposing poverty rates by\nbroad groups and income sources, as well as across different\nperio",
+          "assessment_vi": "Giới thiệu việc định lượng các kênh và động lực bằng phân rã nghèo theo nhóm, nguồn thu nhập và giai đoạn; chưa nêu kênh chi phối.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 1351,
+          "char_end": 1650
+        },
+        {
+          "rank": 2,
+          "chunk_id": "e207434d3d0f4a124a55d5af0929ca100048ce3eb5631517f2ffbf775077f7f3",
+          "excerpt": "h in supporting poverty\nreduction continued in importance throughout the\nlast decade. The role of certain income sources and sectors\nfor poverty reduction was clearly illustrated, both in terms\nof those that matter most (e.g., wage growth), and those\nthat played a lesser role (e.g., social assistanc",
+          "assessment_vi": "Cho ví dụ tăng lương thuộc các nguồn quan trọng nhất và trợ giúp xã hội đóng vai trò nhỏ hơn. Câu mở đầu bị mất chủ ngữ nên không chứng minh được kết luận về các yếu tố tăng trưởng trong phần lớn thập kỷ.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 94,
+          "char_start": 1620,
+          "char_end": 1920
+        },
+        {
+          "rank": 3,
+          "chunk_id": "0adb1bf5976d6d3ebc947df00a878cac9d454efc396a0abe175d9ba4648f65f6",
+          "excerpt": "well as across different\nperiods over the decade. 30 Nationally, poverty reduction was\nhigher during the first half of the decade, was concentrated\nin initially poorer areas, and was almost exclusively a rural\nphenomenon. From 2010 to 2016, LMIC $3.20/day\n2011PPP poverty rates declined from 16.8 to",
+          "assessment_vi": "Nêu giảm nghèo mạnh hơn nửa đầu thập kỷ, tập trung ở vùng ban đầu nghèo hơn và nông thôn; không xác định kênh tăng trưởng chi phối.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 1620,
+          "char_end": 1919
+        }
+      ],
+      "missing_information": [
+        "Kết luận so sánh rằng các yếu tố tăng trưởng là kênh chi phối giảm nghèo trong phần lớn thập kỷ; ví dụ tăng lương chưa chứng minh đủ phạm vi kết luận này."
+      ]
+    },
+    {
+      "case_id": "12001167adf7",
+      "question_id": "q19",
+      "score": 2,
+      "reason_vi": "Hạng 2 nêu trực tiếp rằng các động lực giảm nghèo chủ yếu được quy cho các yếu tố tăng trưởng trong phần lớn thập kỷ. Hạng 3 bổ sung quá trình giảm nghèo do tăng trưởng và vai trò chính của thu nhập lao động giai đoạn 2010–2020. Cả nội dung kết luận và phạm vi thời gian cần thiết đều hiện diện; URL, trang 65 và offsets cho phép truy nguồn.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "d27cffcbcbde58463a4a0d68c3417373d794367dcaffd7a170eb5523630ef61f",
+          "excerpt": "section quantifies the channels and\ndrivers of poverty reduction by decomposing poverty rates by\nbroad groups and income sources, as well as across different\nperiods over the decade. 30 Nationally, poverty reduction was\nhigher during the first half of the decade, was concentrated\nin initially poorer",
+          "assessment_vi": "Giới thiệu phân rã các kênh và động lực, đồng thời nêu khác biệt theo giai đoạn; chưa tự xác định kênh chi phối.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 91,
+          "char_start": 1487,
+          "char_end": 1787
+        },
+        {
+          "rank": 2,
+          "chunk_id": "1ef7aff5ede9d90249640776c0d8ae84e050cdb424cd68b0be7c03845b8543e6",
+          "excerpt": "drivers of poverty reduction are overwhelmingly\nattributable to growth factors throughout most of the\ndecade. Chapter 2 describes broad labor market changes\nover the last decade and the evolution of household profiles\nand incomes in more detail. With respect to the drivers of\npoverty reduction,",
+          "assessment_vi": "Trả lời trực tiếp: overwhelmingly attributable to growth factors throughout most of the decade.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 65,
+          "char_start": 594,
+          "char_end": 889
+        },
+        {
+          "rank": 3,
+          "chunk_id": "a65ec5ab5fd36299831999259237257a5e1ba617e1bb459f5c914835e6a900fe",
+          "excerpt": "growth-\ndriven poverty reduction process. Among sources of\nhousehold income, labor income was the primary driver of\npoverty reduction from 2010 to 2020, and these trends are\nbroadly consistent across regions and also ethnicity (Figure\nA.2.1.1). Job creation and rising wages as a promotive",
+          "assessment_vi": "Bổ sung tính chất growth-driven và vai trò chủ đạo của thu nhập lao động từ 2010 đến 2020, phù hợp với kết luận hạng 2.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 588,
+          "char_end": 877
+        }
+      ],
+      "missing_information": []
+    },
+    {
+      "case_id": "ec0aba9e0d04",
+      "question_id": "q20",
+      "score": 0,
+      "reason_vi": "Không hit nào trả lời việc các đóng góp phân rã có xác lập hiệu ứng nhân quả hay không, hoặc nêu giới hạn phương pháp giải thích câu trả lời. Hạng 1 chỉ nói có thể phân rã biến động nghèo thành tăng trưởng và tái phân phối; hạng 2 và 3 mô tả các đóng góp và xu hướng thu nhập. Sự liên quan về chủ đề không cung cấp chứng cứ cho hai ý được hỏi.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "00c6be4607c5dde0083a62fd2fd4b8fbcebf037a2f679eb39c81a2b78a7534b6",
+          "excerpt": "e importance of the impact of inequality on poverty\nreduction, highlighting a double-dividend effect (Alvaredo\nand Gasparini, 2015; Bourguignon, 2004). At a macro level,\nchanges in poverty can be decomposed into a combination\nof growth and redistribution effects (Bourguignon, 2003,\n2004; Datt and Ra",
+          "assessment_vi": "Nêu phân rã thay đổi nghèo thành hiệu ứng tăng trưởng và tái phân phối ở cấp vĩ mô; không khẳng định hoặc phủ định cách diễn giải nhân quả và không nêu giới hạn cân bằng tổng thể.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 60,
+          "char_start": 270,
+          "char_end": 570
+        },
+        {
+          "rank": 2,
+          "chunk_id": "d6fb5c96e062697fda1730f81f51c5714e94063121fbe3453ba6e727d8c50a8c",
+          "excerpt": "perity primarily due to\nan expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are",
+          "assessment_vi": "Mô tả mở rộng lao động phi nông nghiệp, tăng lương và đóng góp của tái phân phối; từ explanatory không chứng minh tính nhân quả hoặc giới hạn của phương pháp.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 270,
+          "char_end": 569
+        },
+        {
+          "rank": 3,
+          "chunk_id": "20db6938104d9393f9fce1dd4f5807020bb2370449c7ba53dac90bbab9a2d3e7",
+          "excerpt": "decline in this income source worsens\ninequality. This is compounded by strong growth trends\nobserved for other income sources that are well received by\nhouseholds at the higher end of the distribution.\nFigure 2.20. Growth-driven poverty\nreduction over the last decade\nPercentage point change in pov",
+          "assessment_vi": "Mô tả xu hướng thu nhập và bất bình đẳng, kèm tiêu đề hình về giảm nghèo do tăng trưởng; không đề cập tính nhân quả hay phân phối phản thực.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 2701,
+          "char_end": 3000
+        }
+      ],
+      "missing_information": [
+        "Kết luận rằng đóng góp phân rã không xác lập hiệu ứng nhân quả.",
+        "Giới hạn rằng phương pháp không phải cân bằng tổng thể và các phân phối phản thực không phải cân bằng kinh tế.",
+        "Diễn giải các đóng góp như thay đổi phân phối thay vì tác động nhân quả."
+      ]
+    },
+    {
+      "case_id": "19163cd415bf",
+      "question_id": "q20",
+      "score": 1,
+      "reason_vi": "Hạng 1 nói rõ các đóng góp vào biến động nghèo không có ý nghĩa nhân quả và chỉ là bài tập phát hiện thay đổi phân phối. Tuy nhiên, đoạn mở đầu chỉ còn economic equilibrium sau khi phần mệnh đề trước đó bị cắt, nên không chứng minh được phương pháp không phải cân bằng tổng thể hoặc các phân phối phản thực không phải cân bằng kinh tế. Giả định giữ các thành phần khác cố định được nêu, nhưng không tự khôi phục mệnh đề bị thiếu; hạng 2 và 3 không bổ sung giới hạn đó.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+          "excerpt": "economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes. It is assumed that\nby keeping all other components constant, each income component is allowed to change,",
+          "assessment_vi": "Chứng minh trực tiếp phần phủ định nhân quả và mục đích phát hiện thay đổi phân phối; nêu giả định giữ thành phần khác cố định. Cụm economic equilibrium đứng đầu bị mất mệnh đề, không đủ xác định giới hạn về cân bằng tổng thể/phản thực.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 96,
+          "char_start": 888,
+          "char_end": 1187
+        },
+        {
+          "rank": 2,
+          "chunk_id": "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+          "excerpt": "expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are consistent with a",
+          "assessment_vi": "Nêu vai trò thu nhập lao động và tái phân phối trong giảm nghèo; không giải thích giới hạn phương pháp.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 297,
+          "char_end": 587
+        },
+        {
+          "rank": 3,
+          "chunk_id": "2cc56c00081d1b43b610391505a621712cf90e2eba96682b30512d5df80a5777",
+          "excerpt": "in the future by\nbreaking cycles of intergenerational poverty traps. Lower\nlevels of inequality have been empirically associated with\nhigher growth elasticity of poverty reduction; however, the\nempirical evidence is not conclusive (Bergstrom, 2020).\nConsumption growth was consistently high over\nthe",
+          "assessment_vi": "Nói bằng chứng thực nghiệm về bất bình đẳng và độ co giãn tăng trưởng còn chưa kết luận được; đó không phải giới hạn của phương pháp phân rã đang được hỏi.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 60,
+          "char_start": 894,
+          "char_end": 1193
+        }
+      ],
+      "missing_information": [
+        "Mệnh đề đầy đủ xác định phương pháp không phải cân bằng tổng thể và các phân phối phản thực không phải cân bằng kinh tế; cụm economic equilibrium bị cắt ở đầu hit không chứng minh được nội dung này."
+      ]
+    },
+    {
+      "case_id": "5e247142919b",
+      "question_id": "q20",
+      "score": 1,
+      "reason_vi": "Hạng 1 đủ chứng minh đóng góp phân rã không phải hiệu ứng nhân quả và phản ánh thay đổi phân phối. Phần giải thích trước cụm economic equilibrium đã bị cắt, nên giới hạn về phương pháp không cân bằng tổng thể và phân phối phản thực không là cân bằng kinh tế chưa xuất hiện đầy đủ. Hạng 2 và 3 chỉ mô tả nguồn thu nhập và bất bình đẳng, không lấp khoảng trống phương pháp.",
+      "support_by_rank": [
+        {
+          "rank": 1,
+          "chunk_id": "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+          "excerpt": "economic equilibrium (Azevedo et al., 2013). This implies that the contributions to\npoverty changes do not have a causal effect, but rather are an exercise used to detect distributional changes. It is assumed that\nby keeping all other components constant, each income component is allowed to change,",
+          "assessment_vi": "Nêu rõ không có hiệu ứng nhân quả, chỉ phát hiện thay đổi phân phối và giữ thành phần khác cố định. Phần câu dẫn tới economic equilibrium bị thiếu nên chưa nêu đầy đủ giới hạn phương pháp cần giải thích.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 96,
+          "char_start": 888,
+          "char_end": 1187
+        },
+        {
+          "rank": 2,
+          "chunk_id": "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+          "excerpt": "expansion in the non-farm labor force and rising wages.\nRedistribution contributed to poverty reduction in the earlier\nhalf of the decade, but still had a relatively small effect overall.\nLabor market incomes are almost exclusively explanatory\nof poverty reduction and are consistent with a",
+          "assessment_vi": "Mô tả mở rộng lực lượng lao động phi nông nghiệp, tăng lương và tái phân phối; không có nội dung về phân phối phản thực hoặc cân bằng tổng thể.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 297,
+          "char_end": 587
+        },
+        {
+          "rank": 3,
+          "chunk_id": "929090fd85654ae08bbf91a0fa6eaafb975d636a59b611fc1a3ad8c99e785fb5",
+          "excerpt": "and dependent on\nagriculture income, a decline in this income source worsens\ninequality. This is compounded by strong growth trends\nobserved for other income sources that are well received by\nhouseholds at the higher end of the distribution.\nFigure 2.20. Growth-driven poverty\nreduction over the last",
+          "assessment_vi": "Nói sự phụ thuộc thu nhập nông nghiệp và tăng trưởng các nguồn khác làm thay đổi bất bình đẳng; không cung cấp giới hạn nhận diện nhân quả của phân rã.",
+          "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+          "page": 92,
+          "char_start": 2662,
+          "char_end": 2962
+        }
+      ],
+      "missing_information": [
+        "Giải thích đầy đủ về việc phương pháp không phải cân bằng tổng thể và các phân phối phản thực không phải cân bằng kinh tế; không thể suy nội dung này từ cụm economic equilibrium bị mất phần đầu."
+      ]
+    }
+  ]
+}

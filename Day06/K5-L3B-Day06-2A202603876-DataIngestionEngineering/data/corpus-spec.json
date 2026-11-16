@@ -1,0 +1,31 @@
+{
+  "title": "From the Last Mile to the Next Mile — 2022 Vietnam Poverty and Equity Assessment — selected main-text pages of chapters 1–2",
+  "rights": {
+    "content_license_observed": "CC BY 3.0 IGO",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/igo/",
+    "ai_use_permission": "covered_by_published_license",
+    "basis": "The report physical page 3 expressly permits copying, transmission and adaptation under CC BY 3.0 IGO. This records reliance on that published license, not bespoke World Bank approval.",
+    "permission_notice_url": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf#page=3"
+  },
+  "counting_rule": "One selected physical PDF page per source unit, with verified printed-page metadata. Select main narrative pages from chapters 1–2; exclude covers, contents, references, annexes and figure/table-only pages 48,53,88,90,97. No duplication or artificial padding.",
+  "extraction_limits": [
+    "pypdf plain extraction preserves reading order better than layout mode in this two-column report; geometric paragraph boundaries are not reconstructed.",
+    "Headers, figure captions and some table/axis text remain in extraction; no bitmap figures, photographs or logos are redistributed. Benchmark evidence is from explanatory prose.",
+    "Some PDF kerning produces spaces inside words and line breaks/hyphenation remain; offsets refer to the exact normalized corpus, not guessed corrected wording.",
+    "The World Bank TXT is labelled uncorrected OCR and was used only for an independent feasibility check, not as the primary corpus or physical-page mapping."
+  ],
+  "benchmark_split": {
+    "dev_chapters": [
+      "1"
+    ],
+    "test_chapters": [
+      "2"
+    ],
+    "split_method": "15 dev questions about chapter 1 and 5 test questions about chapter 2; all selected pages remain searchable for A/B/C.",
+    "limitations": [
+      "Same report and related poverty concepts can overlap across chapters.",
+      "Five test questions are illustrative and do not establish a general ranking.",
+      "Questions prepared with AI-assisted source reading and exact-span checks; learner review and human audit remain distinct."
+    ]
+  }
+}

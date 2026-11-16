@@ -1,0 +1,992 @@
+[
+  {
+    "id": "bt01",
+    "group": "table",
+    "answerable": true,
+    "question": "From Table 1.1, give Vietnam’s extreme-poverty rates at the $1.90/day 2011PPP line in 2010 and 2020 and the percentage-point reduction.",
+    "expected_answer": "4.0% in2010,1.0% in2020; reduction3.0percentage points.",
+    "gold": [
+      {
+        "id": "p048-table-1.1",
+        "page": 48,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          226.7376,
+          65.8555,
+          385.2636,
+          78.9685
+        ],
+        "region": "IPL $1.90 column,2010 and2020 rows",
+        "verified_facts": "4.0;1.0;subtract3.0pp",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt02",
+    "group": "table",
+    "answerable": true,
+    "question": "Which two 2011 dong-to-dollar conversion rates are shown in Table A.1.2.1, and which is the purchasing-power-parity rate?",
+    "expected_answer": "PPP7,528.385VND per international dollar; period-average exchange rate20,509.75VND/US$1.",
+    "gold": [
+      {
+        "id": "p069-table-A.1.2.1",
+        "page": 69,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          365.7792,
+          131.4137,
+          503.5413,
+          144.5267
+        ],
+        "region": "Two conversion-rate rows and unit header",
+        "verified_facts": "PPP7,528.385;exchange20,509.75;units VND per dollar",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt03",
+    "group": "table",
+    "answerable": true,
+    "question": "Using Table 4.1, how did Vietnam’s expected years of school change from 2010 to 2020? Give both values and the increase.",
+    "expected_answer": "11.8 to12.9years; increase1.1years.",
+    "gold": [
+      {
+        "id": "p132-table-4.1",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          158.9326,
+          517.6306,
+          453.0715,
+          530.7436
+        ],
+        "region": "Expected Years of School row, Vietnam2010/2020 columns",
+        "verified_facts": "11.8;12.9;increase1.1",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt04",
+    "group": "table",
+    "answerable": true,
+    "question": "What are the female and male 2020 HCI values in Table 4.2, and the female-minus-male index gap?",
+    "expected_answer": "Female0.73, male0.65;gap0.08 index points.",
+    "gold": [
+      {
+        "id": "p137-table-4.2",
+        "page": 137,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          179.4799,
+          73.0002,
+          432.5239,
+          86.1132
+        ],
+        "region": "Human Capital Index row;2020 female/male columns",
+        "verified_facts": "0.73;0.65;0.08 index points, not8index points",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt05",
+    "group": "table",
+    "answerable": true,
+    "question": "According to Table A.5.1.1, how are professionals classified by skill, and what education level and ISCED codes are expected?",
+    "expected_answer": "High-skilled non-manual; tertiary education,ISCED5–6.",
+    "gold": [
+      {
+        "id": "p170-table-A.5.1.1",
+        "page": 170,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.5557,
+          156.3684,
+          507.4479,
+          169.4814
+        ],
+        "region": "Occupation2 professionals, merged high-skilled non-manual/tertiary cells spanninggroups1–3",
+        "verified_facts": "High-skilled non-manual;tertiaryISCED5–6",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt06",
+    "group": "table",
+    "answerable": true,
+    "question": "In Table 7.1, what are 2018 personal income tax revenues in trillion dong and as a percentage of GDP?",
+    "expected_answer": "94trillion dong;1.7%GDP.",
+    "gold": [
+      {
+        "id": "p199-table-7.1",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          73.689,
+          225.8419,
+          280.995,
+          238.9549
+        ],
+        "region": "PIT row below direct taxes, both numeric columns",
+        "verified_facts": "94;1.7%",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt07",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Read the branches of Figure B.2.4.1. Which two factors form household consumption per capita, and which two factors form household income per capita?",
+    "expected_answer": "Consumption per capita = propensity to consume × household income per capita. Household income per capita = share of adults × income per adult.",
+    "gold": [
+      {
+        "id": "p096-figure-B.2.4.1",
+        "page": 96,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          139.4658,
+          353.7296,
+          472.3839,
+          366.8426
+        ],
+        "region": "First two branch levels of decomposition tree, left to right",
+        "verified_facts": "Propensity×HHincomepercap;shareadults×incomeperadult",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt08",
+    "group": "diagram",
+    "answerable": true,
+    "question": "In Figure B.4.1.1, which two leaf indicators feed the contribution to productivity from school, and which two feed the health component?",
+    "expected_answer": "School:expected years of schooling,harmonized test scores. Health:adult survival rate,not-stunted rate.",
+    "gold": [
+      {
+        "id": "p135-figure-B.4.1.1",
+        "page": 135,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          156.6112,
+          531.526,
+          455.3923,
+          544.639
+        ],
+        "region": "School and Health branches on right side of HCI tree",
+        "verified_facts": "School expectedyears+testscores;health adultsurvival+notstunted",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt09",
+    "group": "diagram",
+    "answerable": true,
+    "question": "In the tree in Figure B.6.3.1, name the three branches directly under Social Assistance and the three under Social Insurance.",
+    "expected_answer": "Assistance:regular allowances,social care centers and care services,emergency assistance. Insurance:unemployment insurance,compulsory and voluntary insurance,other programs(supplement SI).",
+    "gold": [
+      {
+        "id": "p190-figure-B.6.3.1",
+        "page": 190,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          69.531,
+          295.8334,
+          542.631,
+          308.9234
+        ],
+        "region": "First two main columns and their three leaves each",
+        "verified_facts": "Assistance and insurance each3 distinct child boxes; do not swap emergency andunemployment",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt10",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Follow Figure B.7.1.1 from market income plus pensions to disposable income: what is subtracted to obtain net market income, and what is then added to obtain disposable income?",
+    "expected_answer": "Subtract direct taxes(PIT,property tax,border tax); then add direct cash transfers.",
+    "gold": [
+      {
+        "id": "p197-figure-B.7.1.1",
+        "page": 197,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          129.6705,
+          420.3685,
+          482.3337,
+          433.4815
+        ],
+        "region": "Central flow from pre-fiscal income through net market income to disposable income; minus/plus side boxes",
+        "verified_facts": "Minusdirecttaxes thenplusdirectcashtransfers",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt11",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Compare panels a and c of Figure 8.1. Which gap in social protection is removed in c, and what does its annotation recommend for assistance and subsidies at the top of the income distribution?",
+    "expected_answer": "Closes coverage/missing-middle gap between narrowly targeted assistance and insurance; taper assistance/subsidies away from top through tax systems.",
+    "gold": [
+      {
+        "id": "p225-figure-8.1",
+        "page": 225,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          177.8774,
+          302.0654,
+          434.1245,
+          315.1784
+        ],
+        "region": "Panel a gap, panel c continuous coverage and top annotation",
+        "verified_facts": "Missing-middle gapfilled; taperassistance/subsidies at top via taxsystems",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt12",
+    "group": "chart",
+    "answerable": true,
+    "question": "Read Figure 2.10 from the poorest to the richest household decile. How do the family-farm and family-business shares of household income change? Refer to both legend colors.",
+    "expected_answer": "Family farm(teal/green)decreases;family business(orange)increases asdecile rises.",
+    "gold": [
+      {
+        "id": "p081-figure-2.10",
+        "page": 81,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          163.5859,
+          524.3806,
+          448.417,
+          537.4936
+        ],
+        "region": "Stacked bars deciles1–10, green familyfarm/orange familybusiness legend",
+        "verified_facts": "Farmsharefalls roughly35to8%;businessrises roughly7to30%",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt13",
+    "group": "chart",
+    "answerable": true,
+    "question": "Using Figure 4.17, estimate extra-class participation for top and bottom wealth quintiles at age 12 and the gap in percentage points. Is the gap larger than at age 8?",
+    "expected_answer": "Age12topabout85%,bottomabout30%,gapabout55pp; largerthan age8gapabout30pp.",
+    "gold": [
+      {
+        "id": "p145-figure-4.17",
+        "page": 145,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          347.8427,
+          454.9071,
+          521.4788,
+          468.0201
+        ],
+        "region": "Age8and12 paired bars,top/bottomlegend,percentaxis",
+        "verified_facts": "Age12~85and30;gap~55;age8~78and47 gap~31",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Allow ±5 percentage points per bar and ±8 pp for gap; must identify larger gap at12",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt14",
+    "group": "chart",
+    "answerable": true,
+    "question": "Read Figure 5.4: which 2045 projected GDP-per-capita path is higher, the baseline or the HIC path? Estimate each value to the nearest thousand and state the price-year/currency unit.",
+    "expected_answer": "HIC higher;baselineaboutUS$10,000,HICaboutUS$14,000;GDPpercapita constant2018US$.",
+    "gold": [
+      {
+        "id": "p157-figure-5.4",
+        "page": 157,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          345.3,
+          371.5595,
+          524.0211,
+          384.6725
+        ],
+        "region": "Two dashed arrows ending at2045,legend,y-axisunit andnotenextline",
+        "verified_facts": "Baseline~10k,HIC~14k;constant2018US$",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Accept baseline9–11thousand andHIC13–15thousand; must say constant2018US$",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt15",
+    "group": "chart",
+    "answerable": true,
+    "question": "In Figure 5.7, how does the projected working-age population share move after 2018 toward 2050, and what line style distinguishes the projection from historical data?",
+    "expected_answer": "Declines fromhigh60s towardmid60percent;futuresegmentdashed versus historicalsolid.",
+    "gold": [
+      {
+        "id": "p159-figure-5.7",
+        "page": 159,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          87.7739,
+          427.1193,
+          266.9108,
+          440.2323
+        ],
+        "region": "GreenWorkingage line;solidtill2018,dashedprojected2020–2050;percentaxis",
+        "verified_facts": "Workingagesharefalls;solid->dashed projection",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt16",
+    "group": "chart",
+    "answerable": true,
+    "question": "In Figure 6.12, which bar has the lowest social-assistance benefit level and which has the highest? Estimate both as shares of welfare among the lowest quintile.",
+    "expected_answer": "Vietnam lowestabout6%;UMIC highestabout22%.",
+    "gold": [
+      {
+        "id": "p190-figure-6.12",
+        "page": 190,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          118.663,
+          65.8555,
+          493.3411,
+          78.9685
+        ],
+        "region": "Sixbars,country/income-group labels,y-axis shareofwelfareamonglowestquintile",
+        "verified_facts": "Vietnam~6;UMIC~22",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": "Vietnam4–8%,UMIC20–24%; correct denominator andranking",
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt17",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Use Tables 4.1 and 4.2 to compare 2020 harmonized-test-score gaps: Vietnam minus East Asia and Pacific, and Vietnamese females minus males. Give all four scores and both point gaps.",
+    "expected_answer": "Vietnam519,EAP432,gap87;females524,males514,gap10 test-scorepoints.",
+    "gold": [
+      {
+        "id": "p132-table-4.1",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          158.9326,
+          517.6306,
+          453.0715,
+          530.7436
+        ],
+        "region": "Harmonizedtestscores Vietnam2020/EAP2020",
+        "verified_facts": "519and432,gap87",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p137-table-4.2",
+        "page": 137,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          179.4799,
+          73.0002,
+          432.5239,
+          86.1132
+        ],
+        "region": "Harmonizedtestscore female2020/male2020",
+        "verified_facts": "524and514,gap10",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt18",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Compare VAT revenue in Table 7.1 with education spending in Table 7.2 for 2018. Give both trillion-dong amounts and their difference, without claiming the VAT was earmarked for education.",
+    "expected_answer": "VAT344trillion;education220trillion;VAT124trillionhigher;notanearmarkingclaim.",
+    "gold": [
+      {
+        "id": "p199-table-7.1",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          73.689,
+          225.8419,
+          280.995,
+          238.9549
+        ],
+        "region": "VATrow underTaxesongoods/services",
+        "verified_facts": "344trillion",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p200-table-7.2",
+        "page": 200,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          90.7525,
+          73.0002,
+          263.9305,
+          86.1132
+        ],
+        "region": "Educationrow",
+        "verified_facts": "220trillion;difference124",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt19",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Combine section 4.2 across physical PDF pages 132–133: what are Vietnam’s expected school years and learning-adjusted years, how many years is the difference, and what does the adjustment account for?",
+    "expected_answer": "Expected12.9years;learning-adjusted10.7;difference2.2years;adjustsquantityfor educationquality proxiedby standardized/harmonizedtestscores.",
+    "gold": [
+      {
+        "id": "p132",
+        "page": 132,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Section4.2rightcolumn:12.9expected,10.7beginningofsentenceatbottom",
+        "verified_facts": "12.9and10.7",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p133",
+        "page": 133,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Continuationtop-leftdefining learning-adjustedyearsofschooling",
+        "verified_facts": "Adjustmentreflectsqualityvia test scores;2.2difference",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt20",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Combine Table 2.1 and the PM2.5 map in Figure 6.5: which region gained the most population between 2009 and 2019, and is it the same region identified as having concentrated high air pollution? Name both.",
+    "expected_answer": "Southeastlargestpopulationgain;highairpollutionconcentratedinRedRiverDelta;differentregions.",
+    "gold": [
+      {
+        "id": "p075-table-2.1",
+        "page": 75,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          104.6127,
+          448.1571,
+          250.0707,
+          461.2701
+        ],
+        "region": "Regional2009/2019counts;paragraphleftabove",
+        "verified_facts": "Southeast+3,761,457largest",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      },
+      {
+        "id": "p179-figure-6.5",
+        "page": 179,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": [
+          176.956,
+          177.0131,
+          435.0481,
+          190.1261
+        ],
+        "region": "TopmiddlePM2.5mapandparagraphabove",
+        "verified_facts": "AirpollutionRedRiverDelta,nottheSoutheast",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt21",
+    "group": "text",
+    "answerable": true,
+    "question": "According to section 4.2, what was Vietnam’s 2020 under-five mortality rate? State its denominator rather than confusing it with a percentage.",
+    "expected_answer": "21deathsper1,000livebirths(2.1%).",
+    "gold": [
+      {
+        "id": "p133",
+        "page": 133,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "RightcolumnparagraphImprovingaccesstomaternalhealthcare",
+        "verified_facts": "21deathsper1,000livebirths2020",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt22",
+    "group": "text",
+    "answerable": true,
+    "question": "Under the worst-case climate-change scenario discussed in section 6.2, what sea-level rises are projected for 2050 and 2100?",
+    "expected_answer": "30cm (0.3m) by2050;70cm (0.7m) by2100;worst-case scenario,not observations.",
+    "gold": [
+      {
+        "id": "p178",
+        "page": 178,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "Bottom-rightparagraphClimatechangeisexpectedtoexacerbateexistingrisks",
+        "verified_facts": "30cm and70cm by2050/2100respectively",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt23",
+    "group": "text",
+    "answerable": true,
+    "question": "What subnational social spending is excluded from the chapter 7 fiscal analysis because of data limitations, and which two sectors include both central and local expenditures?",
+    "expected_answer": "Important subnational/local socialassistancespending excluded;healthandeducation include both centralandlocalspending.",
+    "gold": [
+      {
+        "id": "p199",
+        "page": 199,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "RightcolumnExpendituresfirstparagraph",
+        "verified_facts": "Localsocialassistanceexcluded;central+localhealth/educationincluded",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt24",
+    "group": "text",
+    "answerable": true,
+    "question": "Which three demographic trends does section 8.2 cite when explaining the need for broad-based human-capital investment?",
+    "expected_answer": "Decliningfertility,risinglifeexpectancy,shrinkingworking-agepopulation.",
+    "gold": [
+      {
+        "id": "p221",
+        "page": 221,
+        "source": "https://documents1.worldbank.org/curated/en/099115004242216918/pdf/P176261155e1805e1bd6e14287197d61965ce02eb562.pdf",
+        "source_sha256": "6b2e5b40b08a3454f2265564e781bbf7bc0038ba37cb87ca32e1446b8f6b4e00",
+        "bbox": [
+          0,
+          0,
+          612.0,
+          792.0
+        ],
+        "caption_bbox": null,
+        "region": "LeftcolumnEquitablehumancapitalformationparagraph",
+        "verified_facts": "Fertilitydown,lifeexpectancyup,workingagepopulationshrinks",
+        "verification": "AI-assisted reading of original rendered PDF and layout text; student verification pending"
+      }
+    ],
+    "tolerance": null,
+    "grading": "Correct AND complete answer, units/conditions, and citations supporting ALL claims. Original source determines grade.",
+    "split": "test"
+  },
+  {
+    "id": "bt25",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What exact national population did a census conducted in calendar year 2026 observe for Vietnam?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "2022report includesearliercensuses/projections,notanobserved2026census.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "2026": [],
+        "Census": [
+          25,
+          52,
+          53,
+          54,
+          59,
+          68,
+          75,
+          98,
+          112
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  },
+  {
+    "id": "bt26",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What was the observed 2027 out-of-pocket health spending share from Vietnam’s 2027 national accounts?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Noobserved2027nationalaccountsinthe2022report.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "2027": [],
+        "out-of-pocket": [
+          14,
+          18,
+          176,
+          177,
+          187,
+          201,
+          202
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  },
+  {
+    "id": "bt27",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What are the exact household-level income and sample weight for VHLSS respondent BONUS-HH-993577?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "NorecordforinventedIDorrespondentmicrodatainthepublication.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "BONUS-HH-993577": []
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  },
+  {
+    "id": "bt28",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What are the lower and upper limits of the 95% confidence interval for the female 2020 HCI in Table 4.2?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Table4.2haspointestimates,noconfidenceboundsforthisvalue.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "confidence": [
+          80
+        ],
+        "0.73": [
+          125,
+          136,
+          137
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  },
+  {
+    "id": "bt29",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "What is the exact standard error of the 2020 national poverty rate at the $1.90/day line in Table 1.1?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Headcountrateispresent,butitsstandarderrorisnotreportedinthetableorelsewhere.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "standard error": [],
+        "1.90": [
+          22,
+          45,
+          46,
+          47,
+          48,
+          49,
+          52,
+          56,
+          58,
+          70,
+          71,
+          72,
+          176,
+          207
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  },
+  {
+    "id": "bt30",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "According to this Vietnam report, what was Sydney’s district-level mean PM2.5 concentration in 2020?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Figure6.5showsVietnamdistricts,notSydney;nomatching2020citymeasurement.",
+    "absence_audit": {
+      "scope": "All 232 physical pages, not the old 39-page subset",
+      "keyword_matches": {
+        "Sydney": [],
+        "PM2.5": [
+          179,
+          180,
+          182
+        ]
+      },
+      "method": "Whole-corpus keyword search plus source/topic inspection; nearby estimates/projections are not the requested evidence."
+    },
+    "split": "test"
+  }
+]

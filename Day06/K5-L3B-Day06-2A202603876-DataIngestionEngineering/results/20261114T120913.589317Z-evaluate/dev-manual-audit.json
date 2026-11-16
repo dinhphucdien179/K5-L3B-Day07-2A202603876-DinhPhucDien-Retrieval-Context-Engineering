@@ -1,0 +1,587 @@
+[
+  {
+    "question_id": "q01",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "51df99038df7e8edc90c96e7c7af24e538023099d08c36f109627be271d6479c",
+      "df5b92281b6607cda9e5b7c161eaf96c8aa5119b2fce101f0d9bd5f031340e49",
+      "fe7d063b395773966b691d2133ece7c6fdf80c947e88ee397f30a392b6d7dab0"
+    ]
+  },
+  {
+    "question_id": "q01",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "393e24d35b65b1f3fe661501dd78a9884049423efa4208f9eaccae966d6240a9",
+      "8a93e4c232ed053c941e47c4f91cbea89d31ec6b8129f316ea52eca42a03f0fe",
+      "0fbff4c90cbdc0160a3cb0d9e3be7c8324adc4e0fc2f27b13e0e3975334cf5d3"
+    ]
+  },
+  {
+    "question_id": "q01",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "393e24d35b65b1f3fe661501dd78a9884049423efa4208f9eaccae966d6240a9",
+      "8a93e4c232ed053c941e47c4f91cbea89d31ec6b8129f316ea52eca42a03f0fe",
+      "0fbff4c90cbdc0160a3cb0d9e3be7c8324adc4e0fc2f27b13e0e3975334cf5d3"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "7163b8063e6a9d30e5f386833c1aa8b37181aa50885c5f8daf209836beee703c",
+      "e7741c54bae337cfd16fbb7f1be60dc4f995c3272981d5eaadee133d38578912",
+      "49102751d82991f84b3922bc50f629f2a09fc6608a238bc9db222be7f5b80b08"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "94399d84a477e39a763f6ab9029f6ef9d694a0c5fc2eac1aeba9e2933e28f32d",
+      "bd75282ff00e3f7af7b2facfc0a0734f508b875dccd502b3ddc3a0350de7ec25",
+      "bad8b3847929005224f7e5b71fc75d85de59f0847267cfc6cd08d6ebf5bdf8bf"
+    ]
+  },
+  {
+    "question_id": "q02",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "94399d84a477e39a763f6ab9029f6ef9d694a0c5fc2eac1aeba9e2933e28f32d",
+      "bd75282ff00e3f7af7b2facfc0a0734f508b875dccd502b3ddc3a0350de7ec25",
+      "bad8b3847929005224f7e5b71fc75d85de59f0847267cfc6cd08d6ebf5bdf8bf"
+    ]
+  },
+  {
+    "question_id": "q03",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "78c15d9f12cbaac3f7b6b236dd2d294eb39dfd0070a73438aafdd68d57ca144a",
+      "55d0159fbf5115baec9d10e5dee647a0c53bdcbc1c63bb74d5df57ccae44eb3d",
+      "8667349b47f3559d1891415535e8e4486b0ae61aebab43eee3070387e5d76925"
+    ]
+  },
+  {
+    "question_id": "q03",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "91dcf73c9d9ee801a414d7b57a5fa7a948e1d43919bde3ec2a9313e71e85b168",
+      "879df159119befdbf4093ceb1e4c07a8b3b9fdaf25a866e114e7ba84ac4a1217",
+      "28ca0d43e05c4d161d63dd7c05396369557a156252b9cf44518a91403db42e3f"
+    ]
+  },
+  {
+    "question_id": "q03",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "91dcf73c9d9ee801a414d7b57a5fa7a948e1d43919bde3ec2a9313e71e85b168",
+      "879df159119befdbf4093ceb1e4c07a8b3b9fdaf25a866e114e7ba84ac4a1217",
+      "28ca0d43e05c4d161d63dd7c05396369557a156252b9cf44518a91403db42e3f"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "d3fa58f20cb5eb6a6121dd2bdb396fc37a8f39d18f34769d9c10272d90d19c4e",
+      "8458f4edcbec153a4dfc9e0abb86e0719126018ae6c0cfd2a637fafadf3d6dbf",
+      "adba617129d0737005034335396da4039831436139f0defdaa74276284a41629"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b8ab0f05b86785bfe70790a8fb9316a23d697d5f7bce6e9eff05bf1f1b3f6f71",
+      "524ddef8a7b0062165c33bc9fbb58a74c54f618976b221562b26e150e89c227a",
+      "641fbe97132600f2be8660e563c7289c361da1212cf9d2012aba885b0e807dbf"
+    ]
+  },
+  {
+    "question_id": "q04",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b8ab0f05b86785bfe70790a8fb9316a23d697d5f7bce6e9eff05bf1f1b3f6f71",
+      "524ddef8a7b0062165c33bc9fbb58a74c54f618976b221562b26e150e89c227a",
+      "641fbe97132600f2be8660e563c7289c361da1212cf9d2012aba885b0e807dbf"
+    ]
+  },
+  {
+    "question_id": "q05",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "5f1e370ecf47d33c43f31bae653baeba59a831ddaa8244ae4e426eb6a9079650",
+      "adba617129d0737005034335396da4039831436139f0defdaa74276284a41629",
+      "891cee82eb703961ca42bc1fe4990f02e3bbc14576551c010834dd100c39e3b7"
+    ]
+  },
+  {
+    "question_id": "q05",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "9077d28fa26bdfbd1c8fbbb57ed4407f14072dcaddea4f6e63687526a10de932",
+      "4b9e7ebf557113c1be0c34ab668180635f4fd88b4762c96fba6f6a03ea91712b",
+      "e6c0f4541e68e0ff5d84c8a9074dd28fa0201168aa1b1e7a879d3547dabbafb8"
+    ]
+  },
+  {
+    "question_id": "q05",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "9077d28fa26bdfbd1c8fbbb57ed4407f14072dcaddea4f6e63687526a10de932",
+      "4b9e7ebf557113c1be0c34ab668180635f4fd88b4762c96fba6f6a03ea91712b",
+      "e6c0f4541e68e0ff5d84c8a9074dd28fa0201168aa1b1e7a879d3547dabbafb8"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "0a138f6fbf0f367f82225c7efa480b211deb4739ff8e42bfbf02b94cfdcff7cb",
+      "c5bcb04988f12f5ece0a9d710969868a54a5d273e36e700a7f6514fb09d3f9b1",
+      "38ec195e1385f192a2f3b4f68d973f5dcb063c335699c2fb22a2d39d14f6a9f1"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "fa9b36ccc256cbcf2e23e82a115496d3d675d8653638e1e6370daa5214ce99c9",
+      "4b9e7ebf557113c1be0c34ab668180635f4fd88b4762c96fba6f6a03ea91712b",
+      "78f53d5be5eea424cc50538d7ce3c450319c46b98996ed34d39b94641ef65c43"
+    ]
+  },
+  {
+    "question_id": "q06",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "fa9b36ccc256cbcf2e23e82a115496d3d675d8653638e1e6370daa5214ce99c9",
+      "4b9e7ebf557113c1be0c34ab668180635f4fd88b4762c96fba6f6a03ea91712b",
+      "78f53d5be5eea424cc50538d7ce3c450319c46b98996ed34d39b94641ef65c43"
+    ]
+  },
+  {
+    "question_id": "q07",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "1fd3815f607d580bfef9eeb28ae2fa833cd6a52e5af7670f297d64586610724c",
+      "76c862ddc9f496092a35644b1043c49fcdb89c94315218c637569f1b331ed617",
+      "47cf01e62da5d56afaed88354a55210f979cfe624963f8a306a8c5b393836f06"
+    ]
+  },
+  {
+    "question_id": "q07",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "9271d53f631871714e7c993c5831e965e9ef4a984b6d12646cd4461b54746752",
+      "e421cf55004c15718971252dab90156698e41b32a0f6706911da8ce133bdfc11",
+      "e1d990d4a5471af66abb9b524e7312bff9807d16e80f21f963415adc0da60b6e"
+    ]
+  },
+  {
+    "question_id": "q07",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "9271d53f631871714e7c993c5831e965e9ef4a984b6d12646cd4461b54746752",
+      "e421cf55004c15718971252dab90156698e41b32a0f6706911da8ce133bdfc11",
+      "e1d990d4a5471af66abb9b524e7312bff9807d16e80f21f963415adc0da60b6e"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "922dd5b19a7e2401af6aa6e8a9484c3fe05ad630a9e61e91e6b97dc01ae97ecb",
+      "f9abd10c390119ef021b47d1f56e9d2b776c4a518e6d37ef8fb964134e8d46ab",
+      "44ab74aeec82fd4333d8b0e289bcaa016c750087e18a71696dfa770903fe4689"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b26831c3339a4c1381e702adff0a6d885ebeac882010da5e4f68617eb09bb4e7",
+      "aacb375201f6c9704da879a1e4398ed37bdf1bd776ddee81a06326c3bb0cc0cd",
+      "2e86db121691ed96600d30d1d68ba9f1b90713ccc7ccd092e315e492f0a4cca6"
+    ]
+  },
+  {
+    "question_id": "q08",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b26831c3339a4c1381e702adff0a6d885ebeac882010da5e4f68617eb09bb4e7",
+      "2e86db121691ed96600d30d1d68ba9f1b90713ccc7ccd092e315e492f0a4cca6",
+      "62134987558cce997401cfa883527e5708673c6edda9d7d4342c51ca32c48c9c"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "48d16c3d90ed4d330f3538ee4d0c6c30cfd32a734c0a5c1c52abcae0df257bde",
+      "0adb1bf5976d6d3ebc947df00a878cac9d454efc396a0abe175d9ba4648f65f6",
+      "a1948796566c101aa6e52f29018b40768eee5be310ca234f8157b14df431a51b"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b8ab0f05b86785bfe70790a8fb9316a23d697d5f7bce6e9eff05bf1f1b3f6f71",
+      "ba1e4f7d2c437dde786a6312ef09bde235cbf4e0656b0927a4d907b382ca1e97",
+      "357b7ee780927191a8a090f8ab8743478f7a7185ddea698f6c017b373391051b"
+    ]
+  },
+  {
+    "question_id": "q09",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b8ab0f05b86785bfe70790a8fb9316a23d697d5f7bce6e9eff05bf1f1b3f6f71",
+      "ba1e4f7d2c437dde786a6312ef09bde235cbf4e0656b0927a4d907b382ca1e97",
+      "357b7ee780927191a8a090f8ab8743478f7a7185ddea698f6c017b373391051b"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "ea3e7506715c72bbd5ea7f94ef35e00e5d60097fb08109c7b77cdf4fc822799a",
+      "0db1f3deb5b8defdf917bc2ffd5351a2ba5b19c98e153635284a8b6b4e280edb",
+      "43fd58ca6e258eba6878ff2888be7e2d83d52d09215814e3ce0cf69786a303c7"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "1f71df4a9ac98fc13808852324f28fa49ecfb35e01ac97c82be41117a6e2f785",
+      "9bff0aab03438c2165276809021cda11a70951bfca2c66b308ee1f75b50a741b",
+      "24667b5dde8d5799a7a6e542400f0d6a9eccb4202a0bd8fc87fe3bb89dec5907"
+    ]
+  },
+  {
+    "question_id": "q10",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "1f71df4a9ac98fc13808852324f28fa49ecfb35e01ac97c82be41117a6e2f785",
+      "9bff0aab03438c2165276809021cda11a70951bfca2c66b308ee1f75b50a741b",
+      "24667b5dde8d5799a7a6e542400f0d6a9eccb4202a0bd8fc87fe3bb89dec5907"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "05b38516e328bca5e469ffcb3dccb0737624e21d590439f5540fe638c28ab737",
+      "1c465d424ce7f41e0aa239c3517ac595269250e276da0dcff447ce40965bd968",
+      "6c23cc45b5528c382d0347d19be10215c45d4e5307458f24a575ceb4bfab0a02"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "186c06a21b38094659d177915fb93f6e81745dbc8c28f296991cb5d98143420e",
+      "e30253069de86f2a7997a3a59257f484a1bb34a09f9edba86349318a45ca90aa",
+      "8ab6c19df61dc0b610cff24a1f1f45f3116cf12aa707ed550d555c5eee0a595e"
+    ]
+  },
+  {
+    "question_id": "q11",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "186c06a21b38094659d177915fb93f6e81745dbc8c28f296991cb5d98143420e",
+      "e30253069de86f2a7997a3a59257f484a1bb34a09f9edba86349318a45ca90aa",
+      "8ab6c19df61dc0b610cff24a1f1f45f3116cf12aa707ed550d555c5eee0a595e"
+    ]
+  },
+  {
+    "question_id": "q12",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "00c6be4607c5dde0083a62fd2fd4b8fbcebf037a2f679eb39c81a2b78a7534b6",
+      "7ff8a8db0d92dba5a0753d0ec014e6603cdcedc5e6c20a10064e3c929be9ff1a",
+      "155cd4b5e3bea3b661f12cbbb4a7bf603cd19b0352b6dcd8bc77feaedcf2af00"
+    ]
+  },
+  {
+    "question_id": "q12",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b1184038d00d4d62fffb2e6c61795705dc1c2d6c11d6d1a4c9cd8be8fb6ef360",
+      "e042176175f27c52a5ae894d1aa5aa0bb35c2d931d5271111e3e48e3ddb5bd91",
+      "5f84eda1ec22f35a1ab4acc7051282abab82d5f2a7f6e43e065c2ee9e857d4b4"
+    ]
+  },
+  {
+    "question_id": "q12",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "b1184038d00d4d62fffb2e6c61795705dc1c2d6c11d6d1a4c9cd8be8fb6ef360",
+      "e042176175f27c52a5ae894d1aa5aa0bb35c2d931d5271111e3e48e3ddb5bd91",
+      "5f84eda1ec22f35a1ab4acc7051282abab82d5f2a7f6e43e065c2ee9e857d4b4"
+    ]
+  },
+  {
+    "question_id": "q13",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "927f00d994c4af77fe5370c365a72cdff4a7e774b89401ffd16e7f60b0349b62",
+      "ddd444e4b14e884e93b7bc28d8021a7c8dddda0cf5e6e73dd512f74b34adcb74",
+      "26f12faa3b27ba8c3a38db69e2529685527676a2a148ebe30a3dd6ae25140530"
+    ]
+  },
+  {
+    "question_id": "q13",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "924972ba5593b50b1134f93642c8aa9fa179484dc896dd0bced3cf881ddf30fd",
+      "94bea7f5ed7e72ccc6ea9da10bd6ea398f81146b3542bad95418e8ec430bad38",
+      "fd747595f867846b28884249e831bd66b70b74e505b1e9895c61f3af92e73e78"
+    ]
+  },
+  {
+    "question_id": "q13",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "924972ba5593b50b1134f93642c8aa9fa179484dc896dd0bced3cf881ddf30fd",
+      "94bea7f5ed7e72ccc6ea9da10bd6ea398f81146b3542bad95418e8ec430bad38",
+      "fd747595f867846b28884249e831bd66b70b74e505b1e9895c61f3af92e73e78"
+    ]
+  },
+  {
+    "question_id": "q14",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "f69de233ea9d05f422bdf77f474b9a8d8ebb68424a52b46079a1af06b209a3db",
+      "9bec3eed8ae994bdd70690dd061aa1148431ec3f135e81fbe4c32ee62bab8924",
+      "b2179944abe4787bafdda11e576a5daabe6e8459cb77c5b32669d954db0349cd"
+    ]
+  },
+  {
+    "question_id": "q14",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "cedc4167885a5832bcfbcc746b2e3c05c86e64d6a9045b960156bccd70d34d59",
+      "9003f76515df8fbdaf9e61601fd1a63494266a4dbdb96f57563db8abd61be1ed",
+      "2a6dd35419fb7ed415017bc821031b47442e2cc0646a88e2620e4e069583fd49"
+    ]
+  },
+  {
+    "question_id": "q14",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "cedc4167885a5832bcfbcc746b2e3c05c86e64d6a9045b960156bccd70d34d59",
+      "9003f76515df8fbdaf9e61601fd1a63494266a4dbdb96f57563db8abd61be1ed",
+      "2a6dd35419fb7ed415017bc821031b47442e2cc0646a88e2620e4e069583fd49"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "strategy": "A",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "34561f4db5be2048c202b63f5124dd290741bca5eefa1db8146270ace097b486",
+      "81e876714af4a8818096d9da95c160181ddc4bd3c9b9851b1617984777504bdf",
+      "9e3605271c914ad7ecce228029d362b76f66f947a22b5567a929eb48983be067"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "strategy": "B",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "87532677faa42c46db5482c48fe6e0ed807300cad5ab1e992fc26545f63effe3",
+      "7eeb2faa7579cdb2621829352a49aec51b04e0b2171a1eae2bd0f08766e12d82",
+      "929090fd85654ae08bbf91a0fa6eaafb975d636a59b611fc1a3ad8c99e785fb5"
+    ]
+  },
+  {
+    "question_id": "q15",
+    "strategy": "C",
+    "grounding_0_2": null,
+    "metadata_correct_count": null,
+    "filter_compliant": null,
+    "reason": "",
+    "chunk_ids": [
+      "e7760d50f694ebb6a091d0e6ffcd44725e1b0eb2f981156353f90f62322c812f",
+      "393e24d35b65b1f3fe661501dd78a9884049423efa4208f9eaccae966d6240a9",
+      "cdb5ee1d3e69f658d1e03546f117207706175792aef75316a5c820d3aec5f819"
+    ]
+  }
+]

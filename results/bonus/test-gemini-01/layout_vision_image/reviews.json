@@ -1,0 +1,527 @@
+{
+  "bt01": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng1.1 trang48: đúng4.0% năm2010 và1.0% năm2020 tại IPL$1.90/day2011PPP; giảm3.0 điểm phần trăm. Citation đúng ô, năm, chuẩn nghèo và phép trừ.",
+    "checked_original_pages": [
+      48
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p048-table-1.1": {
+        "supported": true,
+        "reason": "Bảng1.1 trang48: đúng4.0% năm2010 và1.0% năm2020 tại IPL$1.90/day2011PPP; giảm3.0 điểm phần trăm. Citation đúng ô, năm, chuẩn nghèo và phép trừ."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "cd9d4f8899bd4cb6ab36affe29a6910941ab31594af8c782a34aeb72913155da"
+  },
+  "bt02": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "BảngA1.2.1 trang69: đúngPPP2011 revised7,528.385 và period-average exchange rate20,509.75 VND/dollar. Phân biệt đúngPPP với tỷ giá; điều kiện households/NPISH đúng hàng gốc.",
+    "checked_original_pages": [
+      69
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p069-table-A.1.2.1": {
+        "supported": true,
+        "reason": "BảngA1.2.1 trang69: đúngPPP2011 revised7,528.385 và period-average exchange rate20,509.75 VND/dollar. Phân biệt đúngPPP với tỷ giá; điều kiện households/NPISH đúng hàng gốc."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "7adea63259b209454d3cf1e17ac45242fda637c62f8692caa916cc0c6696fe2b"
+  },
+  "bt03": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng4.1 trang132: expected school years11.8->12.9, tăng1.1 năm. Đủ hai năm, đơn vị và phép tính.",
+    "checked_original_pages": [
+      132
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng4.1 trang132: expected school years11.8->12.9, tăng1.1 năm. Đủ hai năm, đơn vị và phép tính."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "81fb2ae973de10381463c9ca170babd0334063fdded34612a659e5b6fb90c0d8"
+  },
+  "bt04": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng4.2 trang137: maleHCI.65, female.73, hiệu.08 đơn vị chỉ số. Không nhầm sang phần trăm; citation đúng hàng HCI2020.",
+    "checked_original_pages": [
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Bảng4.2 trang137: maleHCI.65, female.73, hiệu.08 đơn vị chỉ số. Không nhầm sang phần trăm; citation đúng hàng HCI2020."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "9e01e746fb3ac67180c49cb1bf5912c9a3dfe986f596e0cf56ab888522c87f1f"
+  },
+  "bt05": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "BảngA5.1.1 trang170: professionals nằm ô gộp high-skilled non-manual với tertiary education/ISCED5–6. Đọc đúng phạm vi ô gộp và đủ ba ý.",
+    "checked_original_pages": [
+      170
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p170-table-A.5.1.1": {
+        "supported": true,
+        "reason": "BảngA5.1.1 trang170: professionals nằm ô gộp high-skilled non-manual với tertiary education/ISCED5–6. Đọc đúng phạm vi ô gộp và đủ ba ý."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "c896c108164f76d43edde02a2a38d96c93f10061e08bbe11cd59704df1f326ce"
+  },
+  "bt06": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng7.1 trang199: PIT94 nghìn tỷ đồng và1.7%GDP năm2018. Đúng hàng PIT, không nhầm direct taxes tổng.",
+    "checked_original_pages": [
+      199
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng7.1 trang199: PIT94 nghìn tỷ đồng và1.7%GDP năm2018. Đúng hàng PIT, không nhầm direct taxes tổng."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "7d86159bba30ffdac10047a71616ce6ce8e5d79cbeec9be28a8c25695bb45f75"
+  },
+  "bt07": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Sơ đồB2.4.1 trang96: đúng hai nhánh consumption(propensity to consume/household income per capita) và hai nhánh income(share of adults/income per adult). Câu hỏi hỏi các yếu tố, không bắt buộc viết công thức; đủ bốn yếu tố và đúng quan hệ cha/con.",
+    "checked_original_pages": [
+      96
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p096-figure-B.2.4.1": {
+        "supported": true,
+        "reason": "Sơ đồB2.4.1 trang96: đúng hai nhánh consumption(propensity to consume/household income per capita) và hai nhánh income(share of adults/income per adult). Câu hỏi hỏi các yếu tố, không bắt buộc viết công thức; đủ bốn yếu tố và đúng quan hệ cha/con."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "1da338cd2feb6895417b0f1c9c398dba7ffd8665082b347760377be958b9cc2e"
+  },
+  "bt08": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Sơ đồB4.1.1 trang135: school gồm expected years/harmonized test scores; health gồm adult survival/not-stunted rate. Đúng bốn nút lá và không đưa survival-to-five sang health.",
+    "checked_original_pages": [
+      135
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p135-figure-B.4.1.1": {
+        "supported": true,
+        "reason": "Sơ đồB4.1.1 trang135: school gồm expected years/harmonized test scores; health gồm adult survival/not-stunted rate. Đúng bốn nút lá và không đưa survival-to-five sang health."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "86806a0324bb4f7c344e5f8b1f4ba890eb77223a79d212d30900e1ee79430293"
+  },
+  "bt09": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Sơ đồB6.3.1 trang190: đúng ba nhánh assistance và ba nhánh insurance, gồm Other Programs(Supplement SI). Citation p190 định vị đúng sơ đồ; đã kiểm tra đủ sáu nhánh và cấp trực tiếp.",
+    "checked_original_pages": [
+      190
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p190": {
+        "supported": true,
+        "reason": "Sơ đồB6.3.1 trang190: đúng ba nhánh assistance và ba nhánh insurance, gồm Other Programs(Supplement SI). Citation p190 định vị đúng sơ đồ; đã kiểm tra đủ sáu nhánh và cấp trực tiếp."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "edf8ab6e7dce570f4fce593f04fe2c881bab1da144aefbb302d188d6fb1c1390"
+  },
+  "bt10": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Sơ đồB7.1.1 trang197: trừ direct taxes(PIT/property/border) để ra net market income, rồi cộng direct cash transfers để ra disposable income. Chiều mũi tên và dấu toán đều đúng.",
+    "checked_original_pages": [
+      197
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p197-figure-B.7.1.1": {
+        "supported": true,
+        "reason": "Sơ đồB7.1.1 trang197: trừ direct taxes(PIT/property/border) để ra net market income, rồi cộng direct cash transfers để ra disposable income. Chiều mũi tên và dấu toán đều đúng."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "d97b7f82c89c549d6ba7e5c8077242ba49f5b0312d73edb8e72fa07968cadb0b"
+  },
+  "bt11": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình8.1 trang225: panelc xóa coverage/missing-middle gap giữa assistance và insurance; chú thích taper assistance/subsidies away from top through tax systems. Đúng cả so sánh hai panel và annotation.",
+    "checked_original_pages": [
+      225
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p225-figure-8.1": {
+        "supported": true,
+        "reason": "Hình8.1 trang225: panelc xóa coverage/missing-middle gap giữa assistance và insurance; chú thích taper assistance/subsidies away from top through tax systems. Đúng cả so sánh hai panel và annotation."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "9e60adb72ed5bc2bc2c9d0b2022ddf19ee85a42a7454dc79e88c53362f00353e"
+  },
+  "bt12": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình2.10 trang81: family farm xanh/teal giảm khoảng34%->8%, family business cam tăng khoảng5%->32%. Chú giải, hướng, mẫu số household income và các số bổ sung đều phù hợp ảnh gốc.",
+    "checked_original_pages": [
+      81
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p081-figure-2.10": {
+        "supported": true,
+        "reason": "Hình2.10 trang81: family farm xanh/teal giảm khoảng34%->8%, family business cam tăng khoảng5%->32%. Chú giải, hướng, mẫu số household income và các số bổ sung đều phù hợp ảnh gốc."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "e7799789439e121724b5d7f0a1ca04d254eca0c402a3cd4726c9d8f8ef52e16f"
+  },
+  "bt14": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình5.4 trang157: HIC cao hơn, khoảng13–14 nghìn so với baseline10 nghìn; trong dung sai đã chốt. Đơn vị2010USD đúng trục gốc, khác nhãn mẫu2018 đã ghi erratum trước khi có output. Số13744 được nêu trong cụm ước lượng gần đường HIC, không coi là ô số chính xác; chấm theo dung sai13–15 nghìn, không suy độ chính xác đến từngUSD.",
+    "checked_original_pages": [
+      157
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p157-figure-5.4": {
+        "supported": true,
+        "reason": "Hình5.4 trang157: HIC cao hơn, khoảng13–14 nghìn so với baseline10 nghìn; trong dung sai đã chốt. Đơn vị2010USD đúng trục gốc, khác nhãn mẫu2018 đã ghi erratum trước khi có output. Số13744 được nêu trong cụm ước lượng gần đường HIC, không coi là ô số chính xác; chấm theo dung sai13–15 nghìn, không suy độ chính xác đến từngUSD."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "ace528551120e522358a8d441151fad3a35946d0c47b3369dc086477f2e18c55"
+  },
+  "bt15": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình5.7 trang159: working-age share khoảng68% năm2018 xuống64% năm2050; dự báo nét đứt, lịch sử nét liền. Đúng hướng, mốc và line style.",
+    "checked_original_pages": [
+      159
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p159-figure-5.7": {
+        "supported": true,
+        "reason": "Hình5.7 trang159: working-age share khoảng68% năm2018 xuống64% năm2050; dự báo nét đứt, lịch sử nét liền. Đúng hướng, mốc và line style."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "1f24a4fe9b3d84bf105d57a20f66182ca9c23f36cc4706268186b1b14b2cfcc3"
+  },
+  "bt16": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình6.12 trang190: Vietnam thấp nhất khoảng6%, UMIC cao nhất khoảng22%; mẫu số welfare trong lowest quintile. Đúng thứ hạng, khoảng dung sai và denominator.",
+    "checked_original_pages": [
+      190
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p190-figure-6.12": {
+        "supported": true,
+        "reason": "Hình6.12 trang190: Vietnam thấp nhất khoảng6%, UMIC cao nhất khoảng22%; mẫu số welfare trong lowest quintile. Đúng thứ hạng, khoảng dung sai và denominator."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "d4e8425c7cae695e5a6de1ef48bc41db2d223bf4d00a5e412a7273ee36cfe95c"
+  },
+  "bt17": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng4.1 trang132: VN519/EAP432, hiệu87. Bảng4.2 trang137: female524/male514, hiệu10. Đủ bốn điểm số, hai phép tính và citation đúng từng bảng.",
+    "checked_original_pages": [
+      132,
+      137
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng4.1 trang132: VN519/EAP432, hiệu87. Bảng4.2 trang137: female524/male514, hiệu10. Đủ bốn điểm số, hai phép tính và citation đúng từng bảng."
+      },
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Bảng4.1 trang132: VN519/EAP432, hiệu87. Bảng4.2 trang137: female524/male514, hiệu10. Đủ bốn điểm số, hai phép tính và citation đúng từng bảng."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "939a5c82ad24e410c9ec1e381a3a9f77f5a6539923be515247cd64e88e8bfdb0"
+  },
+  "bt18": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng7.1/7.2 trang199/200: VAT344, education220 nghìn tỷ đồng, hiệu124. Không thêm khẳng định earmarking. Citation hỗ trợ đủ hai nguồn và phép trừ.",
+    "checked_original_pages": [
+      199,
+      200
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng7.1/7.2 trang199/200: VAT344, education220 nghìn tỷ đồng, hiệu124. Không thêm khẳng định earmarking. Citation hỗ trợ đủ hai nguồn và phép trừ."
+      },
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng7.1/7.2 trang199/200: VAT344, education220 nghìn tỷ đồng, hiệu124. Không thêm khẳng định earmarking. Citation hỗ trợ đủ hai nguồn và phép trừ."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "f6f4acfb60848167676d707bf658bdb681ab6c6c64ca1de7e73624b9b4edc487"
+  },
+  "bt19": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Model trả văn bản thuần, không gọi tool finish nên agent kết thúc ValueError và không có kết quả cuối hợp lệ. Tính lỗi trong mẫu số, không dùng văn bản nháp thay kết quả. Nguồn132–133 có12.9/10.7 năm, hiệu2.2, điều chỉnh chất lượng theo test scores.",
+    "checked_original_pages": [
+      132,
+      133
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": false,
+    "trace_sha256": "ca7a319f987ea4de2a1add9eb4c219b5069450eb5ec1f91989821e8601eb4148"
+  },
+  "bt21": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Không có câu trả lời cuối hợp lệ: model dẫn p133 nhưng ảnh p133 không đang được cung cấp; cả lượt sửa vẫn cùng lỗi witness. Bản nháp21 deaths/1000 live births đúng nguồn133, nhưng không thay thế đầu ra lỗi.",
+    "checked_original_pages": [
+      133
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": false,
+    "trace_sha256": "0a21e903830d1e0a618135c4b1a2b35b38909dc4d71bfdf6c9857a90adbe8c9f"
+  },
+  "bt20": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Từ chối sai: bảng2.1 tồn tại trang75, không phải bị thiếu. Southeast tăng3,761,457 người lớn nhất; PM2.5 cao Red River Delta trang179, là vùng khác. Model không ghép đủ hai nguồn, không đạt.",
+    "checked_original_pages": [
+      75,
+      179
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": false,
+    "trace_sha256": "caac3ae857872dcb7af9c1583bf4873cabe9ab00ac52fbabc97d50da9aa9c38d"
+  },
+  "bt22": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang178: dự báo worst-case30cm năm2050 và70cm năm2100. Giữ đúng điều kiện kịch bản, hai năm và đơn vị; không nói là số quan sát.",
+    "checked_original_pages": [
+      178
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p178": {
+        "supported": true,
+        "reason": "Trang178: dự báo worst-case30cm năm2050 và70cm năm2100. Giữ đúng điều kiện kịch bản, hai năm và đơn vị; không nói là số quan sát."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "87ff50220fe0d4e1dbe26a40e1e24d6f8ed5f8513af7f0390fd63c81dd004ef0"
+  },
+  "bt23": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang199 đoạn Expenditures: loại important subnational social-assistance spending do thiếu dữ liệu; health/education gồm cả central vàlocal. Đủ hai phần được hỏi, citation đúng đoạn gốc.",
+    "checked_original_pages": [
+      199
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p199": {
+        "supported": true,
+        "reason": "Trang199 đoạn Expenditures: loại important subnational social-assistance spending do thiếu dữ liệu; health/education gồm cả central vàlocal. Đủ hai phần được hỏi, citation đúng đoạn gốc."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "5800405a7e47c433502b1d74431280ab4118ae5adfd0ba6db14f80b939306f9e"
+  },
+  "bt24": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang221 section8.2: đúng declining fertility, rising life expectancy, shrinking working-age population. Đủ ba xu hướng, không thay bằng các khái niệm khác.",
+    "checked_original_pages": [
+      221
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p221": {
+        "supported": true,
+        "reason": "Trang221 section8.2: đúng declining fertility, rising life expectancy, shrinking working-age population. Đủ ba xu hướng, không thay bằng các khái niệm khác."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "53e088ae0940f3c72a97d8c1eed36dc07b516e947f05edaf55a975416dd45d2d"
+  },
+  "bt25": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": false,
+    "reason": "Model trả văn bản thuần, không gọi tool finish nên agent kết thúc ValueError và không có kết quả cuối hợp lệ. Tính lỗi trong mẫu số, không dùng văn bản nháp thay kết quả. Audit toàn232 trang không có census2026; câu này cần abstain có cấu trúc nhưng model không hoàn tất giao thức.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": false,
+    "trace_sha256": "c15e693c9782aafaf4bb3089e4c0b70bb9e5747b2a1570f7964de7b579d7ff27"
+  },
+  "bt26": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối rõ do tài liệu không có dữ liệu/national accounts2027. Audit toàn232 trang không có2027; không dùng tỷ lệ lịch sử2018 thay quan sát2027.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": true,
+    "trace_sha256": "3dfcaf12aa41f7d1e9729bd05546ed5be3e8fdd1e968c66fe4167694dee4855d"
+  },
+  "bt27": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng respondent BONUS-HH-993577/thu nhập/trọng số mẫu không có trong tài liệu. Audit toàn232 trang không có mã này; không bịa microdata.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": true,
+    "trace_sha256": "b999848c9c0e25743de38121bd19a1a457dae46286abdd08a72737a9be52c69a"
+  },
+  "bt28": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng vì bảng4.2 không báo95%CI cho femaleHCI2020. Ảnh gốc137 không có cột khoảng tin cậy; audit confidence ở80 là ngữ cảnh business confidence, không phải HCI.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": true,
+    "trace_sha256": "7a4b4b9374dfddb3de50ec423e3c736900e45bd278f535c9fdff1b8b18448692"
+  },
+  "bt29": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng standard error không được báo ở bảng1.1. Số liên quan1.0% năm2020 trong lý do khớp bảng gốc48, không thay thế hoặc suy ra sai số chuẩn. Audit toàn232 trang không có standard error.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": true,
+    "trace_sha256": "757a7932625a673948c8401750d8e3cce6806008d54ed175941f0a5dc9c778cb"
+  },
+  "bt30": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng dữ liệu Sydney không có trong báo cáo Việt Nam. Audit toàn232 trang không cóSydney; PM2.5 của các vùng Việt Nam không được dùng thay dữ liệu được hỏi.",
+    "checked_original_pages": [],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {},
+    "source_audit": "results/bonus/test-absence-audit.json",
+    "passed": true,
+    "trace_sha256": "4503f08ff708988648d67d85bb15136fce58c6e2ef277f19a4fccd00abcf1b70"
+  },
+  "bt13": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình4.17 trang145: tuổi12 top86%/bottom30%,gap56pp; tuổi8 top78%/bottom47%,gap31pp. Trong dung sai đã chốt và đúng gap tuổi12 lớn hơn; mọi citation cùng đúng hình.",
+    "checked_original_pages": [
+      145
+    ],
+    "reviewer": "Codex: AI hỗ trợ đọc trực tiếp ảnh PDF gốc và trace; người học chưa xác nhận độc lập.",
+    "citation_checks": {
+      "p145-figure-4.17": {
+        "supported": true,
+        "reason": "Hình4.17 trang145: tuổi12 top86%/bottom30%,gap56pp; tuổi8 top78%/bottom47%,gap31pp. Trong dung sai đã chốt và đúng gap tuổi12 lớn hơn; mọi citation cùng đúng hình."
+      }
+    },
+    "source_audit": "results/bonus/test-source-audit.json",
+    "passed": true,
+    "trace_sha256": "a581a5f1801d8e1ae054b075b7786f9fc62254987706c986fffc55e378305efe"
+  }
+}

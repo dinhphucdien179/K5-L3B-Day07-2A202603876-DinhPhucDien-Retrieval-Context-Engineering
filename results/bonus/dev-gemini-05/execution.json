@@ -1,0 +1,17 @@
+{
+  "status": "interrupted_for_image_protocol_development_fix",
+  "split": "dev",
+  "workers": 2,
+  "cases_per_trial": 18,
+  "trials": [
+    "layout_text",
+    "layout_vision_crop"
+  ],
+  "recorded": 33,
+  "remaining_unrun": 3,
+  "credit_blocked": false,
+  "provider_blocked": false,
+  "elapsed_seconds_this_execution": 833.968453,
+  "elapsed_note": "Wall time through interruption bookkeeping, including waiting for in-flight cases.",
+  "reason": "Giữ toàn bộ18 câu text và các câu crop đã chạy. Dừng do lỗi giao thức witness trên dev; thử cấu hình mới chỉ gán nguồn ảnh đã được cung cấp. Chưa chạy test."
+}

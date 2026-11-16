@@ -1,0 +1,267 @@
+{
+  "checked_utc": "2026-11-16T12:04:22.262054+00:00",
+  "reviewer": "Codex: AI-assisted direct original-PDF image inspection; student verification pending.",
+  "policy": "Manual source notes, not automatic pass labels. No runtime changes or source facts supplied to the benchmark agent.",
+  "cases": {
+    "bt01": {
+      "note": "Bảng1.1: IPL4.0% năm2010,1.0% năm2020; giảm3 điểm phần trăm.",
+      "original_pages": [
+        {
+          "page": 48,
+          "path": ".cache/bonus/p048-w1600.jpg",
+          "sha256": "7edc38185538335d0d76c678ac6ff2649c9f8e11ecd6b8be81026157c11241e0"
+        }
+      ]
+    },
+    "bt02": {
+      "note": "BảngA1.2.1: PPP2011 revised7,528.385 VND/international dollar; exchange rate2011 period average20,509.75 VND/USD.",
+      "original_pages": [
+        {
+          "page": 69,
+          "path": ".cache/bonus/p069-w1600.jpg",
+          "sha256": "dc4fb76b84cd7c0839b197401b7937bb3f55c47607bb70e73e4de1ba733bfc87"
+        }
+      ]
+    },
+    "bt03": {
+      "note": "Bảng4.1: expected school years11.8->12.9, tăng1.1 năm.",
+      "original_pages": [
+        {
+          "page": 132,
+          "path": ".cache/bonus/p132-w1600.jpg",
+          "sha256": "6062839859cb9ae898cd392c7a39c7e54cf0bd320382654c1e70b161c51601a2"
+        }
+      ]
+    },
+    "bt04": {
+      "note": "Bảng4.2: female HCI2020.73, male.65, hiệu.08 điểm chỉ số.",
+      "original_pages": [
+        {
+          "page": 137,
+          "path": ".cache/bonus/p137-w1600.jpg",
+          "sha256": "591b2667ee3e118eefdd412c856bf0330b6456e17b5eba9aa8f2aed28ed95e2d"
+        }
+      ]
+    },
+    "bt05": {
+      "note": "BảngA5.1.1 có ô gộp: professionals thuộc high-skilled non-manual, tertiary ISCED5–6.",
+      "original_pages": [
+        {
+          "page": 170,
+          "path": ".cache/bonus/p170-w1600.jpg",
+          "sha256": "3231a9dd0ab85e9bc81f7ba95e98f5e9812e8603823f49cceaab4e765d199334"
+        }
+      ]
+    },
+    "bt06": {
+      "note": "Bảng7.1: PIT94 nghìn tỷ đồng,1.7%GDP.",
+      "original_pages": [
+        {
+          "page": 199,
+          "path": ".cache/bonus/p199-w1600.jpg",
+          "sha256": "2d90d9db8438277974269996d2476d28539657191708b46291f8e07adff961ce"
+        }
+      ]
+    },
+    "bt07": {
+      "note": "Sơ đồB2.4.1: consumption per capita là propensity to consume×household income per capita; income per capita là share of adults×income per adult.",
+      "original_pages": [
+        {
+          "page": 96,
+          "path": ".cache/bonus/p096-w1600.jpg",
+          "sha256": "c35633904828f3b38d4e5f24c73c31cb8e90f175e7743bc9a8b484d2a5ee7429"
+        }
+      ]
+    },
+    "bt08": {
+      "note": "Sơ đồB4.1.1: school gồm expected years/harmonized scores; health gồm adult survival/not stunted.",
+      "original_pages": [
+        {
+          "page": 135,
+          "path": ".cache/bonus/p135-w1600.jpg",
+          "sha256": "5382022066963b65b054a45f30d16786ae13ba4cf2f5b1f7664179034d23de5f"
+        }
+      ]
+    },
+    "bt09": {
+      "note": "Sơ đồB6.3.1: assistance gồm regular allowances, social care centers/care services, emergency; insurance gồm unemployment, compulsory/voluntary, other programs(supplement SI).",
+      "original_pages": [
+        {
+          "page": 190,
+          "path": ".cache/bonus/p190-w1600.jpg",
+          "sha256": "3790836efdcd39e0a8be99444dcd624e8de966e4eddaf72654d8b00914104594"
+        }
+      ]
+    },
+    "bt10": {
+      "note": "Sơ đồB7.1.1: trừ direct taxes(PIT/property/border) rồi cộng direct cash transfers; không đảo cộng/trừ.",
+      "original_pages": [
+        {
+          "page": 197,
+          "path": ".cache/bonus/p197-w1600.jpg",
+          "sha256": "61b566e3fd970566fd799903943e14823280fec875bf5c64f0962e6614c92055"
+        }
+      ]
+    },
+    "bt11": {
+      "note": "Hình8.1: c xóa khoảng trống missing middle/coverage của a; chú thích taper assistance/subsidies away from top through tax systems.",
+      "original_pages": [
+        {
+          "page": 225,
+          "path": ".cache/bonus/p225-w1600.jpg",
+          "sha256": "9dbbfc62d61497ee35f9678ea7324fc59646d40d9e2b98c6440365007f355370"
+        }
+      ]
+    },
+    "bt12": {
+      "note": "Hình2.10: teal family farm giảm từ nghèo->giàu, orange family business tăng; trục là share household income%.",
+      "original_pages": [
+        {
+          "page": 81,
+          "path": ".cache/bonus/p081-w1600.jpg",
+          "sha256": "a9091e0c476fc667df61de55a47518e4f7d7732eb9aae266d06cf4453adbc2fc"
+        }
+      ]
+    },
+    "bt13": {
+      "note": "Hình4.17: tuổi12 top khoảng86–87%, bottom30%, gap56–57pp; tuổi8 top77%, bottom47%,gap30pp. Dung sai gold chấp nhận85/30/55.",
+      "original_pages": [
+        {
+          "page": 145,
+          "path": ".cache/bonus/p145-w1600.jpg",
+          "sha256": "4695be5a1b4a08ff5a169f113e344c393ac565872fe76bdb4e0571cc7739d50f"
+        }
+      ]
+    },
+    "bt14": {
+      "note": "Hình5.4: 2045 baseline xấp xỉ10k, HIC xấp xỉ14k USD; TRỤC GHI2010USD, không phải2018. Ghi erratum riêng trước khi có bt14 output; không đổi frozen test/pipeline.",
+      "original_pages": [
+        {
+          "page": 157,
+          "path": ".cache/bonus/p157-w1600.jpg",
+          "sha256": "8c5564e70f68d71936080f52148b91a337a8d6927f4d3f9de84555ca9f901a88"
+        }
+      ]
+    },
+    "bt15": {
+      "note": "Hình5.7: working-age teal giảm từ khoảng68% năm2018 tới64% năm2050; projection nét đứt, historical nét liền.",
+      "original_pages": [
+        {
+          "page": 159,
+          "path": ".cache/bonus/p159-w1600.jpg",
+          "sha256": "4cd41631dbe16e75c0367efe7a175954f0e1af7b311565c253b319965f21285d"
+        }
+      ]
+    },
+    "bt16": {
+      "note": "Hình6.12: Vietnam thấp nhất khoảng6%, UMIC cao nhất khoảng22%, mẫu số welfare của lowest quintile.",
+      "original_pages": [
+        {
+          "page": 190,
+          "path": ".cache/bonus/p190-w1600.jpg",
+          "sha256": "3790836efdcd39e0a8be99444dcd624e8de966e4eddaf72654d8b00914104594"
+        }
+      ]
+    },
+    "bt17": {
+      "note": "Bảng4.1: VN519/EAP432, hiệu87. Bảng4.2: female524/male514, hiệu10 test-score points.",
+      "original_pages": [
+        {
+          "page": 132,
+          "path": ".cache/bonus/p132-w1600.jpg",
+          "sha256": "6062839859cb9ae898cd392c7a39c7e54cf0bd320382654c1e70b161c51601a2"
+        },
+        {
+          "page": 137,
+          "path": ".cache/bonus/p137-w1600.jpg",
+          "sha256": "591b2667ee3e118eefdd412c856bf0330b6456e17b5eba9aa8f2aed28ed95e2d"
+        }
+      ]
+    },
+    "bt18": {
+      "note": "Bảng7.1 VAT344 vs bảng7.2 Education220 nghìn tỷ; hiệu124. Không có earmarking từ hai số này.",
+      "original_pages": [
+        {
+          "page": 199,
+          "path": ".cache/bonus/p199-w1600.jpg",
+          "sha256": "2d90d9db8438277974269996d2476d28539657191708b46291f8e07adff961ce"
+        },
+        {
+          "page": 200,
+          "path": ".cache/bonus/p200-w1600.jpg",
+          "sha256": "a5d062f0bf69ad34fc8e4d0807dec418bd149083ecb54cd5b3b6531347e3157b"
+        }
+      ]
+    },
+    "bt19": {
+      "note": "Trang132: expected12.9, adjusted10.7. Trang133 tiếp câu và giải thích quantity được điều chỉnh chất lượng theo test scores. Hiệu2.2 năm. Dữ liệu số chủ yếu nằm132, phần giải thích là đoạn tiếp qua133; nguồn liên trang liền nhau, không hai tài liệu độc lập.",
+      "original_pages": [
+        {
+          "page": 132,
+          "path": ".cache/bonus/p132-w1600.jpg",
+          "sha256": "6062839859cb9ae898cd392c7a39c7e54cf0bd320382654c1e70b161c51601a2"
+        },
+        {
+          "page": 133,
+          "path": ".cache/bonus/p133-w1600.jpg",
+          "sha256": "67d9b322a175f2b247c8f80561a32cdae524d06b20a6a4afcce07966a4e2407a"
+        }
+      ]
+    },
+    "bt20": {
+      "note": "Bảng2.1: Southeast tăng17,828,818−14,067,361=3,761,457 lớn nhất. Hình6.5: PM2.5 cao Red River Delta; hai vùng khác nhau.",
+      "original_pages": [
+        {
+          "page": 75,
+          "path": ".cache/bonus/p075-w1600.jpg",
+          "sha256": "feb2f6662c13e0065674db9145ed5e1151d74497109cac538e5d4e36d58b8255"
+        },
+        {
+          "page": 179,
+          "path": ".cache/bonus/p179-w1600.jpg",
+          "sha256": "dc6943bbb28c997331f591bd1a9bdbaff9de9311684f7f673c56517032cec7c1"
+        }
+      ]
+    },
+    "bt21": {
+      "note": "Trang133: under-five mortality2020 là21 deaths/1000 live births, không phải21%.",
+      "original_pages": [
+        {
+          "page": 133,
+          "path": ".cache/bonus/p133-w1600.jpg",
+          "sha256": "67d9b322a175f2b247c8f80561a32cdae524d06b20a6a4afcce07966a4e2407a"
+        }
+      ]
+    },
+    "bt22": {
+      "note": "Trang178: worst-case projected sea-level rise30cm2050,70cm2100; không phải quan sát.",
+      "original_pages": [
+        {
+          "page": 178,
+          "path": ".cache/bonus/p178-w1600.jpg",
+          "sha256": "873cf5a026016eab07553591606b8a844b5d7d6c75ea5d564d97b6436b7171e1"
+        }
+      ]
+    },
+    "bt23": {
+      "note": "Trang199: bỏ important subnational social assistance do thiếu dữ liệu, health/education gồm central+local.",
+      "original_pages": [
+        {
+          "page": 199,
+          "path": ".cache/bonus/p199-w1600.jpg",
+          "sha256": "2d90d9db8438277974269996d2476d28539657191708b46291f8e07adff961ce"
+        }
+      ]
+    },
+    "bt24": {
+      "note": "Trang221: declining fertility, rising life expectancy, shrinking working-age population.",
+      "original_pages": [
+        {
+          "page": 221,
+          "path": ".cache/bonus/p221-w1600.jpg",
+          "sha256": "051849f50635f03786947f5dcc39ba77dc8e92e9228d92c31751c0c437b9ec07"
+        }
+      ]
+    }
+  }
+}

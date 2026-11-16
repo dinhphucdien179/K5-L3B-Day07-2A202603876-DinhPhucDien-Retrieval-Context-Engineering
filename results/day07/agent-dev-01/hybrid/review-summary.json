@@ -1,0 +1,52 @@
+{
+  "annotation": "Explicit review labels; inspect reviewer identity and reasons. AI-assisted review is not independent human grading.",
+  "cases": 17,
+  "errors": 1,
+  "grounded_answer": {
+    "counts": {
+      "0": 1,
+      "1": 2,
+      "2": 11
+    },
+    "N": 14,
+    "mean_out_of_2": 1.7142857142857142
+  },
+  "context_grade": {
+    "counts": {
+      "0": 0,
+      "1": 3,
+      "2": 11
+    },
+    "N": 14
+  },
+  "citation_validity": {
+    "n": 22,
+    "N": 23,
+    "rate": 0.9565217391304348
+  },
+  "answer_citation_coverage": {
+    "n": 14,
+    "N": 14,
+    "rate": 1.0
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2,
+    "rate": 1.0
+  },
+  "false_abstention": {
+    "n": 0,
+    "N": 14,
+    "rate": 0.0
+  },
+  "tool_use": {
+    "n": 16,
+    "N": 16,
+    "rate": 1.0
+  },
+  "search_call_distribution": {
+    "1": 14,
+    "2": 1,
+    "3": 1
+  }
+}

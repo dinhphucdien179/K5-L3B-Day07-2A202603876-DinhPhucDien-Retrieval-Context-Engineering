@@ -1,0 +1,26 @@
+{
+  "verified_utc": "2026-11-16T15:41:48.391663+00:00",
+  "scope_pages": 232,
+  "source_image_pages_checked": [
+    84,
+    96,
+    179,
+    222,
+    225
+  ],
+  "keyword_matches": {
+    "p-value": [],
+    "covariance": [],
+    "correlation matrix": [],
+    "source code": [],
+    "executable": [],
+    "latitude": [],
+    "longitude": [],
+    "GPS": [],
+    "disability-adjusted": [],
+    "DALY": [],
+    "deadline": []
+  },
+  "reviewer": "Codex AI-assisted whole-corpus search and direct source image inspection; student independent review pending",
+  "note": "Absence of a keyword alone is insufficient. Original diagram/table/text checked for the requested causal p-value,covariance matrix,executable software,individual-household coordinates,attributable district DALYs and statutory day/month/year deadline. None provided. No new test outputs used to alter gold."
+}

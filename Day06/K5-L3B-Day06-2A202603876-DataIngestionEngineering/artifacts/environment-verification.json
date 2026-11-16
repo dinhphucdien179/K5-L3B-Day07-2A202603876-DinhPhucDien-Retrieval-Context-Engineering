@@ -1,0 +1,109 @@
+{
+  "verified_at": "2026-11-14T11:08:09.751311+00:00",
+  "python": "3.12.13",
+  "environment": "venv",
+  "environment_path": ".cache/verification/venv",
+  "system_site_packages": false,
+  "inherited_conda_variables": false,
+  "installation": {
+    "core": "passed",
+    "cpu_torch": "passed",
+    "embedding": "passed",
+    "dev": "passed"
+  },
+  "packages": {
+    "numpy": "2.5.4",
+    "psycopg": "3.3.8",
+    "pypdf": "6.21.4",
+    "python-dotenv": "1.2.4",
+    "requests": "2.34.2",
+    "pgvector": "0.4.2",
+    "lxml": "6.1.3",
+    "torch": "2.15.0+cpu",
+    "sentence-transformers": "5.7.0",
+    "transformers": "5.23.0",
+    "pytest": "9.2.0"
+  },
+  "pip_check": {
+    "status": "passed",
+    "output": "No broken requirements found."
+  },
+  "embedding_imports": {
+    "status": "passed",
+    "output": "Embedding imports OK"
+  },
+  "preflight": {
+    "status": "passed",
+    "artifacts": "results/20261114T110808.421341Z-preflight"
+  },
+  "unit_tests": {
+    "tests": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1,
+    "passed": 43
+  },
+  "postgresql_integration": {
+    "status": "passed",
+    "tests": 44,
+    "passed": 44,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "report": "results/engineering-tests.xml",
+    "store": "PostgreSQL 16.16 + pgvector 0.7.4",
+    "environment": "venv"
+  },
+  "docker_integration": {
+    "status": "passed",
+    "verification": "artifacts/docker-verification.json",
+    "report": "results/docker-tests.xml",
+    "tests_passed": 44,
+    "skipped": 0
+  },
+  "commands": [
+    {
+      "cwd": ".",
+      "command": "python3.12 -m venv .venv"
+    },
+    {
+      "cwd": ".",
+      "command": "source .venv/bin/activate"
+    },
+    {
+      "cwd": ".",
+      "command": "python -m pip install -r starter/requirements.txt -r starter/requirements-dev.txt"
+    },
+    {
+      "cwd": ".",
+      "command": "python -m pip install torch==2.15.0+cpu --index-url https://download.pytorch.org/whl/cpu"
+    },
+    {
+      "cwd": ".",
+      "command": "python -m pip install -r starter/requirements-embedding.txt"
+    },
+    {
+      "cwd": ".",
+      "command": "python -m pip check"
+    },
+    {
+      "cwd": "starter",
+      "command": "python -m src.run preflight"
+    },
+    {
+      "cwd": ".",
+      "command": "python -m pytest -q"
+    }
+  ],
+  "model_database_smoke": {
+    "status": "passed",
+    "artifacts": "results/20261114T111039.898163Z-model-smoke",
+    "scope": "Real local model, exact cosine SQL comparison, metadata filtering and persistence across connections; fixture sentences, not corpus retrieval scores."
+  },
+  "corpus_validation": {
+    "status": "passed",
+    "artifacts": "results/20261114T111053.796163Z-validate",
+    "source_units": 39,
+    "characters": 119228
+  }
+}

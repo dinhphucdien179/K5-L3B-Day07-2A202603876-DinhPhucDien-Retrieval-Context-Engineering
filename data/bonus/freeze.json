@@ -1,0 +1,29 @@
+{
+  "created_utc": "2026-11-16T05:06:46.342945+00:00",
+  "dev_sha256": "e634460cad81c5070dd63958ae41a8b02967c833ac0db964b3a613a665dcfd2a",
+  "test_sha256": "c6b67f3d6ac71218895f947f3e1082ef4843e202e2564f6e5b0c2f12cb91521e",
+  "corpus_sha256": "505db46093664d45919a7e0e0e15b26e8559ed12e2212fc1baf00ea992e1b9a1",
+  "counts": {
+    "dev": {
+      "table": 3,
+      "diagram": 3,
+      "chart": 3,
+      "multi_hop": 3,
+      "text": 3,
+      "unanswerable": 3
+    },
+    "test": {
+      "table": 6,
+      "diagram": 5,
+      "chart": 5,
+      "multi_hop": 4,
+      "text": 4,
+      "unanswerable": 6
+    }
+  },
+  "policy": "Authored/frozen before agent experiments. Gold, group and expected answers never enter runtime. Select only on dev; test is single final evaluation, errors remain failures.",
+  "limits": "Document-specific benchmark, many explicit Table/Figure locators; not an open-domain generalization claim. Dev maps count as substantive images. Test diagram group has five distinct conceptual diagrams.",
+  "catalog_amendment_sha256": "dd03b9e1a41e9e4da11b10c0dc3ff99b498e12bae0c9d6c572472caf01fda521",
+  "dev_label_correction_sha256": "a48cb88a82fb070f1f95fd1734ed9f465dd438dfb5d542faf54e0b81fb21b8f4",
+  "test_label_correction_sha256": "6aad71c43bab71b12639f4369816cac275006295c07fb9e417d08deb6b7ce4de"
+}

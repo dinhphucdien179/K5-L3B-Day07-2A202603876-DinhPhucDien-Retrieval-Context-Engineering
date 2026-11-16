@@ -1,0 +1,12 @@
+{
+  "source_units": 39,
+  "characters": 119228,
+  "splits": {
+    "dev": 15,
+    "test": 5
+  },
+  "filter_splits": {
+    "dev": 3,
+    "test": 1
+  }
+}

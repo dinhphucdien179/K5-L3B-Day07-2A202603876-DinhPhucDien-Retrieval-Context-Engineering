@@ -1,0 +1,134 @@
+{
+  "format": "repository-relative artifact paths",
+  "transformations": [
+    "Absolute worktree paths converted to paths relative to repository root.",
+    "Interpreter installation path and environment label replaced with Python version and environment type.",
+    "Checksum references rebound to the byte representation of the portable artifacts.",
+    "Machine hostname omitted from optional JUnit metadata; test counts, outcomes and timings retained."
+  ],
+  "unchanged": [
+    "corpus text and source metadata",
+    "questions, expected answers, evidence and source offsets",
+    "model, revision, chunking and metric definitions",
+    "retrieved chunk IDs, ranks, text, vectors and scores",
+    "dev selection and original freeze timestamp"
+  ],
+  "files": [
+    {
+      "path": "results/benchmark-summary.json",
+      "original_sha256": "7d7223de401b03934f4f1061c4011b5cafb707f256e7e7f3c470d3f47cf52c71",
+      "portable_sha256": "3fec4bfc9592d7de96e8cc582a886421d4df4ab18ce0c3be7f42b65a59218688"
+    },
+    {
+      "path": "results/dev-selection.json",
+      "original_sha256": "c4aeb4f152ba5fe8b74433d5abaf68b3551d1affa482bde1f9c021af95401f7e",
+      "portable_sha256": "cc65282469429d680426f1601c478de3febcb387ce8a512fb42f31a2565c96e9"
+    },
+    {
+      "path": "results/20261114T043350.514983Z-model-smoke/run.json",
+      "original_sha256": "d5bb1bb06b4505feaeb20226b9c343f7d06bc20050335317af3e92c7f6881cc6",
+      "portable_sha256": "42908c71c37b96cd9441b518aee6ce74e31c96550f29f576f69eb8d60ca744fd"
+    },
+    {
+      "path": "results/20261114T060752.316189Z-prepare-worldbank/preparation.json",
+      "original_sha256": "364aba57e9166d43d9bc6ae6bd0cc7922dd0b00e6d877263f31e7d653047c905",
+      "portable_sha256": "6d2238e25697b9afb5bf9b22f90dcd983fbc2e4dddc941626cf18f41d224917b"
+    },
+    {
+      "path": "results/20261114T060752.316189Z-prepare-worldbank/run.json",
+      "original_sha256": "de54b94e3875c6f2942b6e6288826e7bc37c39e3fe3530f8e7446bd7410606aa",
+      "portable_sha256": "c7c141c7f7fe20f1c82c4ec34ece60b2eb43534fcdeed1d88e1fad169199a7df"
+    },
+    {
+      "path": "results/20261114T060802.237616Z-fetch/fetch-manifest.json",
+      "original_sha256": "e714ded70d5ce887e9b9b0743a3b1a000aeb0bbca34d13cc1f8f2043b996eb65",
+      "portable_sha256": "7de85aa0790bce830d8067ef6d461cf75bbad3e7db7fd0d5fc5d94b31a44991c"
+    },
+    {
+      "path": "results/20261114T060802.237616Z-fetch/run.json",
+      "original_sha256": "f91f1cde766bffc4a16ea4701e69fd59f39cd47a1c6a95296d3668a4777bddc2",
+      "portable_sha256": "071fcc48829b63553a1d5d46eb08cf1fe52337a33db5fbb8638730841e34b2e0"
+    },
+    {
+      "path": "results/20261114T060802.237616Z-fetch/status.json",
+      "original_sha256": "616436ad014aa3eb2db836bb30cedf9141db6b79c7a74f20012f7327dd68c044",
+      "portable_sha256": "1c7cc08604e53e0be23fb85248a39b0d141c953b6f69d4f7e2cee87f12bb7c98"
+    },
+    {
+      "path": "results/20261114T061708.425490Z-validate/run.json",
+      "original_sha256": "e07c1fffc411983ddd5e3579317b3b59625278ef172f300e5220d6092e3b3659",
+      "portable_sha256": "5be6d756a8269a2a9dc2ff50941c8e259d62e0ad81adf5335ff0ef325607693d"
+    },
+    {
+      "path": "results/20261114T061734.896134Z-ingest/run.json",
+      "original_sha256": "c356e11b5c5cd005ffb23dc983dd9b9736e89921cccff75fd3deccdb9be2f942",
+      "portable_sha256": "9b905aa2cf50646b5954bf50e0c55d059aeba4b60456574196730546b7547f16"
+    },
+    {
+      "path": "results/20261114T061838.368412Z-evaluate/run.json",
+      "original_sha256": "053750cf6a531e6d4631eb1b1389068ae8244532e79b73842313e27b95cf25bc",
+      "portable_sha256": "264caca143c3560042f2177636a2f5c50b8fa7260c34a3565492ebded227b090"
+    },
+    {
+      "path": "results/20261114T062008.998642Z-evaluate/run.json",
+      "original_sha256": "9c714f43ef3372c26d62b55b5c93394af6bc62fddb283258ccfcde7b99bb3e60",
+      "portable_sha256": "2f49f4a29ffbd18ff032b06c32a93ebce83c4844ffe46e7807d75208bf88e96b"
+    },
+    {
+      "path": "results/20261114T104530.925117Z-validate/run.json",
+      "original_sha256": "75e76b7688269ba54e482726fb50de6cf1457f5484f6cc1ac1fbfb390f74d6c1",
+      "portable_sha256": "fede1e4da31ba25651622b5593dfde964ab54b33740ac43b90886a213ba867e4"
+    },
+    {
+      "path": "results/manual-review/coherence-summary.json",
+      "original_sha256": "e8403e70723281c50f3be857dcdc6cfd6207cbefa49653fa681ea91418176594",
+      "portable_sha256": "cbcc528ebd70f111f9a56adbd3169c403ec9d072d21705104c6cc969762721f9"
+    },
+    {
+      "path": "results/manual-review/coherence-unscored.json",
+      "original_sha256": "d86ddbdf32d8f3a00ca3ef92038db34bed65cddb03f2ba3edff1f1e1aff84530",
+      "portable_sha256": "27584b6513a630d54380047d8b8a8952660b70dfb08ae32598371e7259745fdb"
+    },
+    {
+      "path": "results/manual-review/coherence.json",
+      "original_sha256": "736aaac0f5c51861ce7178a54e95aeb4216229f3216ca14f1c8ab27d7b7973af",
+      "portable_sha256": "6ff95a9571aae7e41abe5b0c76968d522f7aed2988729a6bee9fd78076716ce3"
+    },
+    {
+      "path": "results/manual-review/test-metadata-audit.json",
+      "original_sha256": "8037235bc9e46dbeb3addb9facf69298362768a1f5078ad6f805346c40a4289b",
+      "portable_sha256": "7b913df07644d4537866c20fb03dda5c18a7242c5d2d7da130604894305134c3"
+    },
+    {
+      "path": "results/manual-review/test-review-baseline.json",
+      "original_sha256": "ec9cb72a021e569c57f761ff3fc6178ddcfe9b1611e995233170583b9902996b",
+      "portable_sha256": "e5da4ebc1cf09e0520d875e327830d90cbf8d3d82f1cbdd7d2ae33859122edeb"
+    },
+    {
+      "path": "results/manual-review/test-review-summary.json",
+      "original_sha256": "c528a4e720bc8ff2e26df69cc07c86aad4fa6b28b7c54823c5adb4b041e7c92b",
+      "portable_sha256": "c2ae6546c1ec12b41785fe7a243d1f55841f1c4b9fe953c8672aa3198ffab557"
+    },
+    {
+      "path": "results/manual-review/test-review-verification.json",
+      "original_sha256": "addedd5167a41aaafba5ef0d955c7f3712c5b414ddd74cdf23ad7eb57da95ac3",
+      "portable_sha256": "197c9fd7b8583aa1aff241611eaad43e75fd8c5d63ea500a41c70b3956577dc4"
+    },
+    {
+      "path": "results/worldbank-fetch-probe/result.json",
+      "original_sha256": "d120c17b631da147ed19ad8146011f98ea38abdb6bc572bd555015a0a58bcfa2",
+      "portable_sha256": "37f0fd821cef72b54c71e710be758bef04072683c53815f5c4de986b4f174bc3"
+    },
+    {
+      "path": "benchmark/freeze.json",
+      "original_sha256": "9814c2ce00b01101f5cdfb6e21afb2e55bd62a1237b60c49b28a1bb8a348dfa9",
+      "portable_sha256": "a902f31846fe90480f399a58178c3b259bb91dbf73b83c9df5b4dce899a67098"
+    },
+    {
+      "path": "results/engineering-tests.xml",
+      "original_sha256": "b4703f79bac7e24d0162a63fae6238c586cf4918d642c5d19a3b293a558e3433",
+      "portable_sha256": "7107342b820cf5551a0b7b1fa92d9618088b97cf66aaefc2e14d49c9fd4d5812"
+    }
+  ],
+  "scope": "Hash pairs identify the formatting-only export. Later environment and metadata verification runs have separate artifacts."
+}

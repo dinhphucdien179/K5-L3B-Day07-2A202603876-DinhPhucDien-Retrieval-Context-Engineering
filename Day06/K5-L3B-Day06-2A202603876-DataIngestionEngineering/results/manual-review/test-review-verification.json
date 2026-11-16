@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-11-14T12:13:49.159495+00:00",
+  "python": "3.12.13",
+  "environment": "venv",
+  "artifact_consistency": {
+    "mode": "check",
+    "cases": 15,
+    "metadata": 45,
+    "grounding_means": {
+      "A": 1.2,
+      "B": 1.6,
+      "C": 1.6
+    },
+    "protected_files_unchanged": 14
+  },
+  "reviewed_output_overwrite_protection": {
+    "rejected": true,
+    "bytes_unchanged": true
+  },
+  "metadata_records": 45,
+  "metadata_correct": 45,
+  "scored_cases": 15,
+  "grounding_means": {
+    "A": 1.2,
+    "B": 1.6,
+    "C": 1.6
+  },
+  "filter_scope": {
+    "A": "N/A",
+    "B": "N/A",
+    "C": "1/1"
+  },
+  "source_validation": "results/20261114T111053.796163Z-validate",
+  "review_artifact_sha256": {
+    "results/20261114T062008.998642Z-evaluate/test-manual-audit.json": "5ad34fb61184f6875a7b5637548fa52a2f7fc283d46f8d87de58846b133210c4",
+    "results/manual-review/test-audit-unscored.json": "7f50fc1560e3cd323db0ae2185c4f44f7971946218620cd078172e340d88f1ce",
+    "results/manual-review/test-grounding.json": "a3210336505d0fa61ae99f56729264a5d927f7767125b1aa90209d42d584cf63",
+    "results/manual-review/test-review-summary.json": "009b1992addfe052855307241837d3b6e7a8b15b240e39db8ac10fd4bee0a3c5"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "trial": "dense_baseline",
+    "split": "test",
+    "cases": 7,
+    "hit1": {
+      "n": 2,
+      "N": 5,
+      "rate": 0.4
+    },
+    "hit3": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    },
+    "context_evidence": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    },
+    "errors": 0,
+    "total_seconds": 69.9103970690021,
+    "api_cost_usd": 0.0044682,
+    "original_hit1": {
+      "n": 2,
+      "N": 5,
+      "rate": 0.4
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    }
+  },
+  {
+    "trial": "hybrid_neighbors1",
+    "split": "test",
+    "cases": 7,
+    "hit1": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    },
+    "hit3": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    },
+    "context_evidence": {
+      "n": 5,
+      "N": 5,
+      "rate": 1.0
+    },
+    "errors": 0,
+    "total_seconds": 365.9211771909995,
+    "api_cost_usd": 0.00719955,
+    "original_hit1": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    },
+    "original_hit3": {
+      "n": 3,
+      "N": 5,
+      "rate": 0.6
+    }
+  }
+]

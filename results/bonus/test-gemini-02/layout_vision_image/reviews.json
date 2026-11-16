@@ -1,0 +1,532 @@
+{
+  "v2t01": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.1, trang 48: đúng UMIC $5.50/ngày PPP2011, 40.8% năm 2012 xuống 23.4% năm 2018; giảm 17.4 điểm phần trăm. Đúng hai ô, chuẩn nghèo và phép trừ.",
+    "checked_original_pages": [
+      48
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p048-table-1.1": {
+        "supported": true,
+        "reason": "Bảng 1.1, trang 48: đúng UMIC $5.50/ngày PPP2011, 40.8% năm 2012 xuống 23.4% năm 2018; giảm 17.4 điểm phần trăm. Đúng hai ô, chuẩn nghèo và phép trừ."
+      }
+    },
+    "trace_sha256": "15158e431b8f9d4c4fa44700a11fc4df2c25aece14522d4e3c1e9237d7ca6b7d",
+    "passed": true
+  },
+  "v2t02": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.3, trang 49, panel B hàng IPL: 5.38 năm 2010 và 1.44 năm 2020; giảm 3.94 nghìn tỷ VND giá 2020 hằng năm. Header và ô gốc hỗ trợ đủ điều kiện/đơn vị.",
+    "checked_original_pages": [
+      49
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p049-table-1.3": {
+        "supported": true,
+        "reason": "Bảng 1.3, trang 49, panel B hàng IPL: 5.38 năm 2010 và 1.44 năm 2020; giảm 3.94 nghìn tỷ VND giá 2020 hằng năm. Header và ô gốc hỗ trợ đủ điều kiện/đơn vị."
+      }
+    },
+    "trace_sha256": "9e662e20f2fec6786c18ea0f5d3db357551ba691c6f2477f76410d4cb3396e49",
+    "passed": true
+  },
+  "v2t03": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 2.1, trang 75: Central Highlands có 5,115,135 người năm 2009 và 5,842,605 năm 2019; tăng 727,470. Đúng vùng, hai số dân và phép tính.",
+    "checked_original_pages": [
+      75
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p075-table-2.1": {
+        "supported": true,
+        "reason": "Bảng 2.1, trang 75: Central Highlands có 5,115,135 người năm 2009 và 5,842,605 năm 2019; tăng 727,470. Đúng vùng, hai số dân và phép tính."
+      }
+    },
+    "trace_sha256": "5aa33ad0a760fa05b7ae73dd607b14515851ae7686fd4ef998f937b68c52f688",
+    "passed": true
+  },
+  "v2t04": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 4.1, trang 132: fraction trẻ dưới năm tuổi không thấp còi của Việt Nam 0.773 xuống 0.762; giảm 0.011 xác suất = 1.1 điểm phần trăm. Không nhầm với mức giảm 1.1% tương đối.",
+    "checked_original_pages": [
+      132
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng 4.1, trang 132: fraction trẻ dưới năm tuổi không thấp còi của Việt Nam 0.773 xuống 0.762; giảm 0.011 xác suất = 1.1 điểm phần trăm. Không nhầm với mức giảm 1.1% tương đối."
+      }
+    },
+    "trace_sha256": "bac97bb2a3e82369fe41a3e0f50f5ae1b2ec89afaf779b87c6778d1bac7d59c7",
+    "passed": true
+  },
+  "v2t05": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.1, trang 199: CIT thuộc oil revenues 49 và CIT thuộc non-oil direct taxes 202 nghìn tỷ đồng năm 2018; chênh 153. Đã đối chiếu hai cấp hàng tránh cộng nhầm CIT.",
+    "checked_original_pages": [
+      199
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng 7.1, trang 199: CIT thuộc oil revenues 49 và CIT thuộc non-oil direct taxes 202 nghìn tỷ đồng năm 2018; chênh 153. Đã đối chiếu hai cấp hàng tránh cộng nhầm CIT."
+      }
+    },
+    "trace_sha256": "3c656a7dc64b6ba9b936d493b74048a1469b2316b6d5891630aebb5e2dc795de",
+    "passed": true
+  },
+  "v2t06": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.2, trang 200: primary 63 nghìn tỷ đồng/1.1% GDP, lower secondary 49/0.9% GDP năm 2018; primary cao hơn 14. Ý bổ sung chênh 0.2 điểm phần trăm GDP cũng đúng.",
+    "checked_original_pages": [
+      200
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.2, trang 200: primary 63 nghìn tỷ đồng/1.1% GDP, lower secondary 49/0.9% GDP năm 2018; primary cao hơn 14. Ý bổ sung chênh 0.2 điểm phần trăm GDP cũng đúng."
+      }
+    },
+    "trace_sha256": "85f55e1d4897a5d5b2ede48ffb2c5c66ae62add0f256560f3e5fe64537132900",
+    "passed": true
+  },
+  "v2t07": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình B.2.4.1, trang 96: income per adult tách thành labor/non-labor income per adult; labor income per adult tách thành share of occupied adults và labor income per occupied adult. Đã đọc các đường nối vàng/xanh ở bên phải, không chỉ danh sách text.",
+    "checked_original_pages": [
+      96
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p096-figure-B.2.4.1": {
+        "supported": true,
+        "reason": "Hình B.2.4.1, trang 96: income per adult tách thành labor/non-labor income per adult; labor income per adult tách thành share of occupied adults và labor income per occupied adult. Đã đọc các đường nối vàng/xanh ở bên phải, không chỉ danh sách text."
+      }
+    },
+    "trace_sha256": "75ec1830e562e2694867fb0c08dee09c4aefa622998c6f60f749289e0c1c629a",
+    "passed": true
+  },
+  "v2t08": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình B.4.1.1, trang 135: đúng ba nhánh productivity trực tiếp từ HCI root; nhánh Survival nối duy nhất Survival to age5. Không nhầm adult survival ở nhánh Health.",
+    "checked_original_pages": [
+      135
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p135-figure-B.4.1.1": {
+        "supported": true,
+        "reason": "Hình B.4.1.1, trang 135: đúng ba nhánh productivity trực tiếp từ HCI root; nhánh Survival nối duy nhất Survival to age5. Không nhầm adult survival ở nhánh Health."
+      }
+    },
+    "trace_sha256": "5e571eb784d770f5ea14e1953be66cfe7c892b7412db70269a8ad81197013e95",
+    "passed": true
+  },
+  "v2t09": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Ảnh toàn trang 190: đúng đủ năm lá dưới Minimum Basic Social Services: Housing,Health Insurance and Health,Education,Clean Water,Information Access. Citation p190 hỗ trợ đúng nhánh xám bên phải, không lẫn các lá Social Insurance.",
+    "checked_original_pages": [
+      190
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p190": {
+        "supported": true,
+        "reason": "Ảnh toàn trang 190: đúng đủ năm lá dưới Minimum Basic Social Services: Housing,Health Insurance and Health,Education,Clean Water,Information Access. Citation p190 hỗ trợ đúng nhánh xám bên phải, không lẫn các lá Social Insurance."
+      }
+    },
+    "trace_sha256": "5a26a734723641160ea831befd939eff6bb9324dd6595691c7367e18ff965b1c",
+    "passed": true
+  },
+  "v2t10": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình B.7.1.1, trang 197: mũi tên cộng từ Consumer Income tới Final Income nhận in-kind transfers net of user fees; hai ngành health và education. Đúng chiều cộng và điều kiện trừ phí.",
+    "checked_original_pages": [
+      197
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p197-figure-B.7.1.1": {
+        "supported": true,
+        "reason": "Hình B.7.1.1, trang 197: mũi tên cộng từ Consumer Income tới Final Income nhận in-kind transfers net of user fees; hai ngành health và education. Đúng chiều cộng và điều kiện trừ phí."
+      }
+    },
+    "trace_sha256": "854da7a67c8c940e655a16d3b064f9d6a710484ea5223dfead34d17416cc7bc1",
+    "passed": true
+  },
+  "v2t11": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 8.1, trang 225, panel b: social insurance cần actuarially fair; phần equity chuyển sang tài trợ rộng hơn bằng general revenues. Đúng hai chú thích và vùng sơ đồ.",
+    "checked_original_pages": [
+      225
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p225-figure-8.1": {
+        "supported": true,
+        "reason": "Hình 8.1, trang 225, panel b: social insurance cần actuarially fair; phần equity chuyển sang tài trợ rộng hơn bằng general revenues. Đúng hai chú thích và vùng sơ đồ."
+      }
+    },
+    "trace_sha256": "e6871841d65a711ec87c0bee4457ba75be8725f1319408aaf1333ec4ef39296f",
+    "passed": true
+  },
+  "v2t12": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 2.1, trang 75: nhóm tuổi thành viên lớn nhất 60–69 có 2.5 triệu hộ năm 2010 và 4.6 triệu năm 2020, tăng 2.1 triệu. Đúng đơn vị hộ, điều kiện tuổi, màu teal 2010 và cam 2020.",
+    "checked_original_pages": [
+      75
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p075-figure-2.1": {
+        "supported": true,
+        "reason": "Hình 2.1, trang 75: nhóm tuổi thành viên lớn nhất 60–69 có 2.5 triệu hộ năm 2010 và 4.6 triệu năm 2020, tăng 2.1 triệu. Đúng đơn vị hộ, điều kiện tuổi, màu teal 2010 và cam 2020."
+      }
+    },
+    "trace_sha256": "f40ff2d57cfd8e9eb159360dac6e86a653a45022eb37299be8492af565c617d5",
+    "passed": true
+  },
+  "v2t14": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 2.7, trang 78: medium-skill cam tăng xấp xỉ 2,900 nghìn người; low-skill xám giảm xấp xỉ 3,100 nghìn trong 2015–2020. Đúng dấu và đơn vị; mức 3.1 triệu nằm trong dung sai mất 2.7–3.3 triệu đã khóa trước test.",
+    "checked_original_pages": [
+      78
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p078-figure-2.7": {
+        "supported": true,
+        "reason": "Hình 2.7, trang 78: medium-skill cam tăng xấp xỉ 2,900 nghìn người; low-skill xám giảm xấp xỉ 3,100 nghìn trong 2015–2020. Đúng dấu và đơn vị; mức 3.1 triệu nằm trong dung sai mất 2.7–3.3 triệu đã khóa trước test."
+      }
+    },
+    "trace_sha256": "cf412e791ba3aacda42ac7ae3fbd3c761067a18cc9b2b4e96043cca3d34f717a",
+    "passed": true
+  },
+  "v2t13": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 2.3, trang 76: tertiary từ 3.0 triệu hộ năm 2010 lên 4.7 triệu năm 2020, tăng 1.7 triệu. Đúng điều kiện là trình độ học vấn hoàn thành cao nhất của bất kỳ thành viên nào trong hộ; đã kiểm tra note dưới hình.",
+    "checked_original_pages": [
+      76
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p076-figure-2.3": {
+        "supported": true,
+        "reason": "Hình 2.3, trang 76: tertiary từ 3.0 triệu hộ năm 2010 lên 4.7 triệu năm 2020, tăng 1.7 triệu. Đúng điều kiện là trình độ học vấn hoàn thành cao nhất của bất kỳ thành viên nào trong hộ; đã kiểm tra note dưới hình."
+      }
+    },
+    "trace_sha256": "5fda29f0ce95e19ce85d35897b392e292950af33dc71e4a7915713af2a7dd6e9",
+    "passed": true
+  },
+  "v2t15": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 2.8, trang 79: đúng hai cột No contract, agriculture/fishing teal 56.2% năm 2010 xuống 40.4% năm 2020, giảm 15.8 điểm phần trăm. Không nhầm nhóm có hợp đồng hoặc tỷ lệ tương đối.",
+    "checked_original_pages": [
+      79
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p079-figure-2.8": {
+        "supported": true,
+        "reason": "Hình 2.8, trang 79: đúng hai cột No contract, agriculture/fishing teal 56.2% năm 2010 xuống 40.4% năm 2020, giảm 15.8 điểm phần trăm. Không nhầm nhóm có hợp đồng hoặc tỷ lệ tương đối."
+      }
+    },
+    "trace_sha256": "0ab50c51bf2c75a62e5127ec7b34b44899770e6719baf060e6e32fa06182378b",
+    "passed": true
+  },
+  "v2t16": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Hình 2.11, trang 82, panel A: poorest decile khoảng 3.3 nguồn thu, richest khoảng 2.9, trong dung sai đặt trước. Kết luận hộ giàu nhất không đa dạng hơn trên thước đo này là đúng; không nhầm số nguồn với triệu hộ hay phần trăm.",
+    "checked_original_pages": [
+      82
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p082-figure-2.11": {
+        "supported": true,
+        "reason": "Hình 2.11, trang 82, panel A: poorest decile khoảng 3.3 nguồn thu, richest khoảng 2.9, trong dung sai đặt trước. Kết luận hộ giàu nhất không đa dạng hơn trên thước đo này là đúng; không nhầm số nguồn với triệu hộ hay phần trăm."
+      }
+    },
+    "trace_sha256": "0dc7bd323935d00ece7a01c88b64818b682d7d2e1860bedf00ef9cf1cce791c0",
+    "passed": true
+  },
+  "v2t17": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 4.1 trang 132 và Bảng 4.2 trang 137: survival tuổi 15–60 toàn quốc .867, nam .813, nữ .924 năm 2020. Hiệu nữ–nam .111 = 11.1 điểm phần trăm; đủ hai trang và đúng cột/độ tuổi.",
+    "checked_original_pages": [
+      132,
+      137
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p132-table-4.1": {
+        "supported": true,
+        "reason": "Bảng 4.1 trang 132 và Bảng 4.2 trang 137: survival tuổi 15–60 toàn quốc .867, nam .813, nữ .924 năm 2020. Hiệu nữ–nam .111 = 11.1 điểm phần trăm; đủ hai trang và đúng cột/độ tuổi."
+      },
+      "p137-table-4.2": {
+        "supported": true,
+        "reason": "Bảng 4.1 trang 132 và Bảng 4.2 trang 137: survival tuổi 15–60 toàn quốc .867, nam .813, nữ .924 năm 2020. Hiệu nữ–nam .111 = 11.1 điểm phần trăm; đủ hai trang và đúng cột/độ tuổi."
+      }
+    },
+    "trace_sha256": "4d9730556a1fa7aa9dd9be0d06a9bf585405d545213c8ad3fa8670a9a3d32556",
+    "passed": true
+  },
+  "v2t18": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 7.1 trang 199: non-oil direct-tax CIT 202; Bảng 7.2 trang 200: Direct Transfers 40 nghìn tỷ đồng năm 2018. Phép trừ 162 đúng, citation phép tính có cả hai nguồn; không suy earmarking.",
+    "checked_original_pages": [
+      199,
+      200
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p199-table-7.1": {
+        "supported": true,
+        "reason": "Bảng 7.1 trang 199: non-oil direct-tax CIT 202; Bảng 7.2 trang 200: Direct Transfers 40 nghìn tỷ đồng năm 2018. Phép trừ 162 đúng, citation phép tính có cả hai nguồn; không suy earmarking."
+      },
+      "p200-table-7.2": {
+        "supported": true,
+        "reason": "Bảng 7.1 trang 199: non-oil direct-tax CIT 202; Bảng 7.2 trang 200: Direct Transfers 40 nghìn tỷ đồng năm 2018. Phép trừ 162 đúng, citation phép tính có cả hai nguồn; không suy earmarking."
+      }
+    },
+    "trace_sha256": "e2f9b6e67993f9842f8d93efd393f8d9e6455138bb61579f61f85d4c55c2ea47",
+    "passed": true
+  },
+  "v2t19": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Bảng 1.2 trang 48 cho UMIC 2020 18.3 triệu người nghèo; panel B Bảng 1.3 trang 49 cho annual gap 116.91 nghìn tỷ VND giá2020. Phép chia cho khoảng 6.39 triệu VND giá 2020/người/năm đúng và được ghi là ước tính; số đầu vào và đơn vị đầy đủ, có cả hai nguồn.",
+    "checked_original_pages": [
+      48,
+      49
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p048-table-1.2": {
+        "supported": true,
+        "reason": "Bảng 1.2 trang 48 cho UMIC 2020 18.3 triệu người nghèo; panel B Bảng 1.3 trang 49 cho annual gap 116.91 nghìn tỷ VND giá2020. Phép chia cho khoảng 6.39 triệu VND giá 2020/người/năm đúng và được ghi là ước tính; số đầu vào và đơn vị đầy đủ, có cả hai nguồn."
+      },
+      "p049-table-1.3": {
+        "supported": true,
+        "reason": "Bảng 1.2 trang 48 cho UMIC 2020 18.3 triệu người nghèo; panel B Bảng 1.3 trang 49 cho annual gap 116.91 nghìn tỷ VND giá2020. Phép chia cho khoảng 6.39 triệu VND giá 2020/người/năm đúng và được ghi là ước tính; số đầu vào và đơn vị đầy đủ, có cả hai nguồn."
+      }
+    },
+    "trace_sha256": "0677d70e7043bb16be8c4fee72c65e3f427542c2d832ab335b13b8e746af0708",
+    "passed": true
+  },
+  "v2t20": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang 75: trung bình 3.7 thành viên/hộ; hai ý bổ sung 26.7 triệu hộ và 2.2 người lớn/hộ năm 2020 cũng đúng nguyên bản. Trang220: module chi tiêu VHLSS có 9,000 quan sát, không đại diện cấp tỉnh. Citation tách đúng hai nguồn, đủ mọi ý.",
+    "checked_original_pages": [
+      75,
+      220
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p075": {
+        "supported": true,
+        "reason": "Trang 75: trung bình 3.7 thành viên/hộ; hai ý bổ sung 26.7 triệu hộ và 2.2 người lớn/hộ năm 2020 cũng đúng nguyên bản. Trang220: module chi tiêu VHLSS có 9,000 quan sát, không đại diện cấp tỉnh. Citation tách đúng hai nguồn, đủ mọi ý."
+      },
+      "p220": {
+        "supported": true,
+        "reason": "Trang 75: trung bình 3.7 thành viên/hộ; hai ý bổ sung 26.7 triệu hộ và 2.2 người lớn/hộ năm 2020 cũng đúng nguyên bản. Trang220: module chi tiêu VHLSS có 9,000 quan sát, không đại diện cấp tỉnh. Citation tách đúng hai nguồn, đủ mọi ý."
+      }
+    },
+    "trace_sha256": "c9f194b2047745cb145f24058d52be8e9ce0aa1168e3de971acccd4c48710c35",
+    "passed": true
+  },
+  "v2t21": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Box 8.2 trang 220: ODIN2020 hạng91/187; hai luật thống kê được đối chiếu là2015 và2003. Câu hỏi yêu cầu thứ hạng/mẫu số và hai năm, đã trả lời đủ; citation hỗ trợ toàn bộ.",
+    "checked_original_pages": [
+      220
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p220": {
+        "supported": true,
+        "reason": "Box 8.2 trang 220: ODIN2020 hạng91/187; hai luật thống kê được đối chiếu là2015 và2003. Câu hỏi yêu cầu thứ hạng/mẫu số và hai năm, đã trả lời đủ; citation hỗ trợ toàn bộ."
+      }
+    },
+    "trace_sha256": "bc680d7f082db5781843e9e31816ceb86fed97854281aff5391ca7779b8825f8",
+    "passed": true
+  },
+  "v2t22": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Box 2.4 trang 96: không phân biệt được thay đổi ở returns hay endowments; phương pháp không phải general equilibrium nên counterfactual không là cân bằng kinh tế, đóng góp chỉ phát hiện thay đổi phân phối chứ không là tác động nhân quả. Đúng đủ hai giới hạn và lý do.",
+    "checked_original_pages": [
+      96
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p096": {
+        "supported": true,
+        "reason": "Box 2.4 trang 96: không phân biệt được thay đổi ở returns hay endowments; phương pháp không phải general equilibrium nên counterfactual không là cân bằng kinh tế, đóng góp chỉ phát hiện thay đổi phân phối chứ không là tác động nhân quả. Đúng đủ hai giới hạn và lý do."
+      }
+    },
+    "trace_sha256": "0e779da4ef5703ca91d36a7c44b74d409c22cfb2e0d2dc24e6e13209f705c900",
+    "passed": true
+  },
+  "v2t23": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Trang200, đoạn education cột phải: tiền hộ trả và nhà trường nhận là co-payment/effectively tax, làm giảm lợi ích giáo dục ròng và đi vào hệ thống tài khóa. Tiền đồng phục/sách trả tư nhân bị loại vì không trả cho đơn vị công, ngoài fiscal system. Đúng cả hai cơ chế và điều kiện.",
+    "checked_original_pages": [
+      200
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p200": {
+        "supported": true,
+        "reason": "Trang200, đoạn education cột phải: tiền hộ trả và nhà trường nhận là co-payment/effectively tax, làm giảm lợi ích giáo dục ròng và đi vào hệ thống tài khóa. Tiền đồng phục/sách trả tư nhân bị loại vì không trả cho đơn vị công, ngoài fiscal system. Đúng cả hai cơ chế và điều kiện."
+      }
+    },
+    "trace_sha256": "729b7318a241bcc77ed3e8f31af58a9536070a7244b86217b1e84362c1f77554",
+    "passed": true
+  },
+  "v2t24": {
+    "answer_correct": true,
+    "citation_complete": true,
+    "abstention_correct": false,
+    "reason": "Box 6.3 trang 190: MPSARD được phê duyệt năm 2017; đề xuất áp dụng dần trợ cấp tiền mặt cho trẻ sơ sinh và trẻ dưới 4 tuổi. Đúng năm, nhóm tuổi và tính chất đề xuất/chia giai đoạn, không coi đó là kết quả triển khai đã đo.",
+    "checked_original_pages": [
+      190
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {
+      "p190": {
+        "supported": true,
+        "reason": "Box 6.3 trang 190: MPSARD được phê duyệt năm 2017; đề xuất áp dụng dần trợ cấp tiền mặt cho trẻ sơ sinh và trẻ dưới 4 tuổi. Đúng năm, nhóm tuổi và tính chất đề xuất/chia giai đoạn, không coi đó là kết quả triển khai đã đo."
+      }
+    },
+    "trace_sha256": "c564acc9e173bb7b5c1cc70329f66d0c54eed216e35004ef08e0e9607a0c0dfc",
+    "passed": true
+  },
+  "v2t25": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng vì không có p-value cho tác động nhân quả được hỏi. Đã đọc Box 2.4 trang 96: decomposition không cho tác động nhân quả; audit toàn bộ 232 trang không có p-value. Không bịa p-value hoặc coi đóng góp phân phối là causal estimate.",
+    "checked_original_pages": [
+      96
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "402aa30b6f03465a865be5e499f81bad47522933f09902de9ef4dfedd065ec16",
+    "passed": true
+  },
+  "v2t26": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng: báo cáo/Hình 2.12 không cung cấp covariance matrix của các thành phần thu nhập hộ. Trang84 là biểu đồ mức thu nhập và tỷ lệ hộ; tìm toàn bộ 232 trang không có covariance/correlation matrix. Không suy ma trận từ các giá trị biên.",
+    "checked_original_pages": [
+      84
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "7aac56f16a6215b5a49d7b372be9b4f7d0c76f48b220778ceadf3fbd7d903baa",
+    "passed": true
+  },
+  "v2t27": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng: Hình 8.1 trang 225 là sơ đồ khái niệm về khoảng trống an sinh và chính sách, không phải mã phần mềm thực thi hệ thống bảo hiểm. Không tạo code rồi gán cho báo cáo; mô tả thêm đúng nguồn.",
+    "checked_original_pages": [
+      225
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "3638cba9caba88778f580b007ec588c9e26fae1683ce1ae442df4c3316197e15",
+    "passed": true
+  },
+  "v2t28": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng và sửa tiền đề: Hình 6.5 trang 179 không có bản đồ nước sạch, là các bản đồ điều kiện/rủi ro môi trường. Không có danh sách latitude/longitude từng hộ. Nội dung phù hợp ghi nhận nguồn trước khi có output câu này; không thay câu hỏi hay quy tắc chấm.",
+    "checked_original_pages": [
+      179
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "9c861707ca750d43e524c5768709280a107ca519eb9ead87b06f5a959b24b032",
+    "passed": true
+  },
+  "v2t29": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng: Hình 6.5 trang 179 cho nhiệt độ,PM2.5,mưa,SPEI và nguy cơ ngập, không cho số DALY do PM2.5 của từng quận/huyện năm 2020. Toàn232 trang không có disability-adjusted/DALY. Không suy gánh nặng bệnh từ bản đồ phơi nhiễm.",
+    "checked_original_pages": [
+      179
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "3aaa9e399825825db65d92b222e017363b6f1bfed2e7169d4fe0df423ad94f99",
+    "passed": true
+  },
+  "v2t30": {
+    "answer_correct": false,
+    "citation_complete": false,
+    "abstention_correct": true,
+    "reason": "Từ chối đúng: Table 8.2 trang 222 khuyến nghị sửa curricula/pedagogical approach nhưng không ấn định ngày/tháng/năm triển khai theo luật. Đã đối chiếu đúng hàng và tìm toàn bộ 232 trang; không lấy năm trích dẫn tài liệu làm deadline.",
+    "checked_original_pages": [
+      222
+    ],
+    "reviewer": "Codex AI-assisted direct original-PDF inspection and source audit; student independent review pending",
+    "citation_checks": {},
+    "trace_sha256": "9605e00cbf1e8b26d7a2c10d02dd667cb630af6da061032cfcae876354dd21e3",
+    "passed": true
+  }
+}

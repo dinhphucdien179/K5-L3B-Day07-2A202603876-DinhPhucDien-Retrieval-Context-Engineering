@@ -1,0 +1,23 @@
+__pycache__/
+.venv/
+.env
+*.pyc
+
+.env.*
+!.env.example
+.DS_Store
+.pytest_cache/
+*.sqlite
+.vscode/
+.cache/
+# Include only the project directories at the repository root.
+/*/
+!/artifacts/
+!/assets/
+!/benchmark/
+!/data/
+!/docs/
+!/report/
+!/results/
+!/starter/
+!/.github/

@@ -1,0 +1,9 @@
+# Choose an environment name when creating it; no local paths are exported.
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - poppler
+  - pip:
+      - -r requirements.txt

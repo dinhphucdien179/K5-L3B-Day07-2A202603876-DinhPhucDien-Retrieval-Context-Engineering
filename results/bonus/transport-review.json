@@ -1,0 +1,38 @@
+{
+  "reviewed_utc": "2026-11-16T12:17:51.696421+00:00",
+  "failed_attempts": [
+    {
+      "run": "dev-gemini-06",
+      "case": "bd10",
+      "error": "Gemini HTTP 503: Model service temporarily unavailable or overloaded; retry later",
+      "attempt": 1,
+      "recovered_in_same_call": true
+    },
+    {
+      "run": "test-gemini-01",
+      "case": "bt15",
+      "error": "Gemini HTTP 503: Model service temporarily unavailable or overloaded; retry later",
+      "attempt": 1,
+      "recovered_in_same_call": true
+    },
+    {
+      "run": "test-gemini-01",
+      "case": "bt29",
+      "error": "Gemini HTTP 503: Model service temporarily unavailable or overloaded; retry later",
+      "attempt": 1,
+      "recovered_in_same_call": true
+    },
+    {
+      "run": "test-gemini-01",
+      "case": "bt30",
+      "error": "Gemini HTTP 503: Model service temporarily unavailable or overloaded; retry later",
+      "attempt": 1,
+      "recovered_in_same_call": true
+    }
+  ],
+  "dev_recovered_503_attempts": 1,
+  "test_recovered_503_attempts": 3,
+  "http_429_attempts": 0,
+  "connection_timeout_attempts": 0,
+  "clarification": "Earlier progress and selection reason used no API errors too broadly. There were no final case failures caused by the provider, but4 transient HTTP503 attempts were retried successfully. Selection remains frozen and unchanged; this audit corrects the description, not the run."
+}

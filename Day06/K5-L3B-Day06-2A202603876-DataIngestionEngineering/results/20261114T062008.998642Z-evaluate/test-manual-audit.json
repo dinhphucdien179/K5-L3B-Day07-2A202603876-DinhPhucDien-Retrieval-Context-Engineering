@@ -1,0 +1,377 @@
+[
+  {
+    "question_id": "q16",
+    "strategy": "A",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF77 nêu đầy đủ social insurance và unemployment insurance đi cùng job contract; đủ hai loại bảo hiểm và có nguồn/trang truy vết.",
+    "chunk_ids": [
+      "b5a349e51a0d4848bceb689e5d60efa028eea1058ef1349ec3781a4c75e3846b",
+      "765c655924e11fb8673d1de3663031235d2016ab706c8fe1b05344a7af6102fa",
+      "4ec96816e07c83dd9339fd5ba18c38c112b3ec97809e49f7dedb0fdd27bec1dd"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q16-A-r1",
+      "q16-A-r2",
+      "q16-A-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "9f5d66eb37d3",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q16",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF77 nêu đầy đủ social insurance và unemployment insurance đi cùng job contract. Hai kết quả còn lại không cần thiết cho câu trả lời.",
+    "chunk_ids": [
+      "87be17cca60bee42fde426881da8dc4efcca5299b7a38a1bc42122af93a54a45",
+      "ec40d5eaba3394fa4cc660392c6a4fd8ffa24d2cb96814c9d8957b9c00773e79",
+      "6d2243e7d023bb50a03fdd3fa9de1003ae197167c8c4bbb804aa8ac91301430f"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q16-B-r1",
+      "q16-B-r2",
+      "q16-B-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "8da9afbd17f9",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q16",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF77 nêu đầy đủ social insurance và unemployment insurance đi cùng job contract. Hai kết quả còn lại không cần thiết cho câu trả lời. C không nhận filter ở câu này nên trả cùng top-3 với B.",
+    "chunk_ids": [
+      "87be17cca60bee42fde426881da8dc4efcca5299b7a38a1bc42122af93a54a45",
+      "ec40d5eaba3394fa4cc660392c6a4fd8ffa24d2cb96814c9d8957b9c00773e79",
+      "6d2243e7d023bb50a03fdd3fa9de1003ae197167c8c4bbb804aa8ac91301430f"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q16-C-r1",
+      "q16-C-r2",
+      "q16-C-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "8da9afbd17f9",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q17",
+    "strategy": "A",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF83 giữ VHLSS thu nhập 12 tháng nhưng dừng ở ‘LFS records labor market activity ov’. Hai chunk còn lại không nêu khoảng 1 tháng của LFS; đúng trang chưa đủ trả lời phép so sánh.",
+    "chunk_ids": [
+      "6cac68a92f3f80a9276ef48d8334a4301986ce2b9b55ad578719adabaddb8096",
+      "fd0104be52ae10717b93bf9d8e0aac33c87bba02f37f3a1e7ac8b5a95b564888",
+      "a51be84577912c6a07da99addfa2f1c4cb27cb02dc4f7ce63d5f225bd8082b1a"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q17-A-r1",
+      "q17-A-r2",
+      "q17-A-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "e781a753c863",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q17",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF83 đã nêu đủ VHLSS ghi thu nhập 12 tháng và LFS ghi hoạt động thị trường lao động tháng gần nhất. Phần tiếp theo về loại thu nhập LFS loại trừ không cần để trả lời câu hỏi về kỳ hồi tưởng.",
+    "chunk_ids": [
+      "9d61117a2e5a3ba6d9eb4187dad25eb142ff8e394ba7fd8f7fb07db67040db7c",
+      "1da04669d27646d7638bc5cbeca369874e08225c677fca87711a278195dd3784",
+      "94695d42b4b93cf140c34ec3266556757348ae1ea67d3ecc978bcca2c09d5411"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q17-B-r1",
+      "q17-B-r2",
+      "q17-B-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "07108548a32a",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q17",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF83 đã nêu đủ VHLSS ghi thu nhập 12 tháng và LFS ghi hoạt động thị trường lao động tháng gần nhất. Phần tiếp theo về loại thu nhập LFS loại trừ không cần để trả lời câu hỏi về kỳ hồi tưởng. C không nhận filter ở câu này nên trả cùng top-3 với B.",
+    "chunk_ids": [
+      "9d61117a2e5a3ba6d9eb4187dad25eb142ff8e394ba7fd8f7fb07db67040db7c",
+      "1da04669d27646d7638bc5cbeca369874e08225c677fca87711a278195dd3784",
+      "94695d42b4b93cf140c34ec3266556757348ae1ea67d3ecc978bcca2c09d5411"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q17-C-r1",
+      "q17-C-r2",
+      "q17-C-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "07108548a32a",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q18",
+    "strategy": "A",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF89 đặt trợ cấp trong ngữ cảnh tiền mặt trực tiếp và giải thích mức trợ cấp giảm giá trị vì không được điều chỉnh theo lạm phát; đủ hiện tượng và nguyên nhân.",
+    "chunk_ids": [
+      "51a49da932e5bb268404f275806ff696bc9b3de146bbe9e0ef22ea919e54e2ab",
+      "96c3dfe9f0ab0aa8e4dc477e158bb04a0d9b6e601cc4093dffa9e4e33590f4a7",
+      "074ba595c2390e9a4159b5ad4ee58d199b47dbb2aa6c454f31e7830d8fbdc878"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q18-A-r1",
+      "q18-A-r2",
+      "q18-A-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "d78a84ab9f28",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q18",
+    "strategy": "B",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF89 nói mức trợ cấp thấp, phạm vi hạn chế và giảm giá trị nhưng bị cắt trước nguyên nhân không điều chỉnh theo lạm phát. Hai chunk trang91 nói về chương trình/đối tượng hỗ trợ, không bù nguyên nhân được hỏi.",
+    "chunk_ids": [
+      "ecc8957b674b19c8b32eac61e56f55b3685d3404071ff7a4b93addb8aaef2267",
+      "6f20895bb2cebf59e77cb155a6af4f651f3d6a2e6c1305c2162fd8e5ecfee962",
+      "3b7caf45f3754df252262dadaa95d4af29943069ae9d5757d116039aed602d4a"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q18-B-r1",
+      "q18-B-r2",
+      "q18-B-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "76aab9484a9b",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q18",
+    "strategy": "C",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF89 nói mức trợ cấp thấp, phạm vi hạn chế và giảm giá trị nhưng bị cắt trước nguyên nhân không điều chỉnh theo lạm phát. Hai chunk trang91 nói về chương trình/đối tượng hỗ trợ, không bù nguyên nhân được hỏi. C không nhận filter ở câu này nên trả cùng top-3 với B.",
+    "chunk_ids": [
+      "ecc8957b674b19c8b32eac61e56f55b3685d3404071ff7a4b93addb8aaef2267",
+      "6f20895bb2cebf59e77cb155a6af4f651f3d6a2e6c1305c2162fd8e5ecfee962",
+      "3b7caf45f3754df252262dadaa95d4af29943069ae9d5757d116039aed602d4a"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q18-C-r1",
+      "q18-C-r2",
+      "q18-C-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "76aab9484a9b",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q19",
+    "strategy": "A",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1/top-3 trang PDF91 giới thiệu phân rã và diễn biến nghèo. Top-2 trang94 nhắc wage growth thuộc nhóm nguồn thu quan trọng, nhưng đầu câu bị cắt và không kết luận rõ growth factors là kênh áp đảo trong phần lớn thập kỷ; bằng chứng liên quan còn thiếu.",
+    "chunk_ids": [
+      "ca9436cc0782c28742ccde508aef8f34906ae717bfad625145d2616c27c884e4",
+      "e207434d3d0f4a124a55d5af0929ca100048ce3eb5631517f2ffbf775077f7f3",
+      "0adb1bf5976d6d3ebc947df00a878cac9d454efc396a0abe175d9ba4648f65f6"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q19-A-r1",
+      "q19-A-r2",
+      "q19-A-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "f174dc553004",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q19",
+    "strategy": "B",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-2 trang PDF65 nêu rõ drivers of poverty reduction overwhelmingly attributable to growth factors throughout most of the decade. Mất từ dẫn ‘The’ không làm mất ý; top-3 trang92 hỗ trợ thêm vai trò thu nhập lao động giai đoạn2010–2020. Đủ đáp án dù không chứa nguyên quote gold.",
+    "chunk_ids": [
+      "d27cffcbcbde58463a4a0d68c3417373d794367dcaffd7a170eb5523630ef61f",
+      "1ef7aff5ede9d90249640776c0d8ae84e050cdb424cd68b0be7c03845b8543e6",
+      "a65ec5ab5fd36299831999259237257a5e1ba617e1bb459f5c914835e6a900fe"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q19-B-r1",
+      "q19-B-r2",
+      "q19-B-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "12001167adf7",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q19",
+    "strategy": "C",
+    "grounding_0_2": 2,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-2 trang PDF65 nêu rõ drivers of poverty reduction overwhelmingly attributable to growth factors throughout most of the decade. Mất từ dẫn ‘The’ không làm mất ý; top-3 trang92 hỗ trợ thêm vai trò thu nhập lao động giai đoạn2010–2020. Đủ đáp án dù không chứa nguyên quote gold. C không nhận filter ở câu này nên trả cùng top-3 với B.",
+    "chunk_ids": [
+      "d27cffcbcbde58463a4a0d68c3417373d794367dcaffd7a170eb5523630ef61f",
+      "1ef7aff5ede9d90249640776c0d8ae84e050cdb424cd68b0be7c03845b8543e6",
+      "a65ec5ab5fd36299831999259237257a5e1ba617e1bb459f5c914835e6a900fe"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q19-C-r1",
+      "q19-C-r2",
+      "q19-C-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "12001167adf7",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q20",
+    "strategy": "A",
+    "grounding_0_2": 0,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Các chunk trang PDF60/92 mô tả decomposition, tăng trưởng và phân phối lại nhưng không cung cấp kết luận về hiệu ứng nhân quả hoặc hạn chế general equilibrium. Không thể trả lời hai vế được hỏi chỉ từ top-3 này.",
+    "chunk_ids": [
+      "00c6be4607c5dde0083a62fd2fd4b8fbcebf037a2f679eb39c81a2b78a7534b6",
+      "d6fb5c96e062697fda1730f81f51c5714e94063121fbe3453ba6e727d8c50a8c",
+      "20db6938104d9393f9fce1dd4f5807020bb2370449c7ba53dac90bbab9a2d3e7"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q20-A-r1",
+      "q20-A-r2",
+      "q20-A-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "ec0aba9e0d04",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q20",
+    "strategy": "B",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": null,
+    "reason": "Top-1 trang PDF96 nêu các đóng góp không có causal effect mà dùng phát hiện distributional changes. Chunk bắt đầu ở ‘economic equilibrium’, mất mệnh đề phủ định và chủ thể counterfactual distributions. Hai chunk còn lại không nêu hạn chế phương pháp; đủ vế ‘không’, thiếu lời giải thích ‘vì sao’.",
+    "chunk_ids": [
+      "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+      "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+      "2cc56c00081d1b43b610391505a621712cf90e2eba96682b30512d5df80a5777"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q20-B-r1",
+      "q20-B-r2",
+      "q20-B-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "19163cd415bf",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  },
+  {
+    "question_id": "q20",
+    "strategy": "C",
+    "grounding_0_2": 1,
+    "metadata_correct_count": 3,
+    "filter_compliant": true,
+    "reason": "Top-1 trang PDF96 giữ kết luận không có causal effect nhưng mất giải thích về counterfactual distributions không phải economic equilibria. Filter chapter2 thay kết quả thứ ba bằng một chunk trang92 khác, vẫn không bổ sung hạn chế phương pháp.",
+    "chunk_ids": [
+      "3ae54e96b1302db27139b7579aa048821c1f64891ca0bc26538ab801aab3bda2",
+      "2144a5e67bd1b0ca9072583403e124c63f2cfc96b85a9a41aaadb73bbbf7647c",
+      "929090fd85654ae08bbf91a0fa6eaafb975d636a59b611fc1a3ad8c99e785fb5"
+    ],
+    "metadata_checked_count": 3,
+    "metadata_check_method": "programmatic comparison with corpus, native PDF and API snapshot",
+    "metadata_audit": "results/manual-review/test-metadata-audit.json",
+    "metadata_record_ids": [
+      "q20-C-r1",
+      "q20-C-r2",
+      "q20-C-r3"
+    ],
+    "filter_scope_note": "Only C applies pre-supplied filters; A/B and unfiltered C cases are N/A.",
+    "review_case_id": "5e247142919b",
+    "reviewer_type": "ai",
+    "human_confirmed": false
+  }
+]

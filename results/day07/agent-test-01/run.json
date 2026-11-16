@@ -1,0 +1,68 @@
+{
+  "split": "test",
+  "suite": "agent",
+  "trials": [
+    {
+      "name": "dense_baseline",
+      "method": "dense",
+      "index": "A",
+      "top_k": 5,
+      "budget": 6000,
+      "max_searches": 3,
+      "neighbors": 0,
+      "hypothesis": "Day06 dense index without context expansion is the baseline."
+    },
+    {
+      "name": "hybrid_neighbors1",
+      "method": "hybrid",
+      "index": "A",
+      "top_k": 5,
+      "budget": 6000,
+      "max_searches": 3,
+      "neighbors": 1,
+      "hypothesis": "One same-page neighbor on each side may restore definitions cut by 300-character windows."
+    }
+  ],
+  "selection_rule": "Prefer dev grounded-answer mean, then context evidence rate, then Evidence Hit@3; use cost/time to resolve ties. Inspect abstention and false abstention before freezing.",
+  "model": "openai/gpt-4o-mini",
+  "trials_sha256": "dff722d102d693b63c168272823ca3a4337ebd353d9b028310033e73c25e8a59",
+  "benchmark_freeze_sha256": "33ba2cc719051f338e42b63b70ad6eb6a00de8f174804da50b8bb24668bc7d24",
+  "index_identity": {
+    "chunking": {
+      "overlap": 30,
+      "fixed_size": 300,
+      "paragraph_max_size": 300
+    },
+    "embedding": {
+      "device": "cpu",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "max_seq_length": 128
+    },
+    "corpus_sha256": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+    "normalization": "NFC-paragraphs-code-v2",
+    "selection_rule": "Highest dev Evidence Hit@3, then dev Hit@1, then fewer stored chunks. Stable tie: A, B, C.",
+    "benchmark_sha256": "e9e8c1d5a6ca060a6f3407560fc5a6dd2382e2a88f632ab2406c6be2ca5e0a2c",
+    "resolved_embedding": {
+      "dtype": "float32",
+      "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "torch": "2.15.0+cpu",
+      "device": "cpu",
+      "provider": "sentence-transformers",
+      "revision": "e8f8c211226b894fcb81acc59f3b34ba3efd5f42",
+      "batch_size": 16,
+      "dimensions": 384,
+      "transformers": "5.23.0",
+      "max_seq_length": 128,
+      "native_threads": 4,
+      "normalize_embeddings": true,
+      "normalization_version": "NFC-paragraphs-code-v2",
+      "sentence_transformers": "5.7.0"
+    }
+  },
+  "context_metric": "complete normalized gold alternative in union of contiguous source intervals",
+  "ranking_metric": "one original chunk contains a complete gold alternative; same cutoff for all methods",
+  "annotation": "answer quality/citation support require review; no automatic semantic grading",
+  "workers": 3,
+  "timing_note": "per-query latency may include contention; total_seconds sums latencies, not wall clock"
+}

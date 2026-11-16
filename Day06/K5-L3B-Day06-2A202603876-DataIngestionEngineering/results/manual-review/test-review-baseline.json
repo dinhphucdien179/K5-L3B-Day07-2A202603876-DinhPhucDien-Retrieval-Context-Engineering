@@ -1,0 +1,19 @@
+{
+  "purpose": "Input identities captured before publishing review labels; verify these original benchmark inputs and outputs remain unchanged.",
+  "sha256": {
+    "data/pages.jsonl": "167f142686c819cf1bfb06f6e53cf5c4f147602a1dce6442de1d1dc5ea86daa1",
+    "data/manifest.json": "aaebdc7c84ba2dec209f3bd02bd706c3b08f6da7e748801d9a7b7d02b92fed47",
+    "data/sources.json": "c189fadcd5b8288fe2ec3c9638f352b798d86617697d73e917a6b4df659f70fd",
+    "data/corpus-spec.json": "50b952d5da5c20fd40feedf0e77eaf98d59fc67493785db868bcb239bc72c2bc",
+    "data/worldbank-api.json": "1e7ebc57bcabebce563c975761da0478f3ca5b7a564ad822f48bea70e3a222f8",
+    "benchmark/questions.json": "e9e8c1d5a6ca060a6f3407560fc5a6dd2382e2a88f632ab2406c6be2ca5e0a2c",
+    "benchmark/freeze.json": "a902f31846fe90480f399a58178c3b259bb91dbf73b83c9df5b4dce899a67098",
+    "benchmark/coherence_positions.json": "84abdb10ca80314fb2dcfe95602fc6043942e43bc6bf5ab7fcf8a5d9336e27f6",
+    "starter/config/pipeline.json": "a06ce0588f2d9243ac2d2b7b0a8c7ae2e6dba55010a4dcb4f45ecb31865ca4df",
+    "results/20261114T062008.998642Z-evaluate/test-traces.json": "1304c819a4b828343d70b342197ca7df8d8ae88683d00c5ce5a3d35361542cd8",
+    "results/20261114T062008.998642Z-evaluate/test-summary.json": "d20857be6ce81d136bfda4fc9f33bc48ce0b8fed43e45a73c6cfedbcd3b905ee",
+    "results/20261114T061838.368412Z-evaluate/dev-summary.json": "b8d82d9e282a89ddcd1bd1cccca1b30b12581062c093ca678a80faccd9836087",
+    "results/20261114T061734.896134Z-ingest/ingestion.json": "e5f9d5a1a23bbdf427d029fa28a3d851a7d9c1f6bfd1c83b7a1819c9f2760dbc",
+    "results/20261114T061838.368412Z-evaluate/dev-selection.json": "cc65282469429d680426f1601c478de3febcb387ce8a512fb42f31a2565c96e9"
+  }
+}

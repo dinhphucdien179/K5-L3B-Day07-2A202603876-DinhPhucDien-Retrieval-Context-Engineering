@@ -1,0 +1,85 @@
+[
+  {
+    "query_id": "t01",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ 50% → 44%,2010/2020. Neighbor còn giữ phần 1.7 million tertiary households; hai citations bổ sung nhau."
+  },
+  {
+    "query_id": "t02",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủgấp đôi và final context hỗ trợ formality/contract. Citation thứ hai chỉ ghi most foreign jobs formal/higher wages, không giữ đủ social insurance và phạm vi claim FDI đóng góp; đánh dấu thận trọng chưa đủ hỗ trợ các mệnh đề bổ sung."
+  },
+  {
+    "query_id": "t03",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đáp án 10% 2020 đúng và final context có điều kiện contracts. Nhưng citation duy nhất kết thúc wage jobs w, chưa tự hỗ trợ điều kiện with contracts được thêm vào câu trả lời; cần citation chunk tiếp nối khi sửa trong nghiên cứu tương lai."
+  },
+  {
+    "query_id": "t04",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Đủ 53.3% → 64.7% và hai năm; citation trực tiếp."
+  },
+  {
+    "query_id": "t05",
+    "answerable": true,
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Neighbor khôi phục 7% rural/1.5% urban 2020; ghép với 22%/4.5% 2010 đủ bốn tỷ lệ, không đổi corpus."
+  },
+  {
+    "query_id": "tu01",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ, không bịa tỷ lệ 2026 hoặc cận 95% CI. Tu 01 có nhắc 10% 2020 là dữ kiện được context hỗ trợ, không suy ra 2026; đối chiếu absence_reason toàn corpus."
+  },
+  {
+    "query_id": "tu02",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reviewer": "Codex AI-assisted reading of answer, context and source; student verification pending",
+    "reason": "Từ chối rõ, không bịa tỷ lệ 2026 hoặc cận 95% CI. Tu 01 có nhắc 10% 2020 là dữ kiện được context hỗ trợ, không suy ra 2026; đối chiếu absence_reason toàn corpus."
+  }
+]

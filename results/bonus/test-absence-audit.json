@@ -1,0 +1,28 @@
+{
+  "checked_utc": "2026-11-16T12:04:22.336928+00:00",
+  "scope": "All232 original page text records plus original source/topic image inspection.",
+  "keyword_matches": {
+    "2026": [],
+    "2027": [],
+    "BONUS-HH-993577": [],
+    "confidence": [
+      80
+    ],
+    "confidence interval": [],
+    "95%": [
+      127
+    ],
+    "95 percent": [
+      140,
+      198
+    ],
+    "standard error": [],
+    "Sydney": []
+  },
+  "reviewer": "Codex: AI-assisted, student verification pending.",
+  "manual_notes": [
+    "confidence hit on80 is business confidence, not an HCI interval;95-percent mentions about other indicators do not supply female2020HCI bounds. Table4.2 original137 has no interval columns.",
+    "Table1.1 original48 has no standard-error column, no standard error phrase in full corpus.",
+    "No2026census,2027observedaccounts,syntheticHHIDorSydneyinwhole-corpussearch. Nearby historical values/projections are not requested observations."
+  ]
+}
